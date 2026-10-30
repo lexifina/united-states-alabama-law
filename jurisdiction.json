@@ -1,0 +1,8 @@
+{
+  "path": "united-states/alabama",
+  "code": "US-AL",
+  "name": "United States (Alabama)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-alabama-law",
+  "build": "built"
+}

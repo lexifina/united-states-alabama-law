@@ -1,0 +1,61 @@
+{
+ "country": "US-AL",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Ala. Const.",
+   "title": "Constitution of Alabama (2022 recompilation)",
+   "url": "https://alison.legislature.state.al.us/constitution",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1123,
+     "source_url": "https://alison.legislature.state.al.us/constitution",
+     "sha256": "92e373c288f3432823521705736867cef5fcd6a83ad46e82155798de61b20d90"
+    }
+   ]
+  },
+  {
+   "slug": "title-13a",
+   "short": "Ala. Code 13A",
+   "title": "Code of Alabama 1975, Title 13A Criminal Code",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 860,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "3e733e7cdd8da57d805c1623d733f6c9415f0a67dca2d0b92a6896e8e603ab04"
+    }
+   ]
+  },
+  {
+   "slug": "title-10a",
+   "short": "Ala. Code 10A",
+   "title": "Code of Alabama 1975, Title 10A Alabama Business and Nonprofit Entities Code",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1506,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "50650dab1152333ddb47f3d60810e7571cfdbf84108f44b498591c1767445bb9"
+    }
+   ]
+  },
+  {
+   "slug": "title-35",
+   "short": "Ala. Code 35",
+   "title": "Code of Alabama 1975, Title 35 Property",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 847,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "90a7f71d2e8b7f26bfb532a964cde53230e23a659985d8736bda3c5801ab2ef5"
+    }
+   ]
+  }
+ ]
+}

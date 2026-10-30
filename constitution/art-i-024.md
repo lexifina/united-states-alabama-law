@@ -1,0 +1,2 @@
+# Section 24 Navigable Waters Declared Free Public Highways; Taxes, Tolls, Etc., for Use of Shores or Wharves.
+That all navigable waters shall remain forever public highways, free to the citizens of the state and the United States, without tax, impost, or toll; and that no tax, toll, impost, or wharfage shall be demanded or received from the owner of any merchandise or commodity for the use of the shores or any wharf erected on the shores, or in or over the waters of any navigable streams, unless the same be expressly authorized by law.

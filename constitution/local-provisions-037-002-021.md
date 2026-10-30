@@ -1,0 +1,2 @@
+# Section 37-2.21 Judicial Commission; Judge of Circuit Court; Jefferson County.
+Any vacancy occurring in the office of judge of the tenth judicial circuit comprised of Jefferson county only, which is required to be filled by appointment on nominations made by a judicial commission, shall be made within ninety days from the date of the submission of such nominations. In the event the governor fails to fill the vacancy from such nominations within such period, the appointment shall be made by the chief justice of the supreme court of Alabama.

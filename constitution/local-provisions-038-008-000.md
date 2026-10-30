@@ -1,0 +1,2 @@
+# Section 38-8.00 Constable Office Abolished.
+The office of constable in Lamar county, Alabama, may be abolished by a vote of a majority of the qualified electors of the county voting in a special election called by the county governing body to determine this issue; provided, however, that if a majority of the qualified electors of Lamar county who participate in the election held on the adoption of this amendment vote in favor thereof, no further election need be held.

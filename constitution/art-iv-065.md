@@ -1,0 +1,2 @@
+# Section 65 Lotteries and Gift Enterprises Prohibited.
+The legislature shall have no power to authorize lotteries or gift enterprises for any purposes, and shall pass laws to prohibit the sale in this state of lottery or gift enterprise tickets, or tickets in any scheme in the nature of a lottery; and all acts, or parts of acts heretofore passed by the legislature of this state, authorizing a lottery or lotteries, and all acts amendatory thereof, or supplemental thereto, are hereby avoided.

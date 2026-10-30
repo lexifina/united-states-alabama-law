@@ -1,0 +1,2 @@
+# Section 101 Lobbying in Legislature by State or County Officials.
+No state or county official shall, at any time during his term of office, accept, either directly or indirectly, any fee, money, office, appointment, employment, reward, or thing of value, or of personal advantage, or the promise thereof, to lobby for or against any measure pending before the legislature, or to give or withhold his influence to secure the passage or defeat of any such measure.

@@ -1,0 +1,4 @@
+# Section 279 Required of Members of Legislature and Executive and Judicial Officers; Form; Administration.
+All members of the legislature, and all officers, executive and judicial, before they enter upon the execution of the duties of their respective offices, shall take the following oath or affirmation:
+"I solemnly swear (or affirm, as the case may be) that I will support the Constitution of the United States, and the Constitution of the State of Alabama, so long as I continue a citizen thereof; and that I will faithfully and honestly discharge the duties of the office upon which I am about to enter, to the best of my ability. So help me God."
+The oath may be administered by the presiding officer of either house of the legislature, or by any officer authorized by law to administer an oath.

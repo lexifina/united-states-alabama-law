@@ -1,0 +1,2 @@
+# Section 2-11.80 Control of County Owned Property.
+In Baldwin County, the county commission may by resolution adopt ordinances related to the use and control of county owned public buildings, public parks, boat launches, and historic sites. The ordinances shall be adopted in the same manner and under the same conditions as municipalities in this state may adopt ordinances pursuant to general law except the penalties may not exceed the penalties authorized for a Class C misdemeanor pursuant to general law.

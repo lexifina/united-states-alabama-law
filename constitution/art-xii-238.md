@@ -1,0 +1,2 @@
+# Section 238 Authority of Legislature to Revoke Charters of Incorporation.
+The legislature shall have the power to alter, amend, or revoke any charter of incorporation now existing and revocable at the ratification of this Constitution, or any that may be hereafter created, whenever, in its opinion, such charter may be injurious to the citizens of this state, in such manner, however, that no injustice shall be done to the stockholders.

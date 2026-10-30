@@ -1,0 +1,3 @@
+# Section 3-2.20 Judge of Probate Compensation.
+(a) Effective October 1, 1997, the Judge of Probate of Barbour County shall receive compensation in the form of an annual salary in the amount provided by general or local law, which salary may be set from time to time by the Legislature. The salary paid in lieu of all other fees, allowances, and percentages heretofore provided by law, shall be paid in equal monthly installments out of the general fund in the county treasury.
+(b) All fees, commissions, allowances, percentages, and other charges collected for the use of the Judge of Probate of Barbour County shall continue to be collected, but shall be paid into the county general fund.

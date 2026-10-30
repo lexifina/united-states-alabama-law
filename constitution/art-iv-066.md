@@ -1,0 +1,2 @@
+# Section 66 Signature of Bills by Presiding Officer of Each House; Reading of Bills at Length May Be Dispensed With.
+The presiding officer of each house shall, in the presence of the house over which he presides, sign all bills and joint resolutions passed by the legislature, after the same shall have been publicly read at length immediately before signing, and the fact of reading and signing shall be entered upon the journal; but the reading at length may be dispensed with by a two-thirds vote of a quorum present, which fact shall also be entered on the journal.

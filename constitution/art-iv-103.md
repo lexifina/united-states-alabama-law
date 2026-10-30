@@ -1,0 +1,2 @@
+# Section 103 Regulation, Etc., of Common Carriers, Partnerships, Associations, Trusts, Monopolies and Combinations of Capital.
+The legislature shall provide by law for the regulation, prohibition, or reasonable restraint of common carriers, partnerships, associations, trusts, monopolies, and combinations of capital, so as to prevent them or any of them from making scarce articles of necessity, trade, or commerce, or from increasing unreasonably the cost thereof to the consumer, or preventing reasonable competition in any calling, trade, or business.

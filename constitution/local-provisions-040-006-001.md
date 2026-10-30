@@ -1,0 +1,2 @@
+# Section 40-6.01 Use of Funds from Operation of Landfills.
+Notwithstanding any other provision of law to the contrary, the Lawrence County Commission may use a portion of any funds or revenues from the operation and use of any landfill in the county, including, but not limited to, funds in or credited to its reserve account on the effective date of this amendment, for general county purposes, provided the county commission makes a determination that the funds are not needed for the operation and implementation of its solid waste disposal program.

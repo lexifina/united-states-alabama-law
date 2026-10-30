@@ -1,0 +1,2 @@
+# Section 22 Ex Post Facto Laws; Impairment of Obligations of Contracts; Irrevocable or Exclusive Grants of Special Privileges or Immunities.
+That no ex post facto law, nor any law, impairing the obligations of contracts, or making any irrevocable or exclusive grants of special privileges or immunities, shall be passed by the legislature; and every grant or franchise, privilege, or immunity shall forever remain subject to revocation, alteration, or amendment.

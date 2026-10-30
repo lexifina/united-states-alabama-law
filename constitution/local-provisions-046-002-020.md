@@ -1,0 +1,5 @@
+# Section 46-2.20 Judge of Probate Compensation.
+(a) The Judge of Probate of Marengo County shall receive compensation in the form of an annual salary which shall be calculated as provided by Chapter 2A of Title 11, Code of Alabama 1975.
+(b) All fees, commissions, allowances, percentages, and other charges heretofore collected for the use of the Judge of Probate of Marengo County shall continue to be collected by the judge of probate, but shall be paid into the county general fund.
+(c) The County Commission of Marengo County shall provide the judge of probate with office personnel, clerks and deputies, and with quarters, books, stationery, furniture, equipment, and other supplies necessary for the proper and efficient conduct of the office of the judge of probate. Compensation of the personnel shall be fixed by the county commission and shall be paid in equal monthly installments out of the General Fund of Marengo County.
+(d) The amendment to this amendment shall become effective beginning with the next term of office following ratification of the amendment.

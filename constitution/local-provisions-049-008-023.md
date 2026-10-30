@@ -1,0 +1,2 @@
+# Section 49-8.23 Investment of Policemen's and Fire Fighters' Pension Fund Capital and Income.
+The capital and income from any Policemen's and Fire Fighters' Pension Fund for a Class 2 municipality, may be invested in such kinds of investments and in accordance with such conditions as shall, from time to time, be authorized by law for the investment of the Alabama Heritage Trust Fund and the Alabama Trust Fund or any of the trust funds of either the Teachers' Retirement System of Alabama or the Employees' Retirement System of Alabama.

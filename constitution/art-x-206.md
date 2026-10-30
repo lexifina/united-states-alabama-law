@@ -1,0 +1,2 @@
+# Section 206 Homestead of Family Exempt from Payments of Debt After Death of Owner During Minority of Children.
+The homestead of a family, after the death of the owner thereof, shall be exempt from the payment of any debts contracted since the thirteenth day of July, eighteen hundred and sixty-eight, or after the ratification of this Constitution, in all cases, during the minority of the children.

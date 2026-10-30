@@ -1,0 +1,2 @@
+# Section 45-8.20 Participation of Sheriff's Employees.
+Effective the first day of the sixth month after ratification of this amendment, employees of the Office of the Sheriff of Madison County, except for the chief deputy, shall be under the authority of the Personnel Board of Madison County. The provisions of this amendment shall not affect the liability of the employees of the office of the Sheriff of Madison County.

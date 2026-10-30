@@ -1,0 +1,2 @@
+# Section 132 Qualifications of Attorney-General, State Auditor, Secretary of State, State Treasurer, and Commissioner of Agriculture and Industries.
+No person shall be eligible to the office of attorney-general, state auditor, secretary of state, state treasurer, or commissioner of agriculture and industries unless he shall have been a citizen of the United States at least seven years, and shall have resided in this state at least five years next preceding his election, and shall be at least twenty-five years old when elected.

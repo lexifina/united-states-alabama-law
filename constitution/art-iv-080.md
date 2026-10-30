@@ -1,0 +1,2 @@
+# Section 80 Bribery - Offer, Gift, Etc., of Money, Etc., to Executive or Judicial Officers or Members of Legislature to Influence Official Acts.
+Any person who shall, directly or indirectly, offer, give, or promise any money, or thing of value, testimonial, privilege, or personal advantage, to any executive or judicial officer or member of the legislature to influence him in the performance of any of his public or official duties, shall be guilty of bribery, and be punished in such manner as may be provided by law.

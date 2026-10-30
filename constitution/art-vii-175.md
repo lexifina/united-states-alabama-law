@@ -1,0 +1,2 @@
+# Section 175 County Officers, and Officers of an Incorporated City or Town.
+A county officer and officer of an incorporated city or town may be tried for impeachment for any of the causes specified in Section 173 and upon conviction be removed from office by a court having jurisdiction to try felony cases in the county or circuit in which the officer holds his or her office. The Legislature shall provide by law the method of proceeding under this section, provided the right to trial by jury and appeal in such cases shall be secured.

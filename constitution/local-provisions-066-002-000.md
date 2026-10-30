@@ -1,0 +1,3 @@
+# Section 66-2.00 General Authority.
+The legislature may from time to time, by general, special or local laws, fix, regulate and alter the costs and charges of courts in the county of Wilcox and the method of distribution thereof.
+The provisions of this constitutional amendment shall not be implemented in Wilcox county until implementation is approved by a vote of a majority of the qualified electors of Wilcox county voting in an election called by the county governing body to determine said issue; provided, however, that if a majority of the qualified electors of Wilcox county who participate in the election held on the adoption of this amendment vote in favor thereof, no further election need be held.

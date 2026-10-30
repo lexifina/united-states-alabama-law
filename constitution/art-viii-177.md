@@ -1,0 +1,4 @@
+# Section 177 Suffrage and Elections.
+(a) Only a citizen of the United States who has attained the age of eighteen years and has resided in this state and in a county thereof for the time provided by law, if registered as provided by law, shall have the right to vote in the county of his or her residence. The Legislature may prescribe reasonable and nondiscriminatory requirements as prerequisites to registration for voting. The Legislature shall, by statute, prescribe a procedure by which eligible citizens can register to vote.
+(b) No person convicted of a felony involving moral turpitude, or who is mentally incompetent, shall be qualified to vote until restoration of civil and political rights or removal of disability.
+(c) The Legislature shall by law provide for the registration of voters, absentee voting, secrecy in voting, the administration of elections, and the nomination of candidates.

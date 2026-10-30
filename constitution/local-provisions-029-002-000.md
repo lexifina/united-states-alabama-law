@@ -1,0 +1,7 @@
+# Section 29-2.00 West Alabama Children's Advocacy Center.
+Section I.
+In the 24th Judicial Circuit, consisting of Fayette County, Lamar County, and Pickens County, in addition to any court costs and fees now or hereafter authorized in cases in the circuit and district courts, an additional fee of five dollars ($5) shall be charged and collected by the clerk of the court on each case filed in the circuit.
+Section II.
+The clerk of the respective court shall collect the fee in the same manner as other costs in the court and shall remit the fee to the West Alabama Children's Advocacy Center on a monthly basis to be used by the center for abuse victims in the circuit.
+Section III.
+If the boundaries of the 24th Judicial Circuit change, the filing fee imposed by this amendment shall remain in effect for the Counties of Fayette, Lamar, and Pickens, unless altered by a subsequent amendment to this constitution.

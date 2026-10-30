@@ -1,0 +1,2 @@
+# Section 211 Property Taxes to Be Assessed in Exact Proportion to Value of Property.
+All taxes levied on property in this state shall be assessed in exact proportion to the value of such property, but no tax shall be assessed upon any debt for rent or hire of real or personal property, while owned by the landlord or hirer during the current year of such rental or hire, if such real or personal property be assessed at its full value.

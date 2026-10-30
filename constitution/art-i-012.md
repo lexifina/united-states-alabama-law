@@ -1,0 +1,2 @@
+# Section 12 Prosecutions for Libel or for Publication of Papers Investigating Official Conduct of Public Officers.
+That in all prosecutions for libel or for the publication of papers investigating the official conduct of officers or men in public capacity, or when the matter published is proper for public information, the truth thereof may be given in evidence; and that in all indictments for libel, the jury shall have the right to determine the law and the facts under the direction of the court.

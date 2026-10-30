@@ -1,0 +1,2 @@
+# Section 52 Quorum in Each House.
+A majority of each house shall constitute a quorum to do business; but a smaller number may adjourn from day to day and compel the attendance of absent members, in such manner and under such penalties as each house may provide.

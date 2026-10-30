@@ -1,0 +1,2 @@
+# Section 59A-2.00 Appointment of Board of Education.
+Commencing upon the expiration of the terms of office of the members of the Pell City Board of Education in St. Clair County serving on January 1, 2024, the members of the board shall be appointed as provided by general law. The appointed members shall be qualified electors who reside within the Pell City School Attendance Zone and Tax District established in Section 59-10.21, with at least two of those members being appointed from the county portion of the Pell City School Attendance Zone and Tax District.

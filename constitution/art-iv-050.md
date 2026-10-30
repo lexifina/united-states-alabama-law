@@ -1,0 +1,2 @@
+# Section 50 Number of Senators and Representatives; Apportionment of Legislators.
+The legislature shall consist of not more than thirty-five senators, and not more than one hundred and five members of the house of representatives, to be apportioned among the several districts and counties, as prescribed in this Constitution; provided that in addition to the above number of representatives, each new county hereafter created shall be entitled to one representative.

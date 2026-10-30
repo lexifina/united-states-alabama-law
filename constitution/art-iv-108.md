@@ -1,0 +1,2 @@
+# Section 108 Suspension of General Laws for Benefit of Individuals or Private Corporations; Exemption of Individuals or Private Corporations from Operation of General Laws.
+The operation of a general law shall not be suspended for the benefit of any individual, private corporation, or association; nor shall any individual, private corporation or association be exempted from the operation of any general law except as in this article otherwise provided.

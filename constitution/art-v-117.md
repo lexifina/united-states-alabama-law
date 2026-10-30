@@ -1,0 +1,2 @@
+# Section 117 Qualifications of Governor and Lieutenant Governor; Lieutenant Governor Ex Officio President of Senate.
+The governor and lieutenant governor shall each be at least thirty years of age when elected, and shall have been citizens of the United States ten years and resident citizens of this state at least seven years next before the date of their election. The lieutenant governor shall be ex officio president of the senate, but shall have no right to vote except in the event of a tie.

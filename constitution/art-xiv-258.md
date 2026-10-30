@@ -1,0 +1,2 @@
+# Section 258 Property Donated or Appropriated for Educational Purposes and Estates of Persons Dying Without Will or Heirs to Be Applied to Furtherance of Education.
+All lands or other property given by individuals, or appropriated by the state for educational purposes, and all estates of deceased persons who die without leaving a will or heir, shall be used or applied to the furtherance of education.

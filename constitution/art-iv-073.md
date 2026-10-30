@@ -1,0 +1,2 @@
+# Section 73 Appropriations to Charitable or Educational Institutions Not Under Absolute Control of State.
+No appropriation shall be made to any charitable or educational institution not under the absolute control of the state, other than normal schools established by law for the professional training of teachers for the public schools of the state, except by a vote of two-thirds of all the members elected to each house.

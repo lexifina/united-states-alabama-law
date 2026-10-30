@@ -1,0 +1,3 @@
+# Section 44-10.20 Special Tax for Educational Purposes.
+The legislature may authorize the levy and collection of a ten mill ad valorem tax in Macon county, in addition to all other taxes now or hereafter authorized by the Constitution and laws of Alabama, on real and personal property that is subject to such tax under the laws of this state, for public education purposes.
+The tax authorized by this amendment shall not be levied in Macon county until it is approved by a vote of the electorate of said county or unless a majority of the qualified electors of Macon county who vote at the statewide election called for the submission of this amendment shall approve it.

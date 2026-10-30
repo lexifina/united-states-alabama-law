@@ -1,0 +1,3 @@
+# Section 49-3.10 Investment of Municipal and County Funds.
+The terms "municipal funds" and "county funds" as used in this amendment shall include all general, special, permanent, trust and other funds, regardless of source or purpose, held or administered by Mobile county, any city or town in Mobile county, or by any officer or agency thereof.
+In addition to any investments or obligations provided for by general law, any municipal or county funds not needed for other purposes may be invested in the procurement of secured repurchase agreements, secured commercial paper and secured banker's acceptance, invested overnight and invested in higher yield rates of return for more flexible maturities.

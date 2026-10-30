@@ -1,0 +1,2 @@
+# Section 3-2.00 Compensation of Certain Officials.
+The legislature may from time to time, by general or local laws, fix, alter and regulate the costs and charges of courts in Barbour county, and regulate the fees, commissions, percentages, allowances, and compensation to be charged or received by the probate judge and the sheriff of Barbour county, and may place the sheriff on a salary basis and provide for the fees charged or collected by him to be paid into the county treasury from which his salary shall be paid.

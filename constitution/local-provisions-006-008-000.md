@@ -1,0 +1,2 @@
+# Section 6-8.00 Certain Public Officials.
+The legislature may by general or local laws, fix, alter, and regulate the fees, commissions, percentages, allowances, and compensation, and the method or basis of fixing the compensation to be charged or received by the tax assessor and the tax collector of Bullock county, and may put such officers on a salary basis and provide that the fees, commissions, percentages, and allowances payable to such officers according to law shall be paid into the county treasury.

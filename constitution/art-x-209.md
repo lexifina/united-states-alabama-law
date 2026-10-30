@@ -1,0 +1,2 @@
+# Section 209 Property Rights of Females; Property of Wife Not Liable for Debts, Etc., of Husband.
+The real and personal property of any female in this state, acquired before marriage, and all property, real and personal, to which she may afterwards be entitled by gift, grant, inheritance, or devise, shall be and remain the separate estate and property of such female, and shall not be liable for any debts, obligations, or engagements of her husband, and may be devised or bequeathed by her, the same as if she were a femme sole.

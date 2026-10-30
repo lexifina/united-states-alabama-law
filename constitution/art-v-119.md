@@ -1,0 +1,2 @@
+# Section 119 Increase in Salary of Governor at Session of Legislature Following Ratification of Constitution.
+If the legislature, at the session next after the ratification of this Constitution, shall enact a law increasing the salary of the governor, such increase shall become effective and apply to the first governor elected after the ratification of this Constitution, if the legislature shall so determine.

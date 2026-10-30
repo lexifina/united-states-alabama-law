@@ -1,0 +1,2 @@
+# Section 49-8.22 Health Insurance Plan for Retired Employees.
+The Mobile county commission may, from time to time by resolution duly adopted and spread upon its minutes, provide for a comprehensive health insurance plan for retired county employees. If such plan is so adopted, the Mobile county commission shall determine the extent of coverage of such plan and shall prescribe rules and regulations governing participation in such plan.

@@ -1,0 +1,2 @@
+# Section 114 Governor, Lieutenant Governor, Attorney-General, State Auditor, Secretary of State, State Treasurer, and Commissioner of Agriculture and Industries - How Elected; When Election Held.
+The governor, lieutenant governor, attorney-general, state auditor, secretary of state, state treasurer, and commissioner of agriculture and industries shall be elected by the qualified electors of the state at the same time and places appointed for the election of members of the legislature in the year nineteen hundred and two, and in every fourth year thereafter.

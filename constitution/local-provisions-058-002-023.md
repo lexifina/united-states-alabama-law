@@ -1,0 +1,2 @@
+# Section 58-2.23 Judge of Probate Vacancies.
+In the event of a vacancy in the office of the Judge of Probate of Shelby County, the vacancy shall be filled from nominations to the Governor by the Shelby County Judicial Commission established by Section 58-2.21 pursuant to the same procedures provided in Section 58-2.21 for filling a vacancy in the office of a judge of the circuit or district court in the county.

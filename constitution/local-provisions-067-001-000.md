@@ -1,0 +1,2 @@
+# Section 67-1.00 Prohibition Against Legislative Action.
+The legislature shall not pass a special or local law affecting Winston county or any city, town, village, district, or other such political subdivision of the county, unless the operation of such law shall be approved by a vote of the duly qualified electors of such county, city, town, village, district, or other political subdivision of the county, at an election held for such purpose, in the manner prescribed by such law.

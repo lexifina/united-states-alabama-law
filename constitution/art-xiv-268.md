@@ -1,0 +1,2 @@
+# Section 268 Provision for Taking School Census.
+The legislature shall provide for taking a school census by townships and districts throughout the state not oftener than once in two years, and shall provide for the punishment of all persons or officers making false or fraudulent enumerations and returns; provided, the state superintendent of education may order and supervise the taking of a new census in any township, district, or county, whenever he may have reasonable cause to believe that false or fraudulent returns have been made.

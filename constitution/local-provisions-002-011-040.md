@@ -1,0 +1,2 @@
+# Section 2-11.40 General Provisions.
+In Baldwin County, the Legislature may not enact a local law annexing to a municipality any territory that is separated from the annexing municipality by a body of water or separated from the annexing municipality by an interstate highway and not contiguous and connected to the municipality by a publicly owned and maintained underpass, overpass, or exchange allowing toll-free two-way access to and from the annexing municipality unless the annexation is subject to approval at a referendum election in the territory to be annexed.

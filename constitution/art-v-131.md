@@ -1,0 +1,2 @@
+# Section 131 Military Powers of Governor.
+The governor shall be commander-in-chief of the militia and volunteer forces of this state, except when they shall be called into the service of the United States, and he may call out the same to execute the laws, suppress insurrection, and repel invasion, but need not command in person unless directed to do so by resolution of the legislature; and when acting in the service of the United States, he shall appoint his staff, and the legislature shall fix his rank.

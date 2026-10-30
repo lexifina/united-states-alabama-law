@@ -1,0 +1,2 @@
+# Section 59-6.00 Solid Waste Disposal Fee.
+The St. Clair county governing body shall levy and impose a fee of not less than sixty dollars per ton on out-of-state solid waste, as defined by general law, disposed of at any commercial disposal site in the county. Said governing body is hereby authorized to implement such rules and regulations as it deems necessary to impose and collect such disposal fees and the proceeds of such fees shall be deposited in the county treasury to be expended for the general operations of the county.

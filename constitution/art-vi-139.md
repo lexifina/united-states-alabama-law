@@ -1,0 +1,3 @@
+# Section 139 Judicial Power.
+(a) Except as otherwise provided by this Constitution, the judicial power of the state shall be vested exclusively in a unified judicial system which shall consist of a supreme court, a court of criminal appeals, a court of civil appeals, a trial court of general jurisdiction known as the circuit court, a trial court of limited jurisdiction known as the district court, a probate court and such municipal courts as may be provided by law.
+(b) The legislature may create judicial officers with authority to issue warrants and may vest in administrative agencies established by law such judicial powers as may be reasonably necessary as an incident to the accomplishment of the purposes for which the agencies are created.

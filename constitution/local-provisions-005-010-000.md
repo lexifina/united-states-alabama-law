@@ -1,0 +1,2 @@
+# Section 5-10.00 Consolidation of Offices; Revenue Commissioner.
+The legislature may from time to time, by general or local law, provide for the abolition of the offices of tax assessor and tax collector of Blount county and create a completely new office in such county and transfer to such office the duties of each of the said offices of tax assessor and tax collector in such county; provided that the officer to fill the newly created office will be compensated for the performance of the duties of said office by a salary fixed according to law.

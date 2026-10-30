@@ -1,0 +1,2 @@
+# Section 280 Holding State and Federal Office at Same Time; Holding Two State Offices at Same Time.
+No person holding an office of profit under the United States, except postmasters, whose annual salaries do not exceed two hundred dollars, shall, during his continuance in such office, hold any office of profit under this state; nor, unless otherwise provided in this Constitution, shall any person hold two offices of profit at one and the same time under this state, except justices of the peace, constables, notaries public, and commissioner of deeds.

@@ -1,0 +1,3 @@
+# Section 32-8.00 Certain Public Officials.
+Amendment No. 236 of the Constitution of 1901, relating to the compensation of certain officers of Greene county, is hereby repealed.
+The provisions of this constitutional amendment shall not be implemented in Greene county until implementation is approved by a vote of a majority of the qualified electors of Greene county voting in an election called by the county governing body to determine said issue; provided, however, that if a majority of the qualified electors of Greene county who participate in the election held on the adoption of this amendment vote in favor thereof, no further election need be held.

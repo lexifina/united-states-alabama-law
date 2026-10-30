@@ -1,0 +1,2 @@
+# Section 45-10.22 Repeal of Exemptions from Certain School Taxes.
+All exemptions authorized by section 40-9-19, Code of Alabama 1975, as amended, against that portion of any local ad valorem taxes levied on any property situated in Madison county that upon collection has the proceeds thereof earmarked for public school purposes are hereby repealed and such exemptions shall no longer be granted against said portion of such local taxes.

@@ -1,0 +1,2 @@
+# Section 2-8.20 Sheriff's Personnel Board; Participation.
+No later than the first day of the sixth month after ratification of this amendment, employees of the Office of the Sheriff of Baldwin County, except for the chief deputy, chief corrections officer, chief civil deputy, financial officer, and personnel officer, shall be under the authority of the Baldwin County Sheriff's Personnel Board. The provisions of this amendment shall not affect the liability of the employees of the Office of the Sheriff of Baldwin County.

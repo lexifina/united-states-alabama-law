@@ -1,0 +1,2 @@
+# Section 63-3.20 Hours of Polling Places.
+Every polling place in Tuscaloosa County shall be open for voting on election day for any local, state, or national election at 7:00 A.M. and shall close at 7:00 P.M. The Tuscaloosa County Commission shall provide funds from the county general fund for any additional compensation needed for poll workers required to work the extended hours required by this amendment.

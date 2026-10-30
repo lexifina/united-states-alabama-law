@@ -1,0 +1,2 @@
+# Section 223 Limitation on Assessments for Public Improvements by Municipal Corporations.
+No city, town, or other municipality shall make any assessment for the cost of sidewalks or street paving, or for the cost of the construction of any sewers against property abutting on such street or sidewalk so paved, or drained by such sewers, in excess of the increased value of such property by reason of the special benefits derived from such improvements.

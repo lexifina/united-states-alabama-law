@@ -1,0 +1,3 @@
+# Section 142 Circuit Court.
+(a) The state shall be divided into judicial circuits. For each circuit, there shall be one circuit court having such divisions and consisting of such number of judges as shall be provided by law.
+(b) The circuit court shall exercise general jurisdiction in all cases except as may otherwise be provided by law. The circuit court may be authorized by law to review decisions of state administrative agencies and decisions of inferior courts. It shall have authority to issue such writs as may be necessary or appropriate to effectuate its powers, and shall have such other powers as may be provided by law.

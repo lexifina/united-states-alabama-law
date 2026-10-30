@@ -1,0 +1,2 @@
+# Section 28-8.40 Sheriff's Personnel Board; Participation.
+No later than the first day of the sixth month after ratification of this amendment, employees of the Office of the Sheriff of Etowah County, except for the chief deputy, chief of detention, chief of administration, chief of investigation, director of communications, and food service manager, shall be under the authority of the personnel board of the office of the sheriff. The provisions of this amendment shall not affect the liability of the employees of the Office of the Sheriff of Etowah County.

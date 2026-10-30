@@ -1,0 +1,6 @@
+# Section 52-10.03 Distribution of Simplified Seller Use Tax for Public School and Fire Protection Purposes.
+(a) After Morgan County retains five percent of the gross proceeds for administrative purposes, the remaining proceeds of the simplified seller use tax distributed to Morgan County pursuant to Section 40-23-197 of the Code of Alabama 1975, shall be allocated by the county commission each fiscal year and distributed on a monthly basis, as follows:
+(1) Eighty-five percent of the remaining proceeds shall be allocated to the county and city boards of education in the county for public school purposes based on the proportion that the average daily membership of each school system in the county during the first 20 scholastic days after Labor Day of the preceding school year bears to the total average daily membership of all school systems in Morgan County for the preceding school year.
+(2) Thirteen and one-half percent of the remaining proceeds shall be allocated to the Morgan County Board of Education for public school purposes.
+(3) One and one-half percent of the remaining proceeds shall be distributed to the certified volunteer fire departments in the county for fire protection purposes with each volunteer fire department receiving an equal share.
+(b) This amendment shall apply retroactively to October 1, 2019.

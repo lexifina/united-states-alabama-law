@@ -1,0 +1,2 @@
+# Section 162 Designation of Circuit Solicitor as District Attorney.
+The solicitor or prosecuting officer who prosecutes criminal cases for the state in each judicial circuit of Alabama as provided for in article 6, section 167 of this Constitution shall hereafter be designated and known as the district attorney. Wherever the words circuit solicitor or words of like import are used in any law of this state they shall be taken to mean the district attorney, unless the context in which such words are used requires a different meaning.

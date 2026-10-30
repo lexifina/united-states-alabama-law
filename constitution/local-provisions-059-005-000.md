@@ -1,0 +1,3 @@
+# Section 59-5.00 . Elections.
+(a) The office of St. Clair County Superintendent of Education, if elected, shall be elected by the qualified electors of St. Clair County who are served by the St. Clair County Board of Education, excluding those qualified electors who reside within the Pell City School Attendance Zone and Tax District established in Section 59-10.21.
+(b) The members of the St. Clair County Board of Education shall be elected by the qualified electors of St. Clair County who are served by the St. Clair County Board of Education, excluding those qualified electors who reside within the Pell City School Attendance Zone and Tax District established in Section 59-10.21.

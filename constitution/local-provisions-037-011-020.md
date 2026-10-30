@@ -1,0 +1,2 @@
+# Section 37-11.20 Sewer Service.
+In Jefferson County, notwithstanding any other provision of this constitution, any bill for sewer service received in the name of the tenant or tenants shall be the sole responsibility of the tenant or tenants and shall not constitute a lien on the property where the sewer service was received. This amendment shall not be interpreted to impair the obligation of any contract entered into before the effective date of the amendment.

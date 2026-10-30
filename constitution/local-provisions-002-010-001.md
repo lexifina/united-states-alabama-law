@@ -1,0 +1,6 @@
+# Section 2-10.01 Senior Citizen Property Tax Appraisals.
+(a) In Baldwin County, a qualified taxpayer may claim a senior property tax appraisal on his or her ad valorem taxes. A qualified taxpayer shall meet all of the following requirements to be eligible for the senior property tax appraisal:
+(1) Be age 65 or older for the tax year for which he or she claims the senior property tax appraisal.
+(2) Have been assessed ad valorem taxes on any property within the county used as a principal place of residence for at least 10 years prior to the year for which he or she is claiming the senior property tax appraisal.
+(b) The senior property tax appraisal provided for herein shall freeze the assessed value of the property for the year prior to claiming the senior property tax appraisal. The recipient of the senior property tax appraisal shall be subject to any applicable homestead exemption and millage rate changes. Any addition to the property after claiming the senior property tax appraisal shall not be eligible for the senior property tax appraisal.
+(c) The Alabama Department of Revenue shall promulgate the rules as are necessary for the implementation and administration of the provisions of this amendment.

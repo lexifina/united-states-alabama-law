@@ -1,0 +1,4 @@
+# Section 41-11.20 Lee County Municipalities.
+(a) In Lee County, the police jurisdiction and planning and zoning authority of any municipality located partially within Lee County with the exception of the municipality of Notasulga shall not extend beyond the corporate limits of the municipality. This amendment shall affect the authority of a municipality located partially within Lee County only in Lee County.
+(b) This amendment shall not become effective unless approved at a referendum by a majority of the qualified electors of Lee County voting on the proposition. The referendum shall be held at the same time as the election for the ratification of this amendment, as provided for in Section 2 of this act, and no further election shall be required.
+(c) The provisions of this amendment restricting the planning and zoning authority of any municipality affected by the amendment shall expire on June 30, 1997.

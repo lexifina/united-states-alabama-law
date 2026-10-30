@@ -1,0 +1,2 @@
+# Section 49-8.24 Participation of Sheriff's Employees.
+Effective the first day of the sixth month after ratification of this amendment, employees of the Office of the Sheriff of Mobile County, except for all appointed or contract employees, shall be under the authority of the Personnel Board of Mobile County. The provisions of this amendment shall not affect the legal status of the sheriff's deputies as state constitutional officers and shall not abrogate or limit in any way any immunity from liability they enjoy pursuant to that status.

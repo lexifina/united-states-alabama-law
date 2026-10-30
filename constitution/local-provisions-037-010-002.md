@@ -1,0 +1,7 @@
+# Section 37-10.02 Senior Citizen Property Tax Exemption.
+(a) In Jefferson County, a person age 65 or over may claim a senior property tax exemption for ad valorem tax purposes on real property in the county owned by the person and classified as single-family owner-occupied residential property and used as the principal place of residence of the person for not less than five years immediately prior to the tax year for which the person first claims the senior property tax exemption. The senior property tax exemption shall freeze the assessed value of the property for the year immediately prior to claiming the exemption. The taxpayer shall continue to be eligible for the senior property tax exemption as long as the taxpayer continues to use the property as his or her principal place of residence.
+(b) The following provisions shall apply to the person claiming the senior property tax exemption:
+(1) The person shall continue to be eligible to claim a homestead exemption and any other exemption authorized by law on the property.
+(2) The property shall continue to be subject to any millage rate changes on the property.
+(3) The assessed value of any additions to the property after claiming the senior property tax exemption shall be added to the assessed value of the property and subject to ad valorem tax based on the increase in the assessed value of the addition after the taxpayer claims the senior property tax exemption.
+(c) The Department of Revenue may adopt any rules necessary to implement the purpose and intent of this amendment.

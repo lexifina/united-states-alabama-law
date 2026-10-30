@@ -1,0 +1,5 @@
+# Section 39A-2.00 Tax for Educational Purposes.
+Section 1.
+The court of county commissioners or other like governing body of Lauderdale county may levy and collect a special tax at a rate not exceeding one-half of one percent on the value of the taxable property within the city of Florence, the proceeds of which shall be used exclusively for public school purposes, but shall not be used for or pledged to the payment of bonds or warrants, by the board of education of the city of Florence or its successor in function, provided the rate of such tax, the time it is to continue and the purpose thereof shall have been first submitted to the vote of the qualified electors of the city and voted for by a majority of those voting at such election.
+Section 2.
+Elections may be called, held and conducted pursuant to this amendment in accordance with general laws providing for and regulating elections on district school taxes authorized by Sections 269.01 through 269.03, but subsequent elections thereon may be held at intervals of not less than two years.

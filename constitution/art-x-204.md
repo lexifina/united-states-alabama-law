@@ -1,0 +1,2 @@
+# Section 204 Personal Property of Value of One Thousand Dollars Exempt from Sale, Execution or Other Process of Court Issued for Collection of Debt.
+The personal property of any resident of this state to the value of one thousand dollars, to be selected by such resident, shall be exempt from sale or execution, or other process of any court, issued for the collection of any debt contracted since the thirteenth day of July, eighteen hundred and sixty-eight or after the ratification of this Constitution.

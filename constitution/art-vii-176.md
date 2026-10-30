@@ -1,0 +1,2 @@
+# Section 176 Limitation on Impeachment Penalties; Accused Person Liable to Indictment and Punishment.
+The penalties in cases arising under this article [does] not extend beyond removal from office, and disqualifications from holding office, under the authority of this state, for the term for which the officer was elected or appointed; but the accused shall be liable to indictment and punishment as prescribed by law.

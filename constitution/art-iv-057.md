@@ -1,0 +1,2 @@
+# Section 57 Doors of Each House to Be Open; Exceptions; Restrictions on Admittance to Floor.
+The doors of each house shall be opened except on such occasions as, in the opinion of the house, may require secrecy, but no person shall be admitted to the floor of either house while the same is in session, except members of the legislature, the officers and employees of the two houses, the governor and his secretary, representatives of the press, and other persons to whom either house, by unanimous vote, may extend the privileges of its floor.

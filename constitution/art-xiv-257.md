@@ -1,0 +1,2 @@
+# Section 257 Principal from Sale, Etc., of School Property to Be Preserved; Disposition of Income Therefrom.
+The principal of all funds arising from the sale or other disposition of lands or other property, which has been or may hereafter be granted or entrusted to this state or given by the United States for educational purposes shall be preserved inviolate and undiminished; and the income arising therefrom shall be faithfully applied to the specific object of the original grants or appropriations.

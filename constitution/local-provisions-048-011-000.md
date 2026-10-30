@@ -1,0 +1,2 @@
+# Section 48-11.00 Fire Protection Purposes.
+The legislature may prescribe by local law for Marshall county for forest fire protection in the county and may authorize the county governing body to further promote and provide for tax on acreage, on a basis other than ad valorem, therefore. The legislature may provide for the manner for levying and collecting such assessments and the distribution thereof. The legislature may further provide for the administration of such forest fire protection promotion.

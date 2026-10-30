@@ -1,0 +1,2 @@
+# Section 53-8.20 Certain Public Officials.
+The Legislature, from time to time, by general or local laws applicable to or operative in Perry County, may fix, regulate, and alter the fees, commissions, allowances, and salaries, including the method and basis of compensation, to be charged or received by the sheriff of the county; and may place the sheriff on a salary and provide for the fees, commissions, allowances, and percentages collectible by the sheriff, to be paid into the county treasury.

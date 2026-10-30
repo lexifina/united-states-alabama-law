@@ -1,0 +1,2 @@
+# Section 220 Consent of Municipal Corporation Prerequisite to Use of Public Property for Public Utility or Private Enterprise Purposes.
+No person, firm, association, or corporation shall be authorized or permitted to use the streets, avenues, alleys, or public places of any city, town, or village for the construction or operation of any public utility or private enterprise, without first obtaining the consent of the proper authorities of such city, town, or village.

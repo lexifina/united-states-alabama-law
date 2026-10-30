@@ -1,0 +1,4 @@
+# Section 58-9.01 Use of Low Speed Vehicles.
+(a) As used in this amendment, the term "low-speed vehicle" means a four-wheeled motor vehicle with a top speed of not greater than 25 miles per hour, which has a gross vehicle weight rating of less than 3,000 pounds, and is certified as complying with the applicable federal safety standards, including 49 C.F.R. § 571.500, as amended.
+(b)(1) The governing body of a municipality in Shelby County, by ordinance, may authorize and regulate the operation of low-speed vehicles on certain public roads within the corporate limits of the municipality, as determined by the governing body of the municipality.
+(2) The Shelby County Commission, by resolution, may authorize and regulate the operation of low-speed vehicles on certain public roads in the unincorporated portions of the county, as determined by the county commission.

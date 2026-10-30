@@ -1,0 +1,2 @@
+# Section 37-11.40 Lien for Failure to Pay Fee.
+In Jefferson County, notwithstanding any other provision of this Constitution, any bill for residential garbage service from the county, a municipality in the county, or a local governmental entity received in the name of the tenant or tenants shall be the sole responsibility of the tenant or tenants and shall not constitute a lien on the property where the garbage service was received. This amendment shall not be interpreted to impair the obligation of any contract entered into before the effective date of the amendment.

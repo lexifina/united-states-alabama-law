@@ -1,0 +1,2 @@
+# Section 45-8.00 Certain Public Officials.
+The legislature may from time to time, by general or local laws, fix, alter, and regulate the fees, commissions, percentages, costs, allowances, and compensation to be charged or received by the judge of probate or any other officer of Madison county, and may place such officer on a salary, and provide that the fees, commissions, percentages, costs, and allowances collected by such officer shall be paid into the county treasury from which his salary shall be paid.

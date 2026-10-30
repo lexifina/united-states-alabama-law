@@ -1,0 +1,2 @@
+# Section 11-8.20 Participation of Sheriff's Employees.
+The Legislature, by local law applicable only in Chilton County, may provide for the establishment of a civil service merit system for employees of the Office of Sheriff of Chilton County, including deputy sheriffs, county law enforcement officers, radio operators, jailers, and any other support personnel who work for the sheriff, except for the chief deputy.

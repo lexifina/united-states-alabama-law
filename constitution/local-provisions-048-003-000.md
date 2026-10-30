@@ -1,0 +1,2 @@
+# Section 48-3.00 Hours of Polling Places.
+Every polling place in Marshall County shall be open for voting on election day for any local, state, or national election at 7:00 A.M. and shall not close until 7:00 P.M. and shall remain open for voting for not less than 12 consecutive hours. The Marshall County Commission shall provide funds from the county general fund for any additional compensation needed for poll workers required to work the extended hours required by this amendment.

@@ -1,0 +1,2 @@
+# Section 36-8.01 Mayors; Participation in RSA.
+In Jackson County, the mayors of municipalities in the county may participate in the Employees' Retirement System of Alabama under the same terms and conditions as other employees in the same retirement system. Any mayor holding office on November 5, 2024, shall be eligible to purchase service credit in the Employees' Retirement System for the time the official has served in the current office. No person may participate in both a supernumerary program and the Employees' Retirement System based on the same service.

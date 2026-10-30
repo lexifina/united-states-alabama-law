@@ -1,0 +1,2 @@
+# Section 63 Number of Readings for Bills; Recordation of Votes on Bills; Majority Vote Required for Passage of Bills.
+Every bill shall be read on three different days in each house, and no bill shall become a law, unless on its final passage it be read at length, and the vote be taken by yeas and nays, the names of the members voting for and against the same be entered upon the journals, and a majority of each house be recorded thereon as voting in its favor, except as otherwise provided in this Constitution.

@@ -1,0 +1,3 @@
+# Section 58A-4.00 Ad Valorem Tax for City General Fund.
+In the city of Alabaster in Shelby county, in addition to any and all other taxes heretofore levied, the municipal governing body is authorized to levy an additional ad valorem tax on personal and real property in an amount not to exceed 10 mills on each dollar of taxable property. Said tax shall be designated for the city general fund. Such additional tax shall be retroactive to the tax due as of October 1, 1973, and each year thereafter. The additional ad valorem tax imposed by this Act shall be collected at the same time and in the same manner as existing ad valorem taxes are collected.
+No vote by the electorate shall be necessary after the passage of this amendment to implement its provisions.

@@ -1,0 +1,2 @@
+# Section 227 Liability of Public Utilities in Municipal Corporations for Damages to Abutting Property Owners.
+Any person, firm, association, or corporation, who may construct or operate any public utility along or across the public streets of any city, town, or village, under any privilege or franchise permitting such construction or operation, shall be liable to abutting proprietors for the actual damage done to the abutting property on account of such construction or operation.

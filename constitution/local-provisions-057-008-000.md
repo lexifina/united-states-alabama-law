@@ -1,0 +1,3 @@
+# Section 57-8.00 Certain Public Officials.
+The legislature may from time to time, by general or local laws, fix, alter and regulate the costs and charges of the probate courts in Russell county, and the fees, commissions, percentages, allowances and compensation of any officer of Russell county, and shall be authorized to place any such officer on a salary and to provide for the fees, commissions, percentages or allowances collectible by such officer to be paid into the treasury from which his salary is paid.
+The legislature is further authorized and empowered to delegate to the Russell county governing body its authority to regulate the salaries of county officers other than members of the county governing body.

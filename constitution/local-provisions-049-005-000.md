@@ -1,0 +1,2 @@
+# Section 49-5.00 Sixteenth Section School Lands.
+The legislature shall have power to divest the state of Alabama of title to that certain sixteenth section of school lands described as follows: section 16, township 4 south, range 2 west, St. Stephens meridian, in Mobile county, and may provide for the grant of such lands and the income therefrom to the board of trustees of the University of South Alabama.

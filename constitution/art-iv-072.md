@@ -1,0 +1,2 @@
+# Section 72 Payment of Money Out of State Treasury; Publication of Annual Statement of Receipts and Expenditures.
+No money shall be paid out of the treasury except upon appropriations made by law, and on warrant drawn by the proper officer in pursuance thereof; and a regular statement and account of receipts and expenditures of all public moneys shall be published annually, in such manner as may be by law directed.

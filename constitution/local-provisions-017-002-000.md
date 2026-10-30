@@ -1,0 +1,2 @@
+# Section 17-2.00 Compensation of Certain Officials.
+The legislature may hereafter, from time to time, by general or local laws, fix, regulate, and alter the costs and charges of courts, and the fees, commissions, percentages, allowances, or salaries to be charged or received by any officer of Colbert county, including the method and basis of fixing and paying their compensation; provided, that no county officer's compensation shall be increased or diminished during the term for which he shall have been elected or appointed.

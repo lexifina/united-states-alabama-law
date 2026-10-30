@@ -1,0 +1,6 @@
+# Section 124 Authority of Governor to Grant Reprieves and Commutations to Persons Under Sentence of Death; Legislature to Regulate Administration of Pardons, Paroles, Remission of Fines and Forfeitures, Suspension of Sentences and Probation; Pardon Not Relief from Civil and Political Disabilities Unless Specifically Provided.
+(a)(1) The Governor may grant reprieves and commutations to persons under sentence of death.
+(2) The power to grant a reprieve or commutation under subdivision (1) shall not be exercised until the Governor has notified the Attorney General and has made reasonable efforts to notify a designated member of the victim's family, whose mailing address, e-mail, and phone number have been provided to the Governor by the Attorney General for this purpose.
+(3) Failure to provide the required notification under subdivision (2) shall void the reprieve or commutation, and the Attorney General may seek a new execution order from the Alabama Supreme Court as provided under existing law.
+(b) The Legislature may provide for and regulate the administration of pardons, paroles, remission of fines and forfeitures, and may authorize the courts having criminal jurisdiction to suspend sentence and to order probation.
+(c) No pardon shall relieve a person from civil and political disabilities unless specifically expressed in the pardon.

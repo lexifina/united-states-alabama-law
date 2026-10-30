@@ -1,0 +1,2 @@
+# Section 25A-2.02 Work Release for City Prisoners.
+Notwithstanding any other provision of law, the City of Ft. Payne in DeKalb County may use prisoners confined in the city jail to perform work on public and private property and the city shall be subject to liability for any actions related to the use of the prisoners in the same manner and to the same extent as when county prisoners confined in the county jail are used to work on public or private property.

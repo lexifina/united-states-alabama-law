@@ -1,0 +1,2 @@
+# Section 267 Change of Location of Alabama Polytechnic Institute, Alabama Schools for the Deaf and Blind or Alabama Girls Industrial School.
+The legislature shall not have power to change the location of the state university, or the Alabama Polytechnic Institute, or the Alabama Schools for the Deaf and Blind, or the Alabama Girls" Industrial School, as now established by law, except upon a vote of two-thirds of the legislature taken by yeas and nays and entered upon the journals.

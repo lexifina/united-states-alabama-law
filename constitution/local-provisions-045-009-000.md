@@ -1,0 +1,2 @@
+# Section 45-9.00 Control of Dangerous Dogs.
+The Madison County Commission, by resolution applicable to those areas of Madison County outside the corporate limits of any municipality, may establish a procedure by which a dog can be declared dangerous, may impose civil penalties on the owner of a dog that inflicts severe personal harm on another person, and may require that dangerous dogs, as defined by the commission, be kept in a fenced enclosure, as defined by the commission, with input from the local humane society.

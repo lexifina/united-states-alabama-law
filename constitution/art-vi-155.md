@@ -1,0 +1,2 @@
+# Section 155 Retirement.
+The legislature shall provide by law for the retirement of judges, including supernumerary judges, with such conditions, retirement benefits, and pensions for them and their dependents as it may prescribe. No person shall be elected or appointed to a judicial office after reaching the age of seventy years, provided that a judge over the age of seventy may be appointed to the office of supernumerary judge if he is not eligible to receive state judicial retirement benefits.

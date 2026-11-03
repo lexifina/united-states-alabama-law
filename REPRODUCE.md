@@ -37,20 +37,35 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-17` | Code of Alabama 1975, Title 17 Elections | 1 | 2026-11-03 to 2026-11-03 |
 | `title-18` | Code of Alabama 1975, Title 18 Eminent Domain | 1 | 2026-11-03 to 2026-11-03 |
 | `title-19` | Code of Alabama 1975, Title 19 Fiduciaries and Trusts | 1 | 2026-11-03 to 2026-11-03 |
+| `title-20` | Code of Alabama 1975, Title 20 Food, Drugs and Cosmetics | 1 | 2026-11-03 to 2026-11-03 |
+| `title-21` | Code of Alabama 1975, Title 21 Handicapped Persons | 1 | 2026-11-03 to 2026-11-03 |
+| `title-22` | Code of Alabama 1975, Title 22 Health, Mental Health, and Environmental Control | 1 | 2026-11-03 to 2026-11-03 |
+| `title-23` | Code of Alabama 1975, Title 23 Highways, Roads, Bridges and Ferries | 1 | 2026-11-03 to 2026-11-03 |
+| `title-24` | Code of Alabama 1975, Title 24 Housing | 1 | 2026-11-03 to 2026-11-03 |
+| `title-25` | Code of Alabama 1975, Title 25 Industrial Relations and Labor | 1 | 2026-11-03 to 2026-11-03 |
+| `title-26` | Code of Alabama 1975, Title 26 Infants and Incompetents | 1 | 2026-11-03 to 2026-11-03 |
+| `title-27` | Code of Alabama 1975, Title 27 Insurance | 1 | 2026-11-03 to 2026-11-03 |
+| `title-28` | Code of Alabama 1975, Title 28 Intoxicating Liquor, Malt Beverages and Wine | 1 | 2026-11-03 to 2026-11-03 |
+| `title-29` | Code of Alabama 1975, Title 29 Legislature | 1 | 2026-11-03 to 2026-11-03 |
+| `title-30` | Code of Alabama 1975, Title 30 Marital and Domestic Relations | 1 | 2026-11-03 to 2026-11-03 |
+| `title-31` | Code of Alabama 1975, Title 31 Military Affairs and Civil Defense | 1 | 2026-11-03 to 2026-11-03 |
+| `title-32` | Code of Alabama 1975, Title 32 Motor Vehicles and Traffic | 1 | 2026-11-03 to 2026-11-03 |
+| `title-33` | Code of Alabama 1975, Title 33 Navigation and Watercourses | 1 | 2026-11-03 to 2026-11-03 |
+| `title-34` | Code of Alabama 1975, Title 34 Professions and Businesses | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 22 commits:
+The build made 37 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 22 | first version of an act |
+| 37 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 22 laws in the record.
-- 22 tags.
+- 37 laws in the record.
+- 37 tags.
 
 ## Dates
 
@@ -62,7 +77,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `927f60d0209f050ad443d095b6635bebb764436d096ed0f792aef91a6be08968` (29684898 bytes).
+- Corpus: sha256 `fa7bc525a092f304ae810f7f684fc1791b1044672df68330e8d6dd75219a5b3c` (47369486 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -78,7 +93,7 @@ No second build of this corpus has been compared yet.
 - Every text has one version, "oldest version available", dated from the retrieval day and credited to the publisher; the site publishes no dated point-in-time history for these titles.
 - Sections that carry an effective or supersession date (future or superseded wording) are left out of this first build.
 - Source histories, notes and annotations are not included; only statute text.
-- Wave 3 (2026-11-03): every other Code of Alabama title in this part is added, one act per title, parsed as in the first build (rows carrying an effective or supersession date are left out: 28).
+- Wave 3 (2026-11-03): every other Code of Alabama title in this part is added, one act per title, parsed as in the first build (rows carrying an effective or supersession date are left out: 98).
 - Each new title is dated by the retrieval day (2026-11-03) and credited to the publisher as the oldest version available, so its current wording is never dated before its latest amendment took effect.
 
 ## What AI did and did not do

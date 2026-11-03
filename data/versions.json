@@ -308,6 +308,216 @@
      "sha256": "789e924d8b23f4e643e088725b91839d9d72364cc6fa1b5b732d7d3e23fe60db"
     }
    ]
+  },
+  {
+   "slug": "title-20",
+   "short": "Ala. Code 20",
+   "title": "Code of Alabama 1975, Title 20 Food, Drugs and Cosmetics",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 243,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "62821d27f42c5390778526fafe0c06f609b141a0aa0aa503d6ded3ee9937f592"
+    }
+   ]
+  },
+  {
+   "slug": "title-21",
+   "short": "Ala. Code 21",
+   "title": "Code of Alabama 1975, Title 21 Handicapped Persons",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 116,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "de73ea71023741169aaf3c77bdd7147d93f51b32e4094fc0a0284ed92502f0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-22",
+   "short": "Ala. Code 22",
+   "title": "Code of Alabama 1975, Title 22 Health, Mental Health, and Environmental Control",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1656,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "53750f582595c3a39adccca09a6deddbfec3c271f16250c28848d9cd949f11ac"
+    }
+   ]
+  },
+  {
+   "slug": "title-23",
+   "short": "Ala. Code 23",
+   "title": "Code of Alabama 1975, Title 23 Highways, Roads, Bridges and Ferries",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 359,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "398108a3537eecc329dde152dc773b10fac20be9d7d8b304ae522142d73820d9"
+    }
+   ]
+  },
+  {
+   "slug": "title-24",
+   "short": "Ala. Code 24",
+   "title": "Code of Alabama 1975, Title 24 Housing",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 233,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "a42cb23beff82da390eaf9690c1d6c6b5fa418e9a59ecd6265749d41e740f5ad"
+    }
+   ]
+  },
+  {
+   "slug": "title-25",
+   "short": "Ala. Code 25",
+   "title": "Code of Alabama 1975, Title 25 Industrial Relations and Labor",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 591,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "30d769a6fc5ff897d8d0ad9233ac9a641bbd7301ad8d2e880dfb9830d52f3838"
+    }
+   ]
+  },
+  {
+   "slug": "title-26",
+   "short": "Ala. Code 26",
+   "title": "Code of Alabama 1975, Title 26 Infants and Incompetents",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 729,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "a86d151ef86995dd01add42749d90ec4678e52d733ba9c318e303f8750d88d97"
+    }
+   ]
+  },
+  {
+   "slug": "title-27",
+   "short": "Ala. Code 27",
+   "title": "Code of Alabama 1975, Title 27 Insurance",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1542,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "f63667349817b44cc25661399ee9ef847d8fbb170ada3bb9f7c742e29fce41a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28",
+   "short": "Ala. Code 28",
+   "title": "Code of Alabama 1975, Title 28 Intoxicating Liquor, Malt Beverages and Wine",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 468,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "dff7e476e62e8f0f23b87008f3e470f9ab75a0422a2e6a7fd64fda0177655621"
+    }
+   ]
+  },
+  {
+   "slug": "title-29",
+   "short": "Ala. Code 29",
+   "title": "Code of Alabama 1975, Title 29 Legislature",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 271,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "373947bbe2f1faa4d20c443d9f1bf759753018893cb57e2b25d5f40280d3db3f"
+    }
+   ]
+  },
+  {
+   "slug": "title-30",
+   "short": "Ala. Code 30",
+   "title": "Code of Alabama 1975, Title 30 Marital and Domestic Relations",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 468,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "f52c4ad96c18d689c4dc0799b2fc0bc36bc64f707dff381a701287ac5b25ae4b"
+    }
+   ]
+  },
+  {
+   "slug": "title-31",
+   "short": "Ala. Code 31",
+   "title": "Code of Alabama 1975, Title 31 Military Affairs and Civil Defense",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 586,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "977b8419b1a4c9b50e1d1bed593330b0f5ac232191150d6aef56612a0a06432c"
+    }
+   ]
+  },
+  {
+   "slug": "title-32",
+   "short": "Ala. Code 32",
+   "title": "Code of Alabama 1975, Title 32 Motor Vehicles and Traffic",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 955,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "b1404ac32ca0f9736a4bbd6d4da02ca3da455400d3ee80258e25ad61a58d7d58"
+    }
+   ]
+  },
+  {
+   "slug": "title-33",
+   "short": "Ala. Code 33",
+   "title": "Code of Alabama 1975, Title 33 Navigation and Watercourses",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 527,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "593998bad42cefd4d5ab964ef160a38b85393b1dfbb654f19a4d392d326b64b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-34",
+   "short": "Ala. Code 34",
+   "title": "Code of Alabama 1975, Title 34 Professions and Businesses",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1980,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "2f22cbb3381f2ef8b7a76265bfeb2ee6a3f153d7532ae1412a49dfc103197c11"
+    }
+   ]
   }
  ]
 }

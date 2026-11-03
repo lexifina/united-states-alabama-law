@@ -644,6 +644,20 @@
      "sha256": "880b00ed4f749e6b636cd8d4e6fb44cdf34f4082d44c5b8613a104323555e208"
     }
    ]
+  },
+  {
+   "slug": "title-45",
+   "short": "Ala. Code 45",
+   "title": "Code of Alabama 1975, Title 45 Local Laws",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11080,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "e15f24c16675a3ac91d89e2741ca776ebaeda71a896e8d6879e8eb5d980b935d"
+    }
+   ]
   }
  ]
 }

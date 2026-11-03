@@ -56,6 +56,104 @@
      "sha256": "90a7f71d2e8b7f26bfb532a964cde53230e23a659985d8736bda3c5801ab2ef5"
     }
    ]
+  },
+  {
+   "slug": "title-1",
+   "short": "Ala. Code 1",
+   "title": "Code of Alabama 1975, Title 1 General Provisions",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 84,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "fd80279db7363fd741219fa9da547568f02c054ba2f64e1965b8303e79196fbb"
+    }
+   ]
+  },
+  {
+   "slug": "title-2",
+   "short": "Ala. Code 2",
+   "title": "Code of Alabama 1975, Title 2 Agriculture",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1215,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "d38e56793c68502056975fc5fccb66d1381f299f5f590f9a577e9785a150ac29"
+    }
+   ]
+  },
+  {
+   "slug": "title-3",
+   "short": "Ala. Code 3",
+   "title": "Code of Alabama 1975, Title 3 Animals",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 105,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "2f6b648aa5f693f18a99b30d05fa684539326c82d282c0e89a63b4866093afdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-4",
+   "short": "Ala. Code 4",
+   "title": "Code of Alabama 1975, Title 4 Aviation",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 177,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "879ffabd92fb1d6235c4ef89bbac21df007f84bc966408afa9bcb0aa28d1e908"
+    }
+   ]
+  },
+  {
+   "slug": "title-5",
+   "short": "Ala. Code 5",
+   "title": "Code of Alabama 1975, Title 5 Banks and Financial Institutions",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 627,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "dd8a5f7a750ad9587912b0b4a97ba75331ea374b64ad2af2530f4daad72155d3"
+    }
+   ]
+  },
+  {
+   "slug": "title-6",
+   "short": "Ala. Code 6",
+   "title": "Code of Alabama 1975, Title 6 Civil Practice",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 907,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "cf4075a4452060eee72a67c9de2ba3427c102da98b3e16beafc4be5624a564f6"
+    }
+   ]
+  },
+  {
+   "slug": "title-7",
+   "short": "Ala. Code 7",
+   "title": "Code of Alabama 1975, Title 7 Commercial Code",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 739,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "0344e1686fea4d12802f826986c01b3a33b63a3f28f003ecca9b41b1e9dc9b24"
+    }
+   ]
   }
  ]
 }

@@ -154,6 +154,160 @@
      "sha256": "0344e1686fea4d12802f826986c01b3a33b63a3f28f003ecca9b41b1e9dc9b24"
     }
    ]
+  },
+  {
+   "slug": "title-8",
+   "short": "Ala. Code 8",
+   "title": "Code of Alabama 1975, Title 8 Commercial Law and Consumer Protection",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1042,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "2d26d12ca2857ecfa202e2cb67403ed4941df5386ac69654091f54e062dbe32c"
+    }
+   ]
+  },
+  {
+   "slug": "title-9",
+   "short": "Ala. Code 9",
+   "title": "Code of Alabama 1975, Title 9 Conservation and Natural Resources",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1301,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "70298b40fc485a0a9eec6a7fac1db02aedcd7a74030c8d606a1e482abb8c36d6"
+    }
+   ]
+  },
+  {
+   "slug": "title-10",
+   "short": "Ala. Code 10",
+   "title": "Code of Alabama 1975, Title 10 Corporations, Partnerships, and Associations",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 955,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "d812e9804beaec062707873f4fee129b0f66c551e2f57f6489aa231b67bbbf3f"
+    }
+   ]
+  },
+  {
+   "slug": "title-11",
+   "short": "Ala. Code 11",
+   "title": "Code of Alabama 1975, Title 11 Counties and Municipal Corporations",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3935,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "4a356533e7b423976fc73278775aa225f6da4bcb73eebfe101c39f031d333a29"
+    }
+   ]
+  },
+  {
+   "slug": "title-12",
+   "short": "Ala. Code 12",
+   "title": "Code of Alabama 1975, Title 12 Courts",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1269,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "458b234631d1e9a93231af71540cd88dc2a93b3b8af56bafb2e3a008b2af3574"
+    }
+   ]
+  },
+  {
+   "slug": "title-14",
+   "short": "Ala. Code 14",
+   "title": "Code of Alabama 1975, Title 14 Criminal Correctional and Detention Facilities",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 348,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "ad57ea5149f63bffafc256f1aab8b6771d4455fc92fe3d82b5af24420c01645c"
+    }
+   ]
+  },
+  {
+   "slug": "title-15",
+   "short": "Ala. Code 15",
+   "title": "Code of Alabama 1975, Title 15 Criminal Procedure",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 817,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "9d900af3b4734039f692fe1f32c8bab2932b0b7e731a6f9d64db7e7a845b67da"
+    }
+   ]
+  },
+  {
+   "slug": "title-16",
+   "short": "Ala. Code 16",
+   "title": "Code of Alabama 1975, Title 16 Education",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 2234,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "22f00f860a33d17a933170c1466989fb24232fc9f4a3353706266da595b69f61"
+    }
+   ]
+  },
+  {
+   "slug": "title-17",
+   "short": "Ala. Code 17",
+   "title": "Code of Alabama 1975, Title 17 Elections",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 484,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "c3d4bcc1b6e4cd5609c921a1a14154e718e2b867f82071221bf8b345b4855ccb"
+    }
+   ]
+  },
+  {
+   "slug": "title-18",
+   "short": "Ala. Code 18",
+   "title": "Code of Alabama 1975, Title 18 Eminent Domain",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 155,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "fe8b2fbf534a567d2657e06e5131d96191dfa8e1558050aac848e9680065e27d"
+    }
+   ]
+  },
+  {
+   "slug": "title-19",
+   "short": "Ala. Code 19",
+   "title": "Code of Alabama 1975, Title 19 Fiduciaries and Trusts",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 381,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "789e924d8b23f4e643e088725b91839d9d72364cc6fa1b5b732d7d3e23fe60db"
+    }
+   ]
   }
  ]
 }

@@ -518,6 +518,132 @@
      "sha256": "2f22cbb3381f2ef8b7a76265bfeb2ee6a3f153d7532ae1412a49dfc103197c11"
     }
    ]
+  },
+  {
+   "slug": "title-36",
+   "short": "Ala. Code 36",
+   "title": "Code of Alabama 1975, Title 36 Public Officers and Employees",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1123,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "3540c654c28ad434b6f7fa1b4a97539267442ec29d8030f8756e7b92eb9df108"
+    }
+   ]
+  },
+  {
+   "slug": "title-37",
+   "short": "Ala. Code 37",
+   "title": "Code of Alabama 1975, Title 37 Public Utilities and Public Transportation",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 601,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "0528ceff76e3e6a6be67d267da7babf39309ae9e716727b671a1de051a6777ef"
+    }
+   ]
+  },
+  {
+   "slug": "title-38",
+   "short": "Ala. Code 38",
+   "title": "Code of Alabama 1975, Title 38 Public Welfare",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 258,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "b10f01892d766f1960518ce4f2424b59ddc040e64c4ef109242a40d2aa729f4b"
+    }
+   ]
+  },
+  {
+   "slug": "title-39",
+   "short": "Ala. Code 39",
+   "title": "Code of Alabama 1975, Title 39 Public Works",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 81,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "79fda440676e8fec8fe2aed8c444c54a61f9e6309da64e32ab8a5d70ba065d50"
+    }
+   ]
+  },
+  {
+   "slug": "title-40",
+   "short": "Ala. Code 40",
+   "title": "Code of Alabama 1975, Title 40 Revenue and Taxation",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 2058,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "cdd0bff8bfcbe3ff2d261fa612f949037d2b3eb0a260f1f4855f9057c80fe9cc"
+    }
+   ]
+  },
+  {
+   "slug": "title-41",
+   "short": "Ala. Code 41",
+   "title": "Code of Alabama 1975, Title 41 State Government",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1983,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "f75969de843d7bd14285c95087c07f93397a6ad088c71bb0c7cec0bcdebd4e85"
+    }
+   ]
+  },
+  {
+   "slug": "title-42",
+   "short": "Ala. Code 42",
+   "title": "Code of Alabama 1975, Title 42 United States",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "cf287b6a0625a04ff47cc0df03194137296a0cc5bdf67311f389544f27e6e34c"
+    }
+   ]
+  },
+  {
+   "slug": "title-43",
+   "short": "Ala. Code 43",
+   "title": "Code of Alabama 1975, Title 43 Wills and Decedents’ Estates",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 481,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "7664bae3cd6df8350a8366281e4ddaa7d8fd1ff245bc8a5bbdd003310975e388"
+    }
+   ]
+  },
+  {
+   "slug": "title-44",
+   "short": "Ala. Code 44",
+   "title": "Code of Alabama 1975, Title 44 Youth Services",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 76,
+     "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
+     "sha256": "880b00ed4f749e6b636cd8d4e6fb44cdf34f4082d44c5b8613a104323555e208"
+    }
+   ]
   }
  ]
 }

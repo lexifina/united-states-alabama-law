@@ -1,6 +1,6 @@
 # How this repository was made (United States (Alabama))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -63,7 +63,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-44` | Code of Alabama 1975, Title 44 Youth Services | 1 | 2026-11-03 to 2026-11-03 |
 | `title-45` | Code of Alabama 1975, Title 45 Local Laws | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 47 commits:
+The build made 55 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -72,7 +72,7 @@ The build made 47 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 47 laws in the record.
 - 47 tags.
@@ -81,14 +81,14 @@ Other counts:
 
 Each commit is dated at noon (America/Chicago) on the day the change took effect. The other dates, enacted and published, are trailers.
 
-When a law gives no date of its own, the default rule applies: No dated history is published: each text is the oldest version available, dated from the retrieval day. https://alison.legislature.state.al.us/code-of-alabama
+When a law gives no date of its own, the default rule applies: Audit official heading, API and body dates. Hold any section with unresolved past body commencement or applicability dates. Future amendment dates do not commence current wording. Undated correction records retain the original snapshot range and separately identify the observation date. https://alison.legislature.state.al.us/code-of-alabama
 
 ## How the history is built
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8e38c16172b8f6764e09ba47e5dda5220870080ca2edd99bce7de706974acf5b` (73079078 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `b7984bbae32d8ca973f313dd3395cb6713ad7edef0340a95179aff1c0db2ec90` (73154047 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -99,12 +99,12 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- English only. First build: the Constitution and Code titles 13A (Criminal Code), 10A (Business and Nonprofit Entities Code) and 35 (Property).
-- Every text has one version, "oldest version available", dated from the retrieval day and credited to the publisher; the site publishes no dated point-in-time history for these titles.
-- Sections that carry an effective or supersession date (future or superseded wording) are left out of this first build.
-- Source histories, notes and annotations are not included; only statute text.
-- Wave 3 (2026-11-03): every other Code of Alabama title is added, one act per title, parsed as in the first build (rows carrying an effective or supersession date are left out: 132).
-- Each new title is dated by the retrieval day (2026-11-03) and credited to the publisher as the oldest version available, so its current wording is never dated before its latest amendment took effect.
+- 26 previously omitted official sections are restored by labelled, file-scoped corrections; existing section wording is unchanged.
+- Correction ranges start at the original published snapshot, independently of a provision commencement date.
+- Sections 40-21-83 and 40-21-103 explicitly commence September 1, 2026 in their official headings; null API fields do not override those dates.
+- Future supersession dates retain current wording until expiry; future effective dates exclude future wording.
+- Eleven sections with unresolved past body dates, including six reviewer findings, are held. No section-level date is inferred from a partial applicability clause. Title 40 remains held.
+- Seventy-two inherited source mismatches remain outside this restoration. The corpus is not represented as completely source-verified.
 
 ## What AI did and did not do
 
@@ -115,4 +115,4 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
-- none (scripts only; no model wrote or altered legal text)
+- A model implemented extraction, validation and documentation. Legal wording is extracted from official HTML; no model altered law words.

@@ -401,9 +401,9 @@
    "versions": [
     {
      "from": "2026-11-03",
-     "units": 729,
+     "units": 736,
      "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
-     "sha256": "a86d151ef86995dd01add42749d90ec4678e52d733ba9c318e303f8750d88d97"
+     "sha256": "ff3c78eaf5b25e5f908c86567ed061939ee815efa568db2f7afc7865e7ed6081"
     }
    ]
   },
@@ -415,9 +415,9 @@
    "versions": [
     {
      "from": "2026-11-03",
-     "units": 1542,
+     "units": 1544,
      "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
-     "sha256": "f63667349817b44cc25661399ee9ef847d8fbb170ada3bb9f7c742e29fce41a7"
+     "sha256": "ff3c78eaf5b25e5f908c86567ed061939ee815efa568db2f7afc7865e7ed6081"
     }
    ]
   },
@@ -485,9 +485,9 @@
    "versions": [
     {
      "from": "2026-11-03",
-     "units": 955,
+     "units": 958,
      "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
-     "sha256": "b1404ac32ca0f9736a4bbd6d4da02ca3da455400d3ee80258e25ad61a58d7d58"
+     "sha256": "ff3c78eaf5b25e5f908c86567ed061939ee815efa568db2f7afc7865e7ed6081"
     }
    ]
   },
@@ -499,9 +499,9 @@
    "versions": [
     {
      "from": "2026-11-03",
-     "units": 527,
+     "units": 531,
      "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
-     "sha256": "593998bad42cefd4d5ab964ef160a38b85393b1dfbb654f19a4d392d326b64b2"
+     "sha256": "ff3c78eaf5b25e5f908c86567ed061939ee815efa568db2f7afc7865e7ed6081"
     }
    ]
   },
@@ -513,9 +513,9 @@
    "versions": [
     {
      "from": "2026-11-03",
-     "units": 1980,
+     "units": 1982,
      "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
-     "sha256": "2f22cbb3381f2ef8b7a76265bfeb2ee6a3f153d7532ae1412a49dfc103197c11"
+     "sha256": "ff3c78eaf5b25e5f908c86567ed061939ee815efa568db2f7afc7865e7ed6081"
     }
    ]
   },
@@ -527,9 +527,9 @@
    "versions": [
     {
      "from": "2026-11-03",
-     "units": 1123,
+     "units": 1124,
      "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
-     "sha256": "3540c654c28ad434b6f7fa1b4a97539267442ec29d8030f8756e7b92eb9df108"
+     "sha256": "ff3c78eaf5b25e5f908c86567ed061939ee815efa568db2f7afc7865e7ed6081"
     }
    ]
   },
@@ -541,9 +541,9 @@
    "versions": [
     {
      "from": "2026-11-03",
-     "units": 601,
+     "units": 607,
      "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
-     "sha256": "0528ceff76e3e6a6be67d267da7babf39309ae9e716727b671a1de051a6777ef"
+     "sha256": "ff3c78eaf5b25e5f908c86567ed061939ee815efa568db2f7afc7865e7ed6081"
     }
    ]
   },
@@ -597,9 +597,9 @@
    "versions": [
     {
      "from": "2026-11-03",
-     "units": 1983,
+     "units": 1984,
      "source_url": "https://alison.legislature.state.al.us/code-of-alabama",
-     "sha256": "f75969de843d7bd14285c95087c07f93397a6ad088c71bb0c7cec0bcdebd4e85"
+     "sha256": "ff3c78eaf5b25e5f908c86567ed061939ee815efa568db2f7afc7865e7ed6081"
     }
    ]
   },

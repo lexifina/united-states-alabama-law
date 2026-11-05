@@ -1,0 +1,15 @@
+{
+  "corpus": "us/alabama/acts",
+  "path": "united-states/alabama",
+  "name": "Code and Constitution of Alabama",
+  "language": "en",
+  "history": "current-only",
+  "scope": "all-acts",
+  "acts": 47,
+  "history_from": "2026-10-30",
+  "record_to": "2026-11-03",
+  "checked_on": "2026-11-05",
+  "future_branch": "future",
+  "publisher": "Alabama Legislature",
+  "record_note": "47 act folders; 26 omitted sections restored; fourteen held for unresolved source dates or reader compatibility. 72 inherited mismatches remain; complete source-text coverage is not claimed."
+}

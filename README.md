@@ -1,5 +1,7 @@
 # United States (Alabama): law in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Alabama, United States, which global-law reads at `united-states/alabama/acts/`.
+
 Current-text snapshots of the Constitution of Alabama (2022 recompilation) and all 46 Code of Alabama title roots, from the [Alabama Legislature](https://alison.legislature.state.al.us/code-of-alabama). Language: English. Global-law path: `united-states/alabama/`.
 
 | Folder | Law | Snapshot versions |

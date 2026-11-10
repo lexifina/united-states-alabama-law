@@ -112,7 +112,8 @@ def prepare(source, response, manifest, checked_on):
     corpus['ai_use'] = ['A model implemented extraction, validation and documentation. Legal wording is extracted from official HTML; no model altered law words.']
     return corpus, records
 
-def append_corrections(folder, repo, records, docs_date):
+def append_corrections(folder, repo, records, docs_date, prior=(), title='Documentation: Alabama omitted-section corrections and source dates'):
+    """prior: the rows data/omission-restorations.tsv already holds on main; the new table keeps them first."""
     corpus, raw = AP.B.load(folder)
     errors = AP.B.validate(corpus)
     if errors:
@@ -163,7 +164,7 @@ def append_corrections(folder, repo, records, docs_date):
     import io
     stream = io.StringIO()
     table = csv.DictWriter(stream, fieldnames=fields, delimiter='\t', lineterminator='\n')
-    table.writeheader(); table.writerows(records)
+    table.writeheader(); table.writerows(list(prior) + records)
     docs['data/omission-restorations.tsv'] = stream.getvalue()
     author_stamp = clock.stamp(docs_date).split()
     import time

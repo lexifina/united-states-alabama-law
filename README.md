@@ -64,7 +64,7 @@ For the first 26 restored sections, the official heading, API and complete body 
 
 Act 2025-379, section 2 of official enrolled HB225, commences October 1, 2028. The conflicting 2026 editorial note in section 34-27-35 is documented in the restoration evidence; the later amendment wording is not included early.
 
-A November 11 source audit found 256 section word differences in the published snapshot. The earlier batch corrected 26 plain-text sections; a later batch corrected 46 table sections. The remaining 184 discrepancies include tables, date-bearing text and other cases held for further review; complete source-text coverage is not claimed.
+A November 11 source audit found 256 section word differences in the published snapshot. The earlier batch corrected 26 plain-text sections; a later batch corrected 46 table sections. The remaining 131 discrepancies include tables, date-bearing text and other cases held for further review; complete source-text coverage is not claimed.
 
 One source image in 45-57A-63.31 is a decorative signature line; no normative image was identified in the reviewed ten titles or the restored sections.
 
@@ -79,3 +79,7 @@ Twenty-six section files have labelled corrections restoring words present in th
 ## Table-text corrections
 
 46 section files have labelled corrections restoring official table wording and cell structure. The tables use HTML within Markdown. These corrections retain the original title record starts (October 30 or November 3, 2026), separately from the November 11 text check; no source commencement date was identified for their wording. Other source discrepancies and dated history remain unresolved.
+
+## Further source-text corrections
+
+55 section files have further labelled corrections: 53 resolve remaining official-source discrepancies and two restore paragraph separators in earlier corrections. Generic references to applicability, amendments, or relative time were assessed individually; the selected sections give no calendar commencement date for their wording. Original October 30 or November 3, 2026 record starts remain separate from the November 11 text check. Sections with calendar dates, unresolved date cues, or unsupported table spans remain outside this batch; complete source fidelity and dated history are not claimed.

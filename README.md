@@ -64,7 +64,7 @@ For the first 26 restored sections, the official heading, API and complete body 
 
 Act 2025-379, section 2 of official enrolled HB225, commences October 1, 2028. The conflicting 2026 editorial note in section 34-27-35 is documented in the restoration evidence; the later amendment wording is not included early.
 
-A November 11 source audit found 256 section word differences in the published snapshot. This batch corrects 26 plain-text sections. The remaining 230 include tables, date-bearing text and other cases held for further review; complete source-text coverage is not claimed.
+A November 11 source audit found 256 section word differences in the published snapshot. The earlier batch corrected 26 plain-text sections; a later batch corrected 46 table sections. The remaining 184 discrepancies include tables, date-bearing text and other cases held for further review; complete source-text coverage is not claimed.
 
 One source image in 45-57A-63.31 is a decorative signature line; no normative image was identified in the reviewed ten titles or the restored sections.
 
@@ -75,3 +75,7 @@ Official sources are the Alabama Legislature’s Code, Constitution, act registe
 ## Source-text corrections
 
 Twenty-six section files have labelled corrections restoring words present in the Alabama Legislature’s published Code text at the original snapshot and on November 11, 2026. The record still has unresolved table and date-bearing section discrepancies; full word-for-word coverage is not claimed.
+
+## Table-text corrections
+
+46 section files have labelled corrections restoring official table wording and cell structure. The tables use HTML within Markdown. These corrections retain the original title record starts (October 30 or November 3, 2026), separately from the November 11 text check; no source commencement date was identified for their wording. Other source discrepancies and dated history remain unresolved.

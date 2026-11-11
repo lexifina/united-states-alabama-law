@@ -83,3 +83,9 @@ Twenty-six section files have labelled corrections restoring words present in th
 ## Further source-text corrections
 
 55 section files have further labelled corrections: 53 resolve remaining official-source discrepancies and two restore paragraph separators in earlier corrections. Generic references to applicability, amendments, or relative time were assessed individually; the selected sections give no calendar commencement date for their wording. Original October 30 or November 3, 2026 record starts remain separate from the November 11 text check. Sections with calendar dates, unresolved date cues, or unsupported table spans remain outside this batch; complete source fidelity and dated history are not claimed.
+
+## Further assessed source-text corrections
+
+20 section files restore official source words and table cells after assessment of their date references. Body dates and relative references were assessed individually as reporting deadlines, eligibility thresholds, reference schedules, or future conditional repeals; the selected sections give no calendar commencement date for their wording. Original October 30 or November 3, 2026 record starts remain separate from the November 11 text check. Other sections with unresolved commencement or repeal dates, unassessed date cues, or unsupported table spans remain outside this batch; complete source fidelity and dated history are not claimed.
+
+This batch leaves 111 cases from the audited discrepancy range unresolved, plus 132 previously identified dated source rows. The precise body-date assessments and source response hashes are recorded in `data/assessed-date-corrections.json`.

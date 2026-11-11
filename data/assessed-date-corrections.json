@@ -1,0 +1,697 @@
+[
+ {
+  "file": "title-12/012-019-092.md",
+  "section": "12-19-92",
+  "code_id": "26872",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2219411%22%2C%2219919%22%2C%2221003%22%2C%2222246%22%2C%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226872%22%2C%2226905%22%2C%2226906%22%2C%2227428%22%2C%2228192%22%2C%2229256%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2240153%22%2C%2240175%22%2C%2245732%22%2C%2245733%22%5D%7D",
+  "source_sha256": "ba6461d65ad9e90eb7e9542de5ef4d0cd831c4e4923b26503deaaf36d1067791",
+  "published_sha256": "59903db1699e9f99d2be3ba85f6f8dec655129892b209a1f5f87191c448346ba",
+  "corrected_sha256": "c4b343c384d8aaa75299e662f6a1a0ec302b2d079c74fd80f8f3e71586f59ac4",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "December 18, 1973 specifies the reference sheriff-fee schedule, not commencement of this wording.",
+   "content_sha256": "da3a7526357c1e36d130d927ded680e3c834c42c1a077d21dab60daf0aabcdd1",
+   "title": "Section 12-19-92 Constables’ Fees Generally; Exception as to Jefferson County.",
+   "quotes": [
+    " (b) In civil cases, the fees of constables shall be the same as the sheriff’s fees on December 18, 1973, when performing the same or like services, where the amount in controversy is twenty dollars ($20) or more, except in Jefferson County where constables shall receive an administrative fee of ten dol"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "1973-12-18",
+    "source_phrase": "December 18, 1973",
+    "context": "r other services in such cases, the same fees as in other cases (b) In civil cases, the fees of constables shall be the same as the sheriff’s fees on December 18, 1973, when performing the same or like services, where the amount in controversy is twenty dollars ($20) or more, except in Jefferson County where constab"
+   }
+  ]
+ },
+ {
+  "file": "title-15/015-008-150.md",
+  "section": "15-8-150",
+  "code_id": "18968",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2212772%22%2C%2212809%22%2C%2214478%22%2C%2214862%22%2C%2214963%22%2C%2215129%22%2C%2215718%22%2C%2215724%22%2C%2215726%22%2C%2215730%22%2C%2215734%22%2C%2215739%22%2C%2215742%22%2C%2215747%22%2C%2215758%22%2C%2217807%22%2C%2218072%22%2C%2218968%22%2C%2219127%22%2C%2219362%22%5D%7D",
+  "source_sha256": "3e300c7c3593aa28f806d743ae8061aeb44fc916efd98329edfe4bbc286ccc7e",
+  "published_sha256": "b2413c86e5651fd0b552e94f76fb6e3e9fb1d2ed761c8d4261f6377451316aae",
+  "corrected_sha256": "3488b39f4902fb16249e734078f877725e805d7cef4a407ef0d6cd0c7b3a8fba",
+  "tables": 2,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "August 21, 1975 is an illustrative date inside a specimen indictment; commencement refers to pleadings or a fight, not statutory commencement.",
+   "content_sha256": "c7b02b9cceabea92ce69b5ff25722883bfe4a2fa913f70e9b76b29b6de39cc70",
+   "title": "Section 15-8-150 Contents; Sufficiency; Use of Analogous Forms.",
+   "quotes": [
+    "The forms of indictment set forth in this section in all cases in which they are applicable, are sufficient, and analogous forms may be used in other cases. (1) CAPTION, COMMENCEMENT AND CONCLUSION GENERALLY. The State of Alabama,) Circuit court, _________ session, _________________) 20___ ",
+    "h they are applicable, are sufficient, and analogous forms may be used in other cases. (1) CAPTION, COMMENCEMENT AND CONCLUSION GENERALLY. The State of Alabama,) Circuit court, _________ session, _________________) 20___ The grand jury of said county charge that, before the finding of this indictment, etc. (des",
+    " guilty of stealing (or to force the said E. F. to disclose where he was on the night of August 21, 1975, or to leave the country, etc., as the case may be.) (12) ASSAULT WITH STICK, ETC., WHILE INTIMIDATING WITH DEADLY WEAPON. A. B. did assault and beat C. D. with a cowhide, stick or whip, having in hi",
+    ". unlawfully killed C. D. in a sudden encounter, by the use of a deadly weapon concealed before the commencement of the fight, the said A. B. being the assailant, and his adversary having no deadly weapon drawn. (75) PERJURY ON TRIAL OF FELONY CASE. A. B., on his examination as a witness, duly sworn to testify,"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "1975-08-21",
+    "source_phrase": "August 21, 1975",
+    "context": "use, whip, or beat E. F., upon an accusation that he had been guilty of stealing (or to force the said E. F. to disclose where he was on the night of August 21, 1975, or to leave the country, etc., as the case may be.) (12) ASSAULT WITH STICK, ETC., WHILE INTIMIDATING WITH DEADLY WEAPON. A. B. did assault and beat"
+   }
+  ]
+ },
+ {
+  "file": "title-16/016-030a-003-001.md",
+  "section": "16-30A-3.1",
+  "code_id": "57969",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "d9b9b48c1b4908b8b623bb597bda19ad769e39159011c9d5eb1dc7013b21a4c1",
+  "corrected_sha256": "bf1beb8e08f17214e6e127b9e88228c2cc6f93fb0a1769f154995b7b542bd788",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "The beginning of the 2024-2025 school year is the deadline for developing training guidelines, not the commencement of this entire section.",
+   "content_sha256": "87026e1839151bc337cece527f651d61df01fe04c5f22a73aedf26c2c7b0e325",
+   "title": "Section 16-30A-3.1 Attendance and Activities of Students with Certain Medical Conditions.",
+   "quotes": [
+    " disorder that occurs when the adrenal glands do not produce enough hormones. (b) No later than the beginning of the 2024-2025 school year, the State Board of Education, in consultation with the Alabama Board of Nursing, shall develop guidelines for the training of school employees in the necessary care for ",
+    "curs when the adrenal glands do not produce enough hormones. (b) No later than the beginning of the 2024-2025 school year, the State Board of Education, in consultation with the Alabama Board of Nursing, shall develop guidelines for the training of school employees in the necessary care for students wit",
+    "when the adrenal glands do not produce enough hormones. (b) No later than the beginning of the 2024-2025 school year, the State Board of Education, in consultation with the Alabama Board of Nursing, shall develop guidelines for the training of school employees in the necessary care for students with med"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": []
+ },
+ {
+  "file": "title-16/016-060-118.md",
+  "section": "16-60-118",
+  "code_id": "60613",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "2c5bd37774b6c8bc990abef00a5ba89b711c31bff6c9eae9af701e4304be9473",
+  "corrected_sha256": "793206f79b6d9a249b7f14a88a9a6cd10d583389a7637afee496b32a3cb87237",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "January 1, 2026 and each January 1 thereafter specify annual reporting dates, not the commencement of the REACH Act wording.",
+   "content_sha256": "ecbfc0cbfeb6f1a944333a269a92fbb05c407514876e650f42a245ab10a0bca1",
+   "title": "Section 16-60-118 Alternative High School Diploma Pathway.",
+   "quotes": [
+    " through the nontraditional high school diploma option to measure the effectiveness of the program. Commencing on January 1, 2026, and each January 1 thereafter, the Chancellor of the ACCS shall submit a summary of the information tracked to the Chairs of the House and Senate Education Policy Committees. (f) ",
+    "al high school diploma option to measure the effectiveness of the program. Commencing on January 1, 2026, and each January 1 thereafter, the Chancellor of the ACCS shall submit a summary of the information tracked to the Chairs of the House and Senate Education Policy Committees. (f) Students who earn a"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2026-01-01",
+    "source_phrase": "January 1, 2026",
+    "context": "on, and high school diplomas awarded through the nontraditional high school diploma option to measure the effectiveness of the program. Commencing on January 1, 2026, and each January 1 thereafter, the Chancellor of the ACCS shall submit a summary of the information tracked to the Chairs of the House and Senate Ed"
+   }
+  ]
+ },
+ {
+  "file": "title-22/022-003a-019.md",
+  "section": "22-3A-19",
+  "code_id": "4008",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%22784%22%2C%221119%22%2C%224008%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229268%22%2C%229271%22%2C%229275%22%2C%229277%22%2C%229280%22%2C%229284%22%2C%229287%22%2C%229291%22%2C%229304%22%5D%7D",
+  "source_sha256": "c6faa871138d4b5ec0c810ebc6621d2e2469e77fa1ddaea8cee1f536368f8da5",
+  "published_sha256": "be49bb1cc576698e95f448eced2be6ba9fffaa0af0d1f7ffa6fc0806326c659a",
+  "corrected_sha256": "3aaf3d67e7ec392f1dc08256dbc00f4aa39e3d08675627a1935c249e8cf07264",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "January 1, 1989 selects eligible prior capital expenditure for reimbursement; relative meeting timing is procedural, not statutory commencement.",
+   "content_sha256": "a8ea571a831314c6b1d24e4987e0a71804caff400d22d87d0f67a7ebf68b2956",
+   "title": "Section 22-3A-19 Certain Public Health Facilities as Primary Obligation of Authority; Reimbursement to Counties; Refinancing or Refunding of Obligations.",
+   "quotes": [
+    "es incurred and paid by a board of health in such county or such county commission after January 1, 1989, or (ii) to refinance or refund any obligations incurred to finance capital expenditures for public health facilities incurred and paid by a board of health in such county or such county commission a",
+    "es incurred and paid by a board of health in such county or such county commission after January 1, 1989. Out of the total amount of bond proceeds allocated in subsection (a) of this section to any county in which such capital expenditures were incurred and paid, the authority shall reimburse such costs",
+    "n the absence of an authority member, his vote may be cast in writing and submitted to the chairman prior to the meeting during which said vote is scheduled. Under no circumstances shall any amount allocated to any county and/or municipality or locality by said subsection (a) be reduced by more than five pe",
+    "n the absence of an authority member, his vote may be cast in writing and submitted to the chairman prior to the meeting during which said vote is scheduled."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "1989-01-01",
+    "source_phrase": "January 1, 1989",
+    "context": "mbursement of capital expenditures for public health facilities incurred and paid by a board of health in such county or such county commission after January 1, 1989, or (ii) to refinance or refund any obligations incurred to finance capital expenditures for public health facilities incurred and paid by a board of"
+   },
+   {
+    "date": "1989-01-01",
+    "source_phrase": "January 1, 1989",
+    "context": "ed to finance capital expenditures for public health facilities incurred and paid by a board of health in such county or such county commission after January 1, 1989. Out of the total amount of bond proceeds allocated in subsection (a) of this section to any county in which such capital expenditures were incurred "
+   }
+  ]
+ },
+ {
+  "file": "title-22/022-021-437.md",
+  "section": "22-21-437",
+  "code_id": "57968",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "de2e7f7bcb4b688dbe0a2b0a7d6bb3d56fcd57016d678c1de50efbb8cb63f056",
+  "corrected_sha256": "f2c2de5b742fca40595b999f5434fb61cac5842a1dc66a8f54b79a2ce5109432",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "May 18, 2023 is the deadline for facilities to establish visitation policies, not the commencement of the entire current section.",
+   "content_sha256": "742e0ce1255bbd5c896537c9cffddfc4b177a738508d056c581e8f64bafe2b9a",
+   "title": "Section 22-21-437 Visitation Rights of Patients; Establishment of Visitation Policies and Procedures; Designation of Essential Caregivers.",
+   "quotes": [
+    "tent with this section and established in accordance with subsection (d). (d) No later than May 18, 2023, each health care facility shall establish visitation policies and procedures. The policies and procedures must, at a minimum, include each of the following: (1) Infection control and education polic",
+    " the health care facility, its employees, or its contracted staff failed to follow this section and applicable guidelines. This subsection does not apply to wanton, willful, reckless, or intentional misconduct. (k) This section does not apply to either of the following: (1) Any health care facility designated"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2023-05-18",
+    "source_phrase": "May 18, 2023",
+    "context": " facility’s policies and procedures, which shall be consistent with this section and established in accordance with subsection (d). (d) No later than May 18, 2023, each health care facility shall establish visitation policies and procedures. The policies and procedures must, at a minimum, include each of the fo"
+   }
+  ]
+ },
+ {
+  "file": "title-34/034-008-002.md",
+  "section": "34-8-2",
+  "code_id": "27428",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2219411%22%2C%2219919%22%2C%2221003%22%2C%2222246%22%2C%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226872%22%2C%2226905%22%2C%2226906%22%2C%2227428%22%2C%2228192%22%2C%2229256%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2240153%22%2C%2240175%22%2C%2245732%22%2C%2245733%22%5D%7D",
+  "source_sha256": "ba6461d65ad9e90eb7e9542de5ef4d0cd831c4e4923b26503deaaf36d1067791",
+  "published_sha256": "8cdbbcc4dcd1191cb9a6352b4ba865ac534fdc961cf688fa5d664f7b09bf790f",
+  "corrected_sha256": "d40dbef97634e4ef705573dc739d30ce88aeba83bdca3cf7e1c7ae576dc9d6c4",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "May 19, 1999 anchors the optional transition to staggered licence renewal; application and renewal intervals are procedural. It does not state a commencement date for the current complete wording.",
+   "content_sha256": "8d1d9057e44e245897b022b61ff7f203c89ff994587ab67290bb29df0c291d7b",
+   "title": "Section 34-8-2 Licensure and Classification of Contractors.",
+   "quotes": [
+    "entation from the federal government, and shall make and file with the board, not less than 30 days prior to any regular meeting thereof, a written application on a form as prescribed for examination by the board and the application shall be accompanied by three hundred dollars ($300) for a new application ",
+    "alid on that date unless renewed. The board may provide for a transitional period following May 19, 1999, during which licenses may be renewed for less than 12 months, or more than 12 months, in order to implement a staggered license renewal schedule in which licenses would be renewed each month through",
+    "her with the payment of a fee of two hundred dollars ($200), received by the board at least 30 days prior to expiration, shall serve to extend the current license until the board either renews the license or denies the application. A licensee may apply for inactive status by notifying the board in writing a"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "1999-05-19",
+    "source_phrase": "May 19, 1999",
+    "context": "ths following its issuance or renewal and shall become invalid on that date unless renewed. The board may provide for a transitional period following May 19, 1999, during which licenses may be renewed for less than 12 months, or more than 12 months, in order to implement a staggered license renewal schedule in "
+   }
+  ]
+ },
+ {
+  "file": "title-34/034-027a-007.md",
+  "section": "34-27A-7",
+  "code_id": "28192",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2219411%22%2C%2219919%22%2C%2221003%22%2C%2222246%22%2C%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226872%22%2C%2226905%22%2C%2226906%22%2C%2227428%22%2C%2228192%22%2C%2229256%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2240153%22%2C%2240175%22%2C%2245732%22%2C%2245733%22%5D%7D",
+  "source_sha256": "ba6461d65ad9e90eb7e9542de5ef4d0cd831c4e4923b26503deaaf36d1067791",
+  "published_sha256": "bdb8869bff9c52f07b56de986eb43e8b99ed11814bc43b2468de2d5856a95f93",
+  "corrected_sha256": "fb8e4f0e6ea4193b97133c95f4549820edb4e54d81c9e3b23f05277a7c5e1935",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "July 1, 1991 and January 1, 1991 select licence applicants and qualification routes; the two-year and 24-month windows are applicant requirements, and civil-action commencement is procedural.",
+   "content_sha256": "c398690e64ed3d7b3ef583898c6c930924f3d03a751bf199f7de5b70ae055a4c",
+   "title": "Section 34-27A-7 Application for Licensure and Examination; Fees; Pledge; Conditions.",
+   "quotes": [
+    "iplinary actions the same as Alabama resident licensees. Further, I agree that civil actions may be commenced against me in any court of competent jurisdiction in any court of the State of Alabama. “I appoint the Executive Director of the State of Alabama Real Estate Appraisers Board as my agent upon whom al",
+    "ic. (5) Whose application or license has not been rejected or revoked in any state within two years prior to date of application on any grounds other than failure to pass a written examination. (6) Whose membership in any nationally recognized appraisal organization has not been revoked within two years und",
+    " this article. (7) Who is of good moral character. (8) Who on applying for a license before July 1, 1991, provides evidence to the board of possessing basic appraisal skills by showing to the board that for a period of 24 months prior to application for an appraisal license, has operated within the Stat",
+    "e board of possessing basic appraisal skills by showing to the board that for a period of 24 months prior to application for an appraisal license, has operated within the State of Alabama, as a real estate appraiser or review appraiser or has been employed as a permanent employee, by a company, lending inst",
+    "isted in Section 34-27A-10(a)(1) through (a)(7). (9) Who on applying for a license after January 1, 1991, provides evidence of having passed within 24 months prior to application a Uniform Standards of Professional Appraisal Practice course presented by an approved institution or appraisal organization,",
+    "n applying for a license after January 1, 1991, provides evidence of having passed within 24 months prior to application a Uniform Standards of Professional Appraisal Practice course presented by an approved institution or appraisal organization, provides evidence of having successfully completed the requir",
+    "e state or federal law enforcement authorities to verify whether an applicant has a criminal record prior to issuing a license and, as an aid to this duty, each applicant may be required to provide his or her fingerprints and complete an affidavit of his or her criminal record, if any, as part of the applic"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "1991-07-01",
+    "source_phrase": "July 1, 1991",
+    "context": "nization. Membership in an organization is not required by this article. (7) Who is of good moral character. (8) Who on applying for a license before July 1, 1991, provides evidence to the board of possessing basic appraisal skills by showing to the board that for a period of 24 months prior to application for "
+   },
+   {
+    "date": "1991-01-01",
+    "source_phrase": "January 1, 1991",
+    "context": " to the board that he or she possesses those qualifications listed in Section 34-27A-10(a)(1) through (a)(7). (9) Who on applying for a license after January 1, 1991, provides evidence of having passed within 24 months prior to application a Uniform Standards of Professional Appraisal Practice course presented by "
+   }
+  ]
+ },
+ {
+  "file": "title-40/040-018-133.md",
+  "section": "40-18-133",
+  "code_id": "58728",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "6b00d1cee0c3ccf0070aba0695635461cde9b8ad4cd67b2bba7dd314f195e281",
+  "corrected_sha256": "647689a91196287b852dc07f9d9c815628e3d116730f7b03c5e527a00b0470b2",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "December 31, 2028 is a future conditional repeal of the named incentive and an award cut-off with preservation of existing credits; it does not commence current wording. The cited Act year and commencing with Section identify the legislation and article boundary.",
+   "content_sha256": "3335c8c51efcd31fcfb20449df02b4acd7a0acd27d62e355e803869075db64b5",
+   "title": "Section 40-18-133 Repeal of Incentives. (Repealed by Act 2023-546, § 3, Effective December 31, 2028, Unless Extended by Act of Legislature)",
+   "quotes": [
+    "(a) The Rural Physician Tax Credit, Article 4A, commencing with Section 40-18-130, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) T",
+    "al Physician Tax Credit, Article 4A, commencing with Section 40-18-130, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only a",
+    "ian Tax Credit, Article 4A, commencing with Section 40-18-130, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the ",
+    " 4A, commencing with Section 40-18-130, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of th",
+    " of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not ca",
+    "centives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "8, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "(a) The Rural Physician Tax Credit, Article 4A, commencing with Section 40-18-130, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subse"
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "fect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   }
+  ]
+ },
+ {
+  "file": "title-40/040-018-222.md",
+  "section": "40-18-222",
+  "code_id": "58729",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "cef3efdabd3d3d9b352782243ac0874b6a92a57b7d140c316264f0a8b477d6f0",
+  "corrected_sha256": "28ff70f35a181b93313d91e5859d8f09e4f613f9ff4a48866e17784492471305",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "December 31, 2028 is a future conditional repeal of the named incentive and an award cut-off with preservation of existing credits; it does not commence current wording. The cited Act year and commencing with Section identify the legislation and article boundary.",
+   "content_sha256": "8e8e259d95f74e3464990b4aafc9b2a854a689d14d33f09a2f0ff2fbd714c3bc",
+   "title": "Section 40-18-222 Repeal of Incentives. (Repealed by Act 2023-546, § 4, Effective December 31, 2028, Unless Extended by Act of Legislature)",
+   "quotes": [
+    "(a) The Coal Production Tax Credit, Article 8, commencing with Section 40-18-220, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) T",
+    "al Production Tax Credit, Article 8, commencing with Section 40-18-220, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only a",
+    "tion Tax Credit, Article 8, commencing with Section 40-18-220, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the ",
+    "e 8, commencing with Section 40-18-220, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of th",
+    " of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not ca",
+    "centives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "8, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "(a) The Coal Production Tax Credit, Article 8, commencing with Section 40-18-220, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subse"
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "fect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   }
+  ]
+ },
+ {
+  "file": "title-40/040-018-273.md",
+  "section": "40-18-273",
+  "code_id": "58730",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "c93824ac70f67351921b2ddd47ba9be372a868e16a99b9e1f9be4e83b6903611",
+  "corrected_sha256": "bc4276708a9382db7a1636790f784308d4322705848de4b77f5fe2078381c0e6",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "December 31, 2028 is a future conditional repeal of the named incentive and an award cut-off with preservation of existing credits; it does not commence current wording. The cited Act year and commencing with Section identify the legislation and article boundary.",
+   "content_sha256": "73960e5368f1e51461a16303930db093dd5bcf024cb36326afef4bc8a1941b89",
+   "title": "Section 40-18-273 Repeal of Incentives. (Repealed by Act 2023-546, § 5, Effective December 31, 2028, Unless Extended by Act of Legislature)",
+   "quotes": [
+    "(a) The Reemployment Act of 2010, Article 10, commencing with Section 40-18-270, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five",
+    "(a) The Reemployment Act of 2010, Article 10, commencing with Section 40-18-270, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) T",
+    "eemployment Act of 2010, Article 10, commencing with Section 40-18-270, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only a",
+    "nt Act of 2010, Article 10, commencing with Section 40-18-270, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the ",
+    " 10, commencing with Section 40-18-270, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of th",
+    " of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not ca",
+    "centives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "8, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "(a) The Reemployment Act of 2010, Article 10, commencing with Section 40-18-270, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subse"
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "fect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   }
+  ]
+ },
+ {
+  "file": "title-40/040-018-294.md",
+  "section": "40-18-294",
+  "code_id": "58731",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "f3f3366049b5ce57cff06ed1b53774356679dc37baac781213427e65904577f1",
+  "corrected_sha256": "3cb0972e4ed132ad76155542889f0e2cc0749cd1e749fe8d5e8beccd6a91bbe6",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "December 31, 2028 is a future conditional repeal of the named incentive and an award cut-off with preservation of existing credits; it does not commence current wording. The cited Act year and commencing with Section identify the legislation and article boundary.",
+   "content_sha256": "560595798a4dda58dd370fe0119e20372d5f4cfe9c6c00753b768b738040c9bd",
+   "title": "Section 40-18-294 Repeal of Incentives. (Repealed by Act 2023-546, § 6, Effective December 31, 2028, Unless Extended by Act of Legislature)",
+   "quotes": [
+    "(a) The Full Employment Act of 2011, Article 11, commencing with Section 40-18-290, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five",
+    "(a) The Full Employment Act of 2011, Article 11, commencing with Section 40-18-290, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) T",
+    " Employment Act of 2011, Article 11, commencing with Section 40-18-290, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only a",
+    "nt Act of 2011, Article 11, commencing with Section 40-18-290, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the ",
+    " 11, commencing with Section 40-18-290, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of th",
+    " of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not ca",
+    "centives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "8, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "(a) The Full Employment Act of 2011, Article 11, commencing with Section 40-18-290, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subse"
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "fect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   }
+  ]
+ },
+ {
+  "file": "title-40/040-018-325.md",
+  "section": "40-18-325",
+  "code_id": "58732",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "39c3e7ac9894d54cd9c194099b3137ad1ed2ae2f01ef7444915a0068e1981142",
+  "corrected_sha256": "3eceb810ba5bda02daac553b1e543b3ee32fb110d7c0a9457fafc8e8b64df6b3",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "December 31, 2028 is a future conditional repeal of the named incentive and an award cut-off with preservation of existing credits; it does not commence current wording. The cited Act year and commencing with Section identify the legislation and article boundary.",
+   "content_sha256": "114e24eb9e2d500ae6e516a950a6c8d8e80d23dc787b9b1a17f9af6327e7f800",
+   "title": "Section 40-18-325 Repeal of Incentives. (Repealed by Act 2023-546, § 7, Effective December 31, 2028, Unless Extended by Act of Legislature)",
+   "quotes": [
+    "(a) The Veterans Employment Act, Article 13, commencing with Section 40-18-320, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) T",
+    "Veterans Employment Act, Article 13, commencing with Section 40-18-320, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only a",
+    "Employment Act, Article 13, commencing with Section 40-18-320, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the ",
+    " 13, commencing with Section 40-18-320, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of th",
+    " of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not ca",
+    "centives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "8, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "(a) The Veterans Employment Act, Article 13, commencing with Section 40-18-320, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subse"
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "fect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   }
+  ]
+ },
+ {
+  "file": "title-40/040-018-345.md",
+  "section": "40-18-345",
+  "code_id": "58733",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "b077f2e0c3b3c8ac86a91217fc3c0c0095854ee387b7d3cb20efeaf0f3952ffb",
+  "corrected_sha256": "8ecb5689fee479e5300b8993b7d1f31ff863addb10905586b40286aa5016fe68",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "December 31, 2028 is a future conditional repeal of the named incentive and an award cut-off with preservation of existing credits; it does not commence current wording. The cited Act year and commencing with Section identify the legislation and article boundary.",
+   "content_sha256": "8f92ecb91e2b89e4fdbc07166982361cd8a661ea49cb2f4a40fcaefc92a047c0",
+   "title": "Section 40-18-345 Repeal of Incentives. (Repealed by Act 2023-546, § 8, Effective December 31, 2028, Unless Extended by Act of Legislature)",
+   "quotes": [
+    "(a) The Irrigation Equipment Tax Credit, Article 14, commencing with Section 40-18-340, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) T",
+    "on Equipment Tax Credit, Article 14, commencing with Section 40-18-340, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only a",
+    "ent Tax Credit, Article 14, commencing with Section 40-18-340, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the ",
+    " 14, commencing with Section 40-18-340, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of th",
+    " of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not ca",
+    "centives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "8, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "(a) The Irrigation Equipment Tax Credit, Article 14, commencing with Section 40-18-340, Chapter 18, of Title 40, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subse"
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "fect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   }
+  ]
+ },
+ {
+  "file": "title-41/041-009-162.md",
+  "section": "41-9-162",
+  "code_id": "784",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%22784%22%2C%221119%22%2C%224008%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229268%22%2C%229271%22%2C%229275%22%2C%229277%22%2C%229280%22%2C%229284%22%2C%229287%22%2C%229291%22%2C%229304%22%5D%7D",
+  "source_sha256": "c6faa871138d4b5ec0c810ebc6621d2e2469e77fa1ddaea8cee1f536368f8da5",
+  "published_sha256": "5f20dafeb7ad3acc5036e54ad3b20e30da79f8f8ad60bb4ed73407c63598b4e4",
+  "corrected_sha256": "f798a9bb605c9b04060e4837cc17e9f156e73f7d6f715e3c35ed451912246a99",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "The operative/effective date thereof refers to the separately promulgated building code and which buildings it covers, not to commencement of this statutory section.",
+   "content_sha256": "1c916de7dbcf7cc562fcba3147ae23fd156d1532fcc2490088a68de7c83dec5c",
+   "title": "Section 41-9-162 Applicability of Building Code.",
+   "quotes": [
+    "mulgated and enforced by the Construction Management Division of the Department of Finance shall be applicable only to all state buildings and construction, schoolhouses, hotels, and moving picture theatres in Alabama. (b) The effect of the building code shall be limited, in the cases of state building and co",
+    " conduct of each such business activity not employed or in the process of erection for that purpose prior to the effective date thereof.",
+    "ach such business activity not employed or in the process of erection for that purpose prior to the effective date thereof."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": []
+ },
+ {
+  "file": "title-41/041-023-033.md",
+  "section": "41-23-33",
+  "code_id": "58735",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "f3335fba1185a98858f47cbf3c96039b991b5754073e69e484f7e2fd9c6c0503",
+  "corrected_sha256": "07723c50f92796d30350d36cd8e8956419757d467969797dd68c83e2f648217f",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "December 31, 2028 is a future conditional repeal of the named incentive and an award cut-off with preservation of existing credits; it does not commence current wording. The cited Act year and commencing with Section identify the legislation and article boundary.",
+   "content_sha256": "fc7821b636e700498386d7c70cca3687d472445e4f61514c19c5d9cf68545ecc",
+   "title": "Section 41-23-33 (Repealed by Act 2023-546, § 10, Effective December 31, 2028, Unless Extended by Act of Legislature) Repeal of Incentives.",
+   "quotes": [
+    "(a) The Alabama Enterprise Zone Act, Article 2, commencing with Section 41-23-20, Chapter 23, of Title 41, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) Th",
+    "abama Enterprise Zone Act, Article 2, commencing with Section 41-23-20, Chapter 23, of Title 41, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only a",
+    "erprise Zone Act, Article 2, commencing with Section 41-23-20, Chapter 23, of Title 41, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the ",
+    "le 2, commencing with Section 41-23-20, Chapter 23, of Title 41, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of th",
+    " of Title 41, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not ca",
+    "centives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028.",
+    "8, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "(a) The Alabama Enterprise Zone Act, Article 2, commencing with Section 41-23-20, Chapter 23, of Title 41, is repealed effective December 31, 2028, unless extended by an act of the Legislature prior to that date for no more than five additional years. (b) The repealing of the incentives in subse"
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "no more than five additional years. (b) The repealing of the incentives in subsection (a) shall only affect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   },
+   {
+    "date": "2028-12-31",
+    "source_phrase": "December 31, 2028",
+    "context": "fect the availability of the tax credits after December 31, 2028, and shall not cause a reduction or suspension of any credits awarded on or prior to December 31, 2028."
+   }
+  ]
+ },
+ {
+  "file": "title-45/045-037a-051-193.md",
+  "section": "45-37A-51.193",
+  "code_id": "62361",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262315%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262323%22%2C%2262336%22%2C%2262346%22%2C%2262349%22%2C%2262350%22%2C%2262353%22%2C%2262360%22%2C%2262361%22%2C%2262363%22%2C%2262366%22%2C%2262369%22%2C%2262370%22%2C%2262371%22%2C%2262373%22%2C%2262374%22%2C%2262375%22%5D%7D",
+  "source_sha256": "b5e68ad299e286dbed90cf77d97730afc4a2362f6efabe0c695a58e833fd6b72",
+  "published_sha256": "a608e59f1291ddabbd6e395a5bd1a6570881ef328415bad420822088f50a65d2",
+  "corrected_sha256": "09d3afded99f240bf25757acd37dbbe8b6d2205c7ca80a5d382a50c5b5806cec",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "October 31, 1981 distinguishes fiscal years for the minimum contribution rule; commencement of each fiscal year is a recurring actuarial calculation date.",
+   "content_sha256": "97ae79e67cd347fa5e5f5dcf472408a13e5833f0011e06d0f5248a085a82a958",
+   "title": "Section 45-37A-51.193 Health Department Payments.",
+   "quotes": [
+    "e funds its current service costs and its past service costs to be determined as of the date of the commencement of each fiscal year of the city as follows: (1) The actuaries shall determine the normal cost of the benefits provided by the system which are attributable to health department participants. (2) From",
+    "eriod to determine the past service cost for the payroll period. (b) During each fiscal year ending prior to October 31, 1981, the total contribution of the city shall have been not less than nine percent of total covered payroll determined under subsection (a). The amount by which such past service cost wa",
+    "e past service cost for the payroll period. (b) During each fiscal year ending prior to October 31, 1981, the total contribution of the city shall have been not less than nine percent of total covered payroll determined under subsection (a). The amount by which such past service cost was reduced hereund",
+    " the fiscal year in which such additional payment was made, except to the extent which the city had applicable credits under subdivision (2)."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "1981-10-31",
+    "source_phrase": "October 31, 1981",
+    "context": "participants at the end of each payroll period to determine the past service cost for the payroll period. (b) During each fiscal year ending prior to October 31, 1981, the total contribution of the city shall have been not less than nine percent of total covered payroll determined under subsection (a). The amount b"
+   }
+  ]
+ },
+ {
+  "file": "title-45/045-037a-051-244.md",
+  "section": "45-37A-51.244",
+  "code_id": "62393",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262377%22%2C%2262384%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262393%22%2C%2262394%22%2C%2262395%22%2C%2262397%22%2C%2262407%22%2C%2262414%22%5D%7D",
+  "source_sha256": "8b74824ca026a8d2c47758174b2e1b5dfc314763400497153aad12729010a89e",
+  "published_sha256": "4307556257f4b06279e4c791d033d9e4f1d663c04f9c7fe9fa674062f66f3063",
+  "corrected_sha256": "655ac7b05391694aa513902505e6da2b9559fc445acfe8674a52ea7676cabad9",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "July 1, 2021 selects the membership cohort for the alternative early-retirement formula, not the commencement date of the whole current section.",
+   "content_sha256": "88d80801e2f365439b7c757086f7f01effc1a360b4647354b2335731b39a33d7",
+   "title": "Section 45-37A-51.244 Early Retirement Benefit.",
+   "quotes": [
+    "thing to the contrary contained in this section, for all participants who first become participants on or after July 1, 2021, participants in the city and other participating constructive subsidiaries, except the board of health, having attained age 55 or older and completed 25 or more years of credited servic",
+    "y contained in this section, for all participants who first become participants on or after July 1, 2021, participants in the city and other participating constructive subsidiaries, except the board of health, having attained age 55 or older and completed 25 or more years of credited service, shall be e"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2021-07-01",
+    "source_phrase": "July 1, 2021",
+    "context": "45-37A-51.220. (b) Notwithstanding anything to the contrary contained in this section, for all participants who first become participants on or after July 1, 2021, participants in the city and other participating constructive subsidiaries, except the board of health, having attained age 55 or older and complete"
+   }
+  ]
+ },
+ {
+  "file": "title-45/045-037a-051-248.md",
+  "section": "45-37A-51.248",
+  "code_id": "62397",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262377%22%2C%2262384%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262393%22%2C%2262394%22%2C%2262395%22%2C%2262397%22%2C%2262407%22%2C%2262414%22%5D%7D",
+  "source_sha256": "8b74824ca026a8d2c47758174b2e1b5dfc314763400497153aad12729010a89e",
+  "published_sha256": "f3a9ba94f0a3db59738d118348174df87975407f1e4cdc9e87f1a4509b785853",
+  "corrected_sha256": "4b487bb0429b69e0fe48336d30b3103bccbf4f881345d50e522b4c5069374be9",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "December 31, 2009 selects distributions eligible for nonspouse rollovers; it does not date all current definitions or the complete wording.",
+   "content_sha256": "e5321962d045e9c23428fa13ee23dfd8694f08dd394493bf64950c744ae4fdfb",
+   "title": "Section 45-37A-51.248 Direct Rollovers.",
+   "quotes": [
+    "the eligible retirement plan specified by the distributee. (c) For distributions after December 31, 2009, a nonspouse beneficiary who is a designated beneficiary under § 401(a)(9)(E), Internal Revenue Code, and the regulations thereunder, by a direct trustee-to-trustee transfer, direct rollover, may rol"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2009-12-31",
+    "source_phrase": "December 31, 2009",
+    "context": "r former spouse. (4) Direct rollover. A payment by the plan to the eligible retirement plan specified by the distributee. (c) For distributions after December 31, 2009, a nonspouse beneficiary who is a designated beneficiary under § 401(a)(9)(E), Internal Revenue Code, and the regulations thereunder, by a direct tru"
+   }
+  ]
+ },
+ {
+  "file": "title-45/045-040-142-011.md",
+  "section": "45-40-142.11",
+  "code_id": "60481",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2257968%22%2C%2257969%22%2C%2258727%22%2C%2258728%22%2C%2258729%22%2C%2258730%22%2C%2258731%22%2C%2258732%22%2C%2258733%22%2C%2258735%22%2C%2258756%22%2C%2260189%22%2C%2260481%22%2C%2260613%22%2C%2260736%22%5D%7D",
+  "source_sha256": "dc9fb46211975572036997e4b218ee79cf77e9f13d0a742ca333f409b43f9a13",
+  "published_sha256": "5131152dc0b1456fde0fff9e4e51898135b1eb57bdcb5c1346a6ceef75abdf1b",
+  "corrected_sha256": "27ec09537020b2dff63648d3c142cf0d9448f814e4e9e77e665e7197d22cbe4d",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "October 1, 2025 selects existing fire districts and fees protected by the saving clauses; it is not expressed as the commencement of this current section.",
+   "content_sha256": "d8d6832ee0d49e73e7f1927e34aacb48d4713ffc64c2694587545ce534416f99",
+   "title": "Section 45-40-142.11 Powers and Obligations of Existing Fire Districts.",
+   "quotes": [
+    "(a) The powers and obligations of any fire district existing in the county on October 1, 2025, as specified in its certificate of incorporation, bylaws, existing contracts, and debts, and as provided under Chapter 89, Title 11, shall not be affected or impaired by this part. (b) Notwithstandi",
+    "y fire protection fee or service fee assessed by a fire district that is in existence on October 1, 2025, remains in effect, and the fee may be assessed and collected pursuant to Section 45-40-142.09(c) and (d). (c) Any fire district existing in the county on October 1, 2025, may comply with any plan fo",
+    "uant to Section 45-40-142.09(c) and (d). (c) Any fire district existing in the county on October 1, 2025, may comply with any plan for fire districts adopted by the county association as described in Section 45-40-142.01."
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2025-10-01",
+    "source_phrase": "October 1, 2025",
+    "context": "(a) The powers and obligations of any fire district existing in the county on October 1, 2025, as specified in its certificate of incorporation, bylaws, existing contracts, and debts, and as provided under Chapter 89, Title 11, shall not be af"
+   },
+   {
+    "date": "2025-10-01",
+    "source_phrase": "October 1, 2025",
+    "context": " Section 45-40-142.09(b), the established annual amount of any fire protection fee or service fee assessed by a fire district that is in existence on October 1, 2025, remains in effect, and the fee may be assessed and collected pursuant to Section 45-40-142.09(c) and (d). (c) Any fire district existing in the coun"
+   },
+   {
+    "date": "2025-10-01",
+    "source_phrase": "October 1, 2025",
+    "context": "ins in effect, and the fee may be assessed and collected pursuant to Section 45-40-142.09(c) and (d). (c) Any fire district existing in the county on October 1, 2025, may comply with any plan for fire districts adopted by the county association as described in Section 45-40-142.01."
+   }
+  ]
+ }
+]

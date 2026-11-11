@@ -1,6 +1,6 @@
 # How this repository was made (United States (Alabama))
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -63,7 +63,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-44` | Code of Alabama 1975, Title 44 Youth Services | 1 | 2026-11-03 to 2026-11-03 |
 | `title-45` | Code of Alabama 1975, Title 45 Local Laws | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 61 commits:
+The build made 74 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -72,7 +72,7 @@ The build made 61 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 47 laws in the record.
 - 47 tags.
@@ -87,7 +87,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2a85fbe4970ad93e01f979a82b0c76f31dcb651bd3486124d4942611c8b5afe0` (73211910 bytes).
+- Corpus: sha256 `c8b4eb971bb805a81371161c697c68e189c3c792c08935bde6de00d07300b863` (73223702 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -109,6 +109,7 @@ No second build of this corpus has been compared yet.
 - Correction ranges start at the published snapshot day, which is also their In-force day: the record starts there, as for every other section, and does not claim the section commenced then. An official heading date (40-21-83, 40-21-103: September 1, 2026) is kept as source_start.
 - Dates inside a section body (when a fee, licence rule or contribution rate applies) are kept as evidence with their context; none is taken as the date of the section's wording.
 - 34-27-35: ALISON's current row notes "AMENDED BY ACT 2025-379, EFFECTIVE OCTOBER 1, 2026"; the enrolled act (Section 2) and the API's next row both give October 1, 2028, so the current row stays in force until then.
+- Twenty-six file-scoped corrections restore words omitted by the first HTML extraction. No tables, images, body dates, or date cues are in this correction batch.
 
 ## What AI did and did not do
 
@@ -119,4 +120,4 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
-- none (scripts only; no model wrote or altered legal text)
+- A model selected and checked candidate files. Legal wording was extracted by code from official ALISON responses; no model wrote or altered law words.

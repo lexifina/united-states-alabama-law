@@ -54,20 +54,24 @@ Current-text snapshots of the Constitution of Alabama (2022 recompilation) and a
 | `title-44/` | Code of Alabama 1975, Title 44 Youth Services | 1 |
 | `title-45/` | Code of Alabama 1975, Title 45 Local Laws | 1 |
 
-The record has 47 act folders and 49,619 section files. Eight labelled correction commits restore 26 omitted current sections across eight titles. Earlier published commits and existing section wording are preserved.
+The record has 47 act folders and 49,633 section files. Fourteen labelled correction commits restored 40 omitted current sections. Twenty-six further section files have labelled wording corrections; earlier commits remain in history.
 
 ## Dates and limits
 
-Fourteen omitted sections remain held. Title 40's three sections remain absent because source-dated corrections failed the old published reader's compatibility gate. Eleven other sections have unresolved commencement or applicability dates in their official bodies: 32-6-271, 32-6-280, 34-27-33, 34-27-35, 36-20-71, 37-15-5, 37-15-6, 37-15-10, 37-15-10.1, 45-37A-51.11 and 45-37A-51.190. These dates govern particular requirements, transitions or historical applicability; they do not by themselves date the whole current section. No snapshot date is substituted for them, and none of these sections is shipped in this restoration.
+All 40 sections omitted from the initial snapshot have since been restored through labelled corrections. The source-heading dates and body-date evidence for those sections are recorded in `data/omission-restorations.tsv`. The correction ranges describe when the record starts, not a claim that legislative commencement occurred that day.
 
-For the 26 restored sections, the official heading, API and complete body were audited. No commencement or past applicability date for their current wording was identified. Future dates in their bodies are prospective amendment or repeal notes, not commencement dates of the current wording. Their corrections retain the original November 3, 2026 snapshot range, separately from Text-as-of November 5, 2026; this is not a claim that legislative commencement occurred on the snapshot day. Per-file evidence and the precise basis are recorded in `data/omission-restorations.tsv`. The record does not provide a complete dated history.
+For the first 26 restored sections, the official heading, API and complete body were audited. No commencement or past applicability date for their current wording was identified. Future dates in their bodies are prospective amendment or repeal notes, not commencement dates of the current wording. Their corrections retain the original November 3, 2026 snapshot range, separately from Text-as-of November 5, 2026; this is not a claim that legislative commencement occurred on the snapshot day. Per-file evidence and the precise basis are recorded in `data/omission-restorations.tsv`. The record does not provide a complete dated history.
 
-Act 2025-379, section 2 of official enrolled HB225, commences October 1, 2028. The conflicting 2026 editorial note in held section 34-27-35 remains only in source evidence, not in a new law file.
+Act 2025-379, section 2 of official enrolled HB225, commences October 1, 2028. The conflicting 2026 editorial note in section 34-27-35 is documented in the restoration evidence; the later amendment wording is not included early.
 
-A separate source audit found 72 inherited section mismatches, including missing tables and alternatives, in existing published wording. This 26-section correction does not resolve those mismatches, and complete source-text coverage is not claimed.
+A November 11 source audit found 256 section word differences in the published snapshot. This batch corrects 26 plain-text sections. The remaining 230 include tables, date-bearing text and other cases held for further review; complete source-text coverage is not claimed.
 
 One source image in 45-57A-63.31 is a decorative signature line; no normative image was identified in the reviewed ten titles or the restored sections.
 
 ## Sources and licence
 
 Official sources are the Alabama Legislature’s Code, Constitution, act register and enrolled bills. Statute text is public law; see `LICENSE`. This is not an official publication or legal advice.
+
+## Source-text corrections
+
+Twenty-six section files have labelled corrections restoring words present in the Alabama Legislature’s published Code text at the original snapshot and on November 11, 2026. The record still has unresolved table and date-bearing section discrepancies; full word-for-word coverage is not claimed.

@@ -1,0 +1,62 @@
+[
+  {
+    "section": "26-2A-20",
+    "file": "title-26/026-2a-020.md",
+    "code_id": "4456",
+    "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22956%22%2C%22977%22%2C%22982%22%2C%221001%22%2C%223220%22%2C%223227%22%2C%223230%22%2C%223235%22%2C%223243%22%2C%223247%22%2C%223251%22%2C%224273%22%2C%224456%22%2C%224540%22%2C%224719%22%2C%224779%22%2C%224796%22%2C%2214879%22%2C%2215107%22%2C%2215148%22%5D%7D",
+    "response_sha256": "5d4dcb40690b3347ca211520f44ca9de7a11322209ec3de05e054e48c496d4c3",
+    "content_sha256": "971697c89e472e86b3eb1ebf0561f1cae662706c1a406c263e5fb67072a48fcc",
+    "output_sha256": "48e9fa20f7a27092e8baf3a173c818961ba038a215311a0de8d237d50768b1bb",
+    "current_supersession": "2027-01-01",
+    "current_effective_date": null,
+    "future_amendment": "Act 2026-488, effective January 1, 2027"
+  },
+  {
+    "section": "26-2A-52",
+    "file": "title-26/026-2a-052.md",
+    "code_id": "4540",
+    "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22956%22%2C%22977%22%2C%22982%22%2C%221001%22%2C%223220%22%2C%223227%22%2C%223230%22%2C%223235%22%2C%223243%22%2C%223247%22%2C%223251%22%2C%224273%22%2C%224456%22%2C%224540%22%2C%224719%22%2C%224779%22%2C%224796%22%2C%2214879%22%2C%2215107%22%2C%2215148%22%5D%7D",
+    "response_sha256": "5d4dcb40690b3347ca211520f44ca9de7a11322209ec3de05e054e48c496d4c3",
+    "content_sha256": "674b327b6b9a9d9a949c92d18b8e5a0c452feb90792ffeb7e39316649c7ec4e5",
+    "output_sha256": "554299342e68099c15cc433ac164fcaeac3d9d7f98fb8161008385b998ed47cc",
+    "current_supersession": "2027-01-01",
+    "current_effective_date": null,
+    "future_amendment": "Act 2026-488, effective January 1, 2027"
+  },
+  {
+    "section": "26-2A-107",
+    "file": "title-26/026-2a-107.md",
+    "code_id": "4719",
+    "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22956%22%2C%22977%22%2C%22982%22%2C%221001%22%2C%223220%22%2C%223227%22%2C%223230%22%2C%223235%22%2C%223243%22%2C%223247%22%2C%223251%22%2C%224273%22%2C%224456%22%2C%224540%22%2C%224719%22%2C%224779%22%2C%224796%22%2C%2214879%22%2C%2215107%22%2C%2215148%22%5D%7D",
+    "response_sha256": "5d4dcb40690b3347ca211520f44ca9de7a11322209ec3de05e054e48c496d4c3",
+    "content_sha256": "88a770514bed932cc83a6ee2954d2c7e8b0ff2ac535a25f144bdd8372d30dfac",
+    "output_sha256": "9cb80ca08c71da24cf55a3cd6639466c157533cc0dd5bdacb8aa887bdf28ed76",
+    "current_supersession": "2027-01-01",
+    "current_effective_date": null,
+    "future_amendment": "Act 2026-488, effective January 1, 2027"
+  },
+  {
+    "section": "26-2A-134",
+    "file": "title-26/026-2a-134.md",
+    "code_id": "4779",
+    "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22956%22%2C%22977%22%2C%22982%22%2C%221001%22%2C%223220%22%2C%223227%22%2C%223230%22%2C%223235%22%2C%223243%22%2C%223247%22%2C%223251%22%2C%224273%22%2C%224456%22%2C%224540%22%2C%224719%22%2C%224779%22%2C%224796%22%2C%2214879%22%2C%2215107%22%2C%2215148%22%5D%7D",
+    "response_sha256": "5d4dcb40690b3347ca211520f44ca9de7a11322209ec3de05e054e48c496d4c3",
+    "content_sha256": "6421a96d3b5bc0779a011506754c2f87cecdcc7c2563064283513d8edd0f7104",
+    "output_sha256": "af92df525eaf38beb924647b914edbb5a1c55e4828b58e4c96297e3d1023d3e0",
+    "current_supersession": "2027-01-01",
+    "current_effective_date": null,
+    "future_amendment": "Act 2026-488, effective January 1, 2027"
+  },
+  {
+    "section": "26-2A-136",
+    "file": "title-26/026-2a-136.md",
+    "code_id": "4796",
+    "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22956%22%2C%22977%22%2C%22982%22%2C%221001%22%2C%223220%22%2C%223227%22%2C%223230%22%2C%223235%22%2C%223243%22%2C%223247%22%2C%223251%22%2C%224273%22%2C%224456%22%2C%224540%22%2C%224719%22%2C%224779%22%2C%224796%22%2C%2214879%22%2C%2215107%22%2C%2215148%22%5D%7D",
+    "response_sha256": "5d4dcb40690b3347ca211520f44ca9de7a11322209ec3de05e054e48c496d4c3",
+    "content_sha256": "0c98b6db910322e982d128ab2a6bf2f74e3648e97061f8ee495ed0c48e6ded07",
+    "output_sha256": "2b7ee40c0d3a80dc58c4300252ae72cc71d7413eeaf49c605e3fe3d997f14f5b",
+    "current_supersession": "2027-01-01",
+    "current_effective_date": null,
+    "future_amendment": "Act 2026-488, effective January 1, 2027"
+  }
+]

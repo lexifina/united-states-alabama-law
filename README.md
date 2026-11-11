@@ -54,7 +54,7 @@ Current-text snapshots of the Constitution of Alabama (2022 recompilation) and a
 | `title-44/` | Code of Alabama 1975, Title 44 Youth Services | 1 |
 | `title-45/` | Code of Alabama 1975, Title 45 Local Laws | 1 |
 
-The record has 47 act folders and 49,633 section files. Fourteen labelled correction commits restored 40 omitted current sections. Twenty-six further section files have labelled wording corrections; earlier commits remain in history.
+The record has 47 act folders and 49,638 section files. Fourteen labelled correction commits restored 40 omitted current sections. Twenty-six further section files have labelled wording corrections; earlier commits remain in history.
 
 ## Dates and limits
 
@@ -105,3 +105,9 @@ This batch leaves 71 cases from the audited discrepancy range unresolved, plus 1
 ## Current Title 26 sections with future amendments
 
 Five current sections omitted from the initial Title 26 snapshot are restored. The official Code also publishes Act 2026-488 wording or repeal for January 1, 2027; those future rows are outside this current-text correction. The current rows state no commencement date for their existing wording, so the correction retains the explicitly labelled November 3, 2026 retrieval-day record start. Source dates and hashes are recorded in `data/dated-current-restorations.json`. Other unresolved source-text and historical dating cases remain outside this batch.
+
+## Remaining source-text corrections
+
+4 section files restore official source words and table cells after assessment of their date references. The batch restores 0 source tables, preserving the official cell order. Assessed body dates select service-entry or disability-event cohorts and the May 18, 2017 staffing baseline; they do not date commencement of complete wording. Undated wording keeps its explicitly labelled original retrieval-day record start separately from the November 11 text check. No earlier substantive wording is reconstructed. Other sections with unresolved commencement or repeal dates, unassessed date cues, or unsupported table spans remain outside this batch; complete source fidelity and dated history are not claimed.
+
+This batch leaves 67 cases from the audited discrepancy range unresolved. The separately assessed 96 future-effective rows are outside the current snapshot. The precise body-date assessments and source response hashes are recorded in `data/assessed-depth-corrections.json`.

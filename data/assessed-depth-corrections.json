@@ -1,0 +1,158 @@
+[
+ {
+  "file": "title-45/045-037a-051-161.md",
+  "section": "45-37A-51.161",
+  "code_id": "62349",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245733%22%2C%2245839%22%2C%2245840%22%2C%2248024%22%2C%2258756%22%2C%2260736%22%2C%2262315%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262323%22%2C%2262336%22%2C%2262346%22%2C%2262349%22%2C%2262350%22%2C%2262353%22%2C%2262360%22%2C%2262363%22%2C%2262366%22%2C%2262369%22%5D%7D",
+  "source_sha256": "fe13127106c6a93bf62ced39bca3206a66f355f137ca49035ef7a064827c7edd",
+  "published_sha256": "87b2b7a99927dced6371a0275ffa5988d34b550c94d44e3ed2c8f0f33233dcce",
+  "corrected_sha256": "7b3b7719056bb37902fb8ef8ce5cb8799af4958ded29cd318ff89a7c824f557c",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "September 19, 1939 selects entry into city service for membership in the named pension plans. The cited 1923, 1943, 1955 and 1966 Acts identify other plans. Neither the heading nor API nor complete body dates commencement of this complete current wording.",
+   "title": "Section 45-37A-51.161 Exception to General Rule.",
+   "content_sha256": "92be61fb91b36c6967df02610b1cb1742c5f9819764b644ca473dd0a6ed0d1e0",
+   "approve_body_dates": true,
+   "quotes": [
+    "ure of Alabama, as amended (Acts 1966, p. 280). (b) No person who may enter the service on or after September 19, 1939, whether in the police or fire department or not, shall become a member of the aforesaid policemen’s pension and relief plans or of aforesaid firemen’s pension and relief pl"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "1939-09-19",
+    "source_phrase": "September 19, 1939",
+    "context": "ct 217 of the 1966 Special Session of the Legislature of Alabama, as amended (Acts 1966, p. 280). (b) No person who may enter the service on or after September 19, 1939, whether in the police or fire department or not, shall become a member of the aforesaid policemen’s pension and relief plans or of aforesaid firemen"
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-037a-051-195.md",
+  "section": "45-37A-51.195",
+  "code_id": "62363",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245733%22%2C%2245839%22%2C%2245840%22%2C%2248024%22%2C%2258756%22%2C%2260736%22%2C%2262315%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262323%22%2C%2262336%22%2C%2262346%22%2C%2262349%22%2C%2262350%22%2C%2262353%22%2C%2262360%22%2C%2262363%22%2C%2262366%22%2C%2262369%22%5D%7D",
+  "source_sha256": "fe13127106c6a93bf62ced39bca3206a66f355f137ca49035ef7a064827c7edd",
+  "published_sha256": "b7cc4f68ea8375bc9be402ab193d9936acd5c760c56c41dfe7c67239ca4aeefc",
+  "corrected_sha256": "9b5d7d81d9f43a2bf5e5f102b57a19f6c8c352c8367fb793570855a04e09abe4",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "September 1, 1969 and July 1, 2009 select service-entry cohorts for prior-service purchases. The sixty-day deadline runs from a verified written calculation, and interest runs from salary deduction dates. These do not date commencement of the complete current wording.",
+   "title": "Section 45-37A-51.195 New Participants.",
+   "content_sha256": "a674ce929f7e0ef8d72c0311d73a8bdb7e04d4f81ba5bc12e2e62d6c1fe76dfa",
+   "approve_body_dates": true,
+   "quotes": [
+    "e with the county or other municipality and with the city as a temporary employee hired on or after September 1, 1969, but before July 1, 2009. (1) In the event a qualified employee becoming a participant herein on or after September 1, 1969, shall have, prior to becoming a participant, bee",
+    "icipality and with the city as a temporary employee hired on or after September 1, 1969, but before July 1, 2009. (1) In the event a qualified employee becoming a participant herein on or after September 1, 1969, shall have, prior to becoming a participant, been employed (i) by the cou",
+    "efore July 1, 2009. (1) In the event a qualified employee becoming a participant herein on or after September 1, 1969, shall have, prior to becoming a participant, been employed (i) by the county under the provisions of a merit system applicable to the county, (ii) by any other municipality",
+    "e with the county or other municipality and with the city as a temporary employee hired on or after July 1, 2009. (1) In the event a member employee becoming a participant herein, on or after July 1, 2009, shall have prior to becoming a member been employed (i) by the county under the ",
+    "r after July 1, 2009. (1) In the event a member employee becoming a participant herein, on or after July 1, 2009, shall have prior to becoming a member been employed (i) by the county under the provisions of a merit system applicable to the county, (ii) by any other municipality in the"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "1969-09-01",
+    "source_phrase": "September 1, 1969",
+    "context": "(a) Credit for service with the county or other municipality and with the city as a temporary employee hired on or after September 1, 1969, but before July 1, 2009. (1) In the event a qualified employee becoming a participant herein on or after September 1, 1969, shall have, prior to bec"
+   },
+   {
+    "date": "2009-07-01",
+    "source_phrase": "July 1, 2009",
+    "context": "a) Credit for service with the county or other municipality and with the city as a temporary employee hired on or after September 1, 1969, but before July 1, 2009. (1) In the event a qualified employee becoming a participant herein on or after September 1, 1969, shall have, prior to becoming a participant, been"
+   },
+   {
+    "date": "1969-09-01",
+    "source_phrase": "September 1, 1969",
+    "context": "mployee hired on or after September 1, 1969, but before July 1, 2009. (1) In the event a qualified employee becoming a participant herein on or after September 1, 1969, shall have, prior to becoming a participant, been employed (i) by the county under the provisions of a merit system applicable to the county, (ii) b"
+   },
+   {
+    "date": "2009-07-01",
+    "source_phrase": "July 1, 2009",
+    "context": " vesting rights in the plan. (b) Credit for service with the county or other municipality and with the city as a temporary employee hired on or after July 1, 2009. (1) In the event a member employee becoming a participant herein, on or after July 1, 2009, shall have prior to becoming a member been employed (i) "
+   },
+   {
+    "date": "2009-07-01",
+    "source_phrase": "July 1, 2009",
+    "context": "d with the city as a temporary employee hired on or after July 1, 2009. (1) In the event a member employee becoming a participant herein, on or after July 1, 2009, shall have prior to becoming a member been employed (i) by the county under the provisions of a merit system applicable to the county, (ii) by any o"
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-037a-051-225.md",
+  "section": "45-37A-51.225",
+  "code_id": "62374",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262374%22%2C%2262375%22%2C%2262377%22%2C%2262384%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262394%22%2C%2262395%22%2C%2262407%22%2C%2262414%22%5D%7D",
+  "source_sha256": "e6692e98d7d0ed859ccdc93e64918a0f4c1010d1a159c053b5a288b4e30b199e",
+  "published_sha256": "ad1ffd8dbd7fc8621a9c7bf05d0117a6ab0bb196d493a6cd2291c7ab109183e6",
+  "corrected_sha256": "92ecfea9880481f0a9a0d12f1c6477e9646b9058403254416dbf85302710d71a",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "July 1, 2017 selects the participant-entry cohort; July 1, 2021 selects disability-event cohorts for benefit eligibility and limits. Benefits commence upon cessation of salary, and the law at commencement of individual disability selects its rate. These dates do not state commencement of this complete current wording.",
+   "title": "Section 45-37A-51.225 Ordinary Disability Allowance.",
+   "content_sha256": "88204dfa485ab05b54144de29ed66b05c24c2242d81f2513b80347f26ef0c5ac",
+   "approve_body_dates": true,
+   "quotes": [
+    " subject to subsections (e) and (f), for all participants who first become participants on or after July 1, 2017, in the event a participant, after having accrued 10 or more years of credited service, becomes totally disabled to perform his or her customary duties as an employee of the",
+    "is or her years of credited service at the date of disability. (c) Benefits payable hereunder shall commence upon the cessation of the disabled participant’s drawing a salary from the city and shall continue until such time as the participant is no longer totally disabled to perform his ",
+    "e of such disability as provided and at the rate prescribed by the law in effect at the time of the commencement of such disability. If any disability beneficiary should become separated from the service and withdraw such disability beneficiary’s contributions, his or her right to continuanc",
+    " to the contrary contained in this section, for all participants who incur a disability on or after July 1, 2021, other than fire and police employees, in the event the participant, after having accrued 10 or more years of credited service, becomes totally disabled to perform his or he",
+    " to the contrary contained in this section, for all participants who incur a disability on or after July 1, 2021, other than fire and police employees, the maximum ordinary disability allowance payable hereunder shall be 1.75 percent of final average salary per year of credited service"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "2017-07-01",
+    "source_phrase": "July 1, 2017",
+    "context": "ing to the contrary contained in this section, yet subject to subsections (e) and (f), for all participants who first become participants on or after July 1, 2017, in the event a participant, after having accrued 10 or more years of credited service, becomes totally disabled to perform his or her customary duti"
+   },
+   {
+    "date": "2021-07-01",
+    "source_phrase": "July 1, 2021",
+    "context": "ll immediately cease. (f) Notwithstanding anything to the contrary contained in this section, for all participants who incur a disability on or after July 1, 2021, other than fire and police employees, in the event the participant, after having accrued 10 or more years of credited service, becomes totally disab"
+   },
+   {
+    "date": "2021-07-01",
+    "source_phrase": "July 1, 2021",
+    "context": "e date of disability. (g) Notwithstanding anything to the contrary contained in this section, for all participants who incur a disability on or after July 1, 2021, other than fire and police employees, the maximum ordinary disability allowance payable hereunder shall be 1.75 percent of final average salary per "
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-037a-051-237.md",
+  "section": "45-37A-51.237",
+  "code_id": "62384",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262374%22%2C%2262375%22%2C%2262377%22%2C%2262384%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262394%22%2C%2262395%22%2C%2262407%22%2C%2262414%22%5D%7D",
+  "source_sha256": "e6692e98d7d0ed859ccdc93e64918a0f4c1010d1a159c053b5a288b4e30b199e",
+  "published_sha256": "fa2b93c90de86051f614677d83fe15da8b135e81b7ff09cb92dab07cecaa6283",
+  "corrected_sha256": "30edd11c9b22731f891ce2d2fa1c23c934d955712e928772718ad3a14e2816c7",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "May 18, 2017 fixes the police/fire staffing baseline for the twenty-percent rehire cap. Forty-five days and ten years measure individual retirement and reemployment periods. An actuarial study precedes implementation but supplies no calendar commencement date for complete current wording.",
+   "title": "Section 45-37A-51.237 Payment of Benefits During Period of Reemployment.",
+   "content_sha256": "b01dda4811f12a0de1272bac202f522f9986e70f17431f8af934d7bd9ba5fe8c",
+   "approve_body_dates": true,
+   "quotes": [
+    "rs pursuant to this section that exceeds 20 percent of the city’s entire authorized police force on May 18, 2017. b. The city may not employ a number of retired firefighters pursuant to this section that exceeds 20 percent of the city’s entire authorized firefighter force on May 18, 20",
+    "rsuant to this section that exceeds 20 percent of the city’s entire authorized firefighter force on May 18, 2017. (9)a. The city shall employ retired law enforcement officers only at ranks below sergeant and may not promote subsequently employed retired law enforcement officers above t"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "2017-05-18",
+    "source_phrase": "May 18, 2017",
+    "context": " employ a number of retired law enforcement officers pursuant to this section that exceeds 20 percent of the city’s entire authorized police force on May 18, 2017. b. The city may not employ a number of retired firefighters pursuant to this section that exceeds 20 percent of the city’s entire authorized firefig"
+   },
+   {
+    "date": "2017-05-18",
+    "source_phrase": "May 18, 2017",
+    "context": "may not employ a number of retired firefighters pursuant to this section that exceeds 20 percent of the city’s entire authorized firefighter force on May 18, 2017. (9)a. The city shall employ retired law enforcement officers only at ranks below sergeant and may not promote subsequently employed retired law enfo"
+   }
+  ],
+  "source_start": null
+ }
+]

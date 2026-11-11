@@ -1,0 +1,203 @@
+[
+ {
+  "file": "title-5/005-024-004.md",
+  "section": "5-24-4",
+  "code_id": "19919",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2215742%22%2C%2215747%22%2C%2215758%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2219919%22%2C%2221003%22%2C%2222246%22%2C%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229256%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2240153%22%5D%7D",
+  "source_sha256": "42418015f2f064df8064bd3f9b9943d1558e34b02d5ea854d0f0dbd44b94a586",
+  "published_sha256": "d780f7a5c5498019ec9ade69d87ff42facc9e088614abafba7b2123ea56b7b05",
+  "corrected_sha256": "4ad928996e01b5157d19c53ce5133f40e332580a1353c12feb19868e5c28d0d0",
+  "tables": 3,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "The complete heading/body contain no calendar commencement date. CALS namest=col2 places the single named cell in column two; the missing preceding slot is empty, not omitted law words.",
+   "content_sha256": "3e6467090195dd828adecfd673cd93c02e6332d632e1c6a3a38cdd040bb3cca2",
+   "title": "Section 5-24-4 Forms.",
+   "quotes": [],
+   "approve_body_dates": true
+  },
+  "body_dates": [],
+  "source_start": null
+ },
+ {
+  "file": "title-9/009-009-032.md",
+  "section": "9-9-32",
+  "code_id": "21003",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2215742%22%2C%2215747%22%2C%2215758%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2219919%22%2C%2221003%22%2C%2222246%22%2C%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229256%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2240153%22%5D%7D",
+  "source_sha256": "42418015f2f064df8064bd3f9b9943d1558e34b02d5ea854d0f0dbd44b94a586",
+  "published_sha256": "3f1823e08816c94b6f4ef63a7aea1a1e1718a31c4c267f1c14518ba38d1329f1",
+  "corrected_sha256": "df10bb67b0bdf16322399b42b6c23dda30af5c5e261d26915a0504da9fa3393d",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "The dates are recurring annual collection/sale deadlines without a year. CALS namest=col3 places the named cell in column three after an empty second slot. No calendar commencement date is supplied.",
+   "content_sha256": "710d2bca07fbe834cd9c8722d9a1fdda1926f8241ac4bf7963b401b4e81addd0",
+   "title": "Section 9-9-32 Levy of Annual Installment of Tax; Form of Certificate and Order Directing Collection of Tax; Preparation of Tax Record; Proceedings as to Delinquencies.",
+   "quotes": [],
+   "approve_body_dates": true
+  },
+  "body_dates": [],
+  "source_start": null
+ },
+ {
+  "file": "title-40/040-018-545.md",
+  "section": "40-18-545",
+  "code_id": "60189",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2240175%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2258756%22%2C%2260189%22%2C%2260736%22%2C%2262315%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262323%22%2C%2262336%22%2C%2262346%22%2C%2262349%22%2C%2262350%22%5D%7D",
+  "source_sha256": "7ff35f1f9016f3ab86982023ae0adf18b57697296ad05b791e444a757e941c8d",
+  "published_sha256": "f8c643ad7fe19299a3ccd151e75e83a5c84c697f4c43ea75bfbd68347b169e54",
+  "corrected_sha256": "3192606d8327a6b7413def7eb52bcb0e51b3a03277146eff9375d012a4b82e68",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "January 1, 2025 is expressly the deadline for agency rule adoption. Quarter-end reallocation and tax-year refund rules concern administration; none dates commencement of the complete current wording.",
+   "content_sha256": "8a6b2806a23b510012ee80323ea7b6f23e7638008620506c1db3bccbae066ac0",
+   "title": "Section 40-18-545 Rulemaking; Assignment of Credits; Refunds; Child Care Tax Credit Account.",
+   "quotes": [
+    "uman Resources and the Department of Revenue shall adopt rules as necessary, on or before January 1, 2025, for the implementation and administration of this article. Such rules shall ensure that: (1) At least 25 percent of the amounts specified in Section 40-18-542(b) are reserved for awards to sma"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2025-01-01",
+    "source_phrase": "January 1, 2025",
+    "context": "(a) The Department of Human Resources and the Department of Revenue shall adopt rules as necessary, on or before January 1, 2025, for the implementation and administration of this article. Such rules shall ensure that: (1) At least 25 percent of the amounts specified in Section"
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-037a-051-222.md",
+  "section": "45-37A-51.222",
+  "code_id": "62371",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262353%22%2C%2262360%22%2C%2262363%22%2C%2262366%22%2C%2262369%22%2C%2262371%22%2C%2262373%22%2C%2262374%22%2C%2262375%22%2C%2262377%22%2C%2262384%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262394%22%2C%2262395%22%2C%2262407%22%2C%2262414%22%5D%7D",
+  "source_sha256": "d9ca6f680d7bd31b44ae5bb7ccc79a5d2dc02f625ffc1403fb056b901fb35ff2",
+  "published_sha256": "7b0b83d534a8f66559068a5113e11e87dddf945d6c9a34d7978e94ce18c2ccf0",
+  "corrected_sha256": "eb3b4511d147fdab6297474e5174e03cd5342dcb94d53938c5c986d97dbf25ad",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "July 1, 2017 selects participant-entry cohorts for five/ten-year vesting and age-60/62 benefits. Dates of retirement select the applicable multiplier; they do not supply a calendar commencement date for this complete wording.",
+   "content_sha256": "aeea699bf6e1652f737897e5c8702e044b434caef50e65a12503a02e4fb229d2",
+   "title": "Section 45-37A-51.222 Participants Vesting.",
+   "quotes": [
+    "(a) (1) All participants who are participants before July 1, 2017, shall vest at five years of credited service. (2) Notwithstanding anything to the contrary contained in this section, all participants who first become participants on or after July 1, 2017, s",
+    "ary contained in this section, all participants who first become participants on or after July 1, 2017, shall vest at 10 years of credited service. (b) All participants may purchase previous city, county, and city library time by paying the contribution plus interest as provided herein. (c) Part",
+    "beginning at age 60 years in an amount equal to a multiplier in the applicable percentage effective on the date of retirement as set forth in Section 45-37A-51.220 of the employee’s monthly final average salary multiplied by his or her years of credited service. The benefit shall continue throughou",
+    "fund. The amount payable, calculated by using the multiplier in the applicable percentage effective on the date of retirement per year of credited service, shall be reduced by being calculated at a lower percentage per year of credited service if for any reason current service retirees receive less",
+    "y contained in subsection (c), all participants who first become participants on or after July 1, 2017, upon termination of the employment after 10 years of actual service to the city or other employing participating entity, may leave in the system fund all contributions made by the former emplo",
+    "beginning at age 62 years in an amount equal to a multiplier in the applicable percentage effective on the date of retirement as set forth in Section 45-37A-51.220 of the employee’s monthly final average salary multiplied by his or her years of credited service. The benefit shall continue throughou",
+    "fund. The amount payable, calculated by using the multiplier in the applicable percentage effective on the date of retirement per year of credited service, shall be reduced by being calculated at a lower percentage per year of credited service if for any reason current service retirees receive less"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2017-07-01",
+    "source_phrase": "July 1, 2017",
+    "context": "(a) (1) All participants who are participants before July 1, 2017, shall vest at five years of credited service. (2) Notwithstanding anything to the contrary contained in this section, all participants who first bec"
+   },
+   {
+    "date": "2017-07-01",
+    "source_phrase": "July 1, 2017",
+    "context": " credited service. (2) Notwithstanding anything to the contrary contained in this section, all participants who first become participants on or after July 1, 2017, shall vest at 10 years of credited service. (b) All participants may purchase previous city, county, and city library time by paying the contributio"
+   },
+   {
+    "date": "2017-07-01",
+    "source_phrase": "July 1, 2017",
+    "context": "redited service. (d) Notwithstanding anything to the contrary contained in subsection (c), all participants who first become participants on or after July 1, 2017, upon termination of the employment after 10 years of actual service to the city or other employing participating entity, may leave in the system fun"
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-037a-051-224.md",
+  "section": "45-37A-51.224",
+  "code_id": "62373",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262353%22%2C%2262360%22%2C%2262363%22%2C%2262366%22%2C%2262369%22%2C%2262371%22%2C%2262373%22%2C%2262374%22%2C%2262375%22%2C%2262377%22%2C%2262384%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262394%22%2C%2262395%22%2C%2262407%22%2C%2262414%22%5D%7D",
+  "source_sha256": "d9ca6f680d7bd31b44ae5bb7ccc79a5d2dc02f625ffc1403fb056b901fb35ff2",
+  "published_sha256": "04d5a54c8b919e398cd176326aaa2770f8d75dd47a92f3338040cfea32db13d8",
+  "corrected_sha256": "2677ee80dd6014ffaf23546fcc42c554db8b25e74d07f74a1fbbe6a93fb4a723",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "July 1, 2017 selects the participant-entry cohort for the age-62 retirement rule. Commencement references are to individual benefit payments and the 60-day certification window, not statutory commencement of this complete wording.",
+   "content_sha256": "d040afec84c5ae5c4a3a91ed67542e0d2955709e9e88acd3fe747e39dba35aad",
+   "title": "Section 45-37A-51.224 Involuntary Retirement.",
+   "quotes": [
+    " be made within the prescribed time, the monthly retirement benefit thus determined shall commence upon his or her attainment of age 60. However, should such employee, prior to attaining age 60 and prior to the commencement of his or her benefits, withdraw such employee’s own contributions to the ",
+    "ment of age 60. However, should such employee, prior to attaining age 60 and prior to the commencement of his or her benefits, withdraw such employee’s own contributions to the system, he or she shall forfeit his or her right to the monthly retirement benefits. (b) Notwithstanding anything to the cont",
+    "contained in this section, for all participants who first become participants on or after July 1, 2017, in the event a participant is involuntarily retired after having completed 20 or more years of credited service prior to attaining the age of 62 years, the participant shall be entitled to a m",
+    "not made within the prescribed time, the monthly retirement benefit thus determined shall commence upon his or her attainment of age 62. If the employee, prior to attaining age 62 and prior to the commencement of his or her benefits, withdraw the employee’s own contributions to the system, the emp",
+    " or her attainment of age 62. If the employee, prior to attaining age 62 and prior to the commencement of his or her benefits, withdraw the employee’s own contributions to the system, the employee shall forfeit his or her right to the monthly retirement benefits. (c) Anything herein to the contrary no",
+    "hing herein to the contrary notwithstanding, the monthly retirement benefit shall neither commence nor be payable during any period when such involuntarily retired participant shall refuse or fail to accept employment by the city at a rate of compensation equal to that he or she was receiving at t"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2017-07-01",
+    "source_phrase": "July 1, 2017",
+    "context": "ment benefits. (b) Notwithstanding anything to the contrary contained in this section, for all participants who first become participants on or after July 1, 2017, in the event a participant is involuntarily retired after having completed 20 or more years of credited service prior to attaining the age of 62 yea"
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-037a-240-001.md",
+  "section": "45-37A-240.01",
+  "code_id": "46501",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2240175%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2258756%22%2C%2260189%22%2C%2260736%22%2C%2262315%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262323%22%2C%2262336%22%2C%2262346%22%2C%2262349%22%2C%2262350%22%5D%7D",
+  "source_sha256": "7ff35f1f9016f3ab86982023ae0adf18b57697296ad05b791e444a757e941c8d",
+  "published_sha256": "71c1c826832eb7247238ac5388b70ed2532569290ff1b3ce73e6448bd35457f5",
+  "corrected_sha256": "f8da38c6da1a2bb14afafb145a2e39f11f985a4d9cc6f3f6b02d7cea8972a083",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "May 24, 2005 selects conviction/guilty-plea events for collection of the prisoner transport fee. It does not expressly date commencement of the whole current section.",
+   "content_sha256": "e42f2bf8719a4a6c35abebe1f53decfba8bcd96b6cf306ee611685d10711ab3b",
+   "title": "Section 45-37A-240.01 Prisoner Transport Fee.",
+   "quotes": [
+    "may be collected only when a defendant is adjudicated guilty or pleads guilty on or after May 24, 2005. The prisoner transport fee shall be collected from the defendant as court costs and other fees are collected. (3) Assessment of a prisoner transport fee by the municipal court is permitted onl"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2005-05-24",
+    "source_phrase": "May 24, 2005",
+    "context": " transport is required as described in subdivision (1), and may be collected only when a defendant is adjudicated guilty or pleads guilty on or after May 24, 2005. The prisoner transport fee shall be collected from the defendant as court costs and other fees are collected. (3) Assessment of a prisoner transport"
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-037a-270.md",
+  "section": "45-37A-270",
+  "code_id": "46559",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2240175%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2246501%22%2C%2246559%22%2C%2248024%22%2C%2258756%22%2C%2260189%22%2C%2260736%22%2C%2262315%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262323%22%2C%2262336%22%2C%2262346%22%2C%2262349%22%2C%2262350%22%5D%7D",
+  "source_sha256": "7ff35f1f9016f3ab86982023ae0adf18b57697296ad05b791e444a757e941c8d",
+  "published_sha256": "d0d63d8bbe189b23b6ce3ec80acae8e1aae601dca482db58718eb8d0cb17f3b6",
+  "corrected_sha256": "70fc8a00bb9514d144eaf13d86ece9271d1329d56e9b1156b2497f443c4df222",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "May 22, 2013 selects conviction/guilty-plea events for collection of the prisoner transport fee. It does not expressly date commencement of the whole current section.",
+   "content_sha256": "c775f4e3f29e6591eb084e1ff16096b605fed50184d4e97a716ffafbbf433163",
+   "title": "Section 45-37A-270 Prisoner Transport Fee.",
+   "quotes": [
+    "may be collected only when a defendant is adjudicated guilty or pleads guilty on or after May 22, 2013. The prisoner transport fee shall be collected from the defendant as court costs and other fees are collected. (3) Assessment of a prisoner transport fee by the municipal court is permitted onl"
+   ],
+   "approve_body_dates": true
+  },
+  "body_dates": [
+   {
+    "date": "2013-05-22",
+    "source_phrase": "May 22, 2013",
+    "context": " transport is required as described in subdivision (1), and may be collected only when a defendant is adjudicated guilty or pleads guilty on or after May 22, 2013. The prisoner transport fee shall be collected from the defendant as court costs and other fees are collected. (3) Assessment of a prisoner transport"
+   }
+  ],
+  "source_start": null
+ }
+]

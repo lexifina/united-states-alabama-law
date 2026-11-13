@@ -152,3 +152,7 @@ This batch leaves 61 cases in the audited discrepancy range unresolved. The sepa
 ## Held section source audit
 
 `data/held-section-source-audit.json` identifies 49 unresolved section cases from the earlier source review, checked again against the Alabama Legislature on November 13, 2026. It records each official response, source row hash and supplied date fields alongside the unchanged published file hash. The eight separate Title 40 corrections held for a correction or rework job are outside this index. This audit changes no statute wording or dates and does not resolve the held cases.
+
+## Official source image inventory
+
+An all-act ALISON source-media audit checked the Constitution and all 46 Code title roots on November 13, 2026. The audit examined 60204 official source rows and found 1 row with source media markup. The inventory is recorded in `data/source-image-inventory.json`. It changes no statute text and does not resolve the remaining wording/date holds.

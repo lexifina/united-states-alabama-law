@@ -1,0 +1,363 @@
+{
+ "kind": "official-source-media-inventory",
+ "checked_on": "2026-11-13",
+ "published_reference": "eb845f73a857024d6694790c0095ec577d2eb40b",
+ "source": "https://alison.legislature.state.al.us",
+ "acts_checked": 47,
+ "source_rows_checked": 60204,
+ "rows_with_source_media": 1,
+ "unclassified_rows": 0,
+ "records": [
+  {
+   "act": "constitution",
+   "title": "Constitution of Alabama (2022 recompilation)",
+   "source_ids_checked": 1125,
+   "source_rows_checked": 1125,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-1",
+   "title": "Code of Alabama 1975, Title 1 General Provisions.",
+   "source_ids_checked": 92,
+   "source_rows_checked": 92,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-2",
+   "title": "Code of Alabama 1975, Title 2 Agriculture.",
+   "source_ids_checked": 1353,
+   "source_rows_checked": 1353,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-3",
+   "title": "Code of Alabama 1975, Title 3 Animals.",
+   "source_ids_checked": 120,
+   "source_rows_checked": 120,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-4",
+   "title": "Code of Alabama 1975, Title 4 Aviation.",
+   "source_ids_checked": 195,
+   "source_rows_checked": 195,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-5",
+   "title": "Code of Alabama 1975, Title 5 Banks and Financial Institutions.",
+   "source_ids_checked": 690,
+   "source_rows_checked": 690,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-6",
+   "title": "Code of Alabama 1975, Title 6 Civil Practice.",
+   "source_ids_checked": 1070,
+   "source_rows_checked": 1070,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-7",
+   "title": "Code of Alabama 1975, Title 7 Commercial Code.",
+   "source_ids_checked": 832,
+   "source_rows_checked": 832,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-8",
+   "title": "Code of Alabama 1975, Title 8 Commercial Law and Consumer Protection.",
+   "source_ids_checked": 1198,
+   "source_rows_checked": 1198,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-9",
+   "title": "Code of Alabama 1975, Title 9 Conservation and Natural Resources.",
+   "source_ids_checked": 1423,
+   "source_rows_checked": 1423,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-10",
+   "title": "Code of Alabama 1975, Title 10 Corporations, Partnerships, and Associations.",
+   "source_ids_checked": 1128,
+   "source_rows_checked": 1128,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-10a",
+   "title": "Code of Alabama 1975, Title 10A Alabama Business and Nonprofit Entities Code.",
+   "source_ids_checked": 1826,
+   "source_rows_checked": 1826,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-11",
+   "title": "Code of Alabama 1975, Title 11 Counties and Municipal Corporations.",
+   "source_ids_checked": 4273,
+   "source_rows_checked": 4273,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-12",
+   "title": "Code of Alabama 1975, Title 12 Courts.",
+   "source_ids_checked": 1450,
+   "source_rows_checked": 1450,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-13a",
+   "title": "Code of Alabama 1975, Title 13A Criminal Code.",
+   "source_ids_checked": 993,
+   "source_rows_checked": 993,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-14",
+   "title": "Code of Alabama 1975, Title 14 Criminal Correctional and Detention Facilities.",
+   "source_ids_checked": 387,
+   "source_rows_checked": 387,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-15",
+   "title": "Code of Alabama 1975, Title 15 Criminal Procedure.",
+   "source_ids_checked": 943,
+   "source_rows_checked": 943,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-16",
+   "title": "Code of Alabama 1975, Title 16 Education.",
+   "source_ids_checked": 2483,
+   "source_rows_checked": 2483,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-17",
+   "title": "Code of Alabama 1975, Title 17 Elections.",
+   "source_ids_checked": 531,
+   "source_rows_checked": 531,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-18",
+   "title": "Code of Alabama 1975, Title 18 Eminent Domain.",
+   "source_ids_checked": 178,
+   "source_rows_checked": 178,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-19",
+   "title": "Code of Alabama 1975, Title 19 Fiduciaries and Trusts.",
+   "source_ids_checked": 420,
+   "source_rows_checked": 420,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-20",
+   "title": "Code of Alabama 1975, Title 20 Food, Drugs and Cosmetics.",
+   "source_ids_checked": 282,
+   "source_rows_checked": 282,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-21",
+   "title": "Code of Alabama 1975, Title 21 Handicapped Persons.",
+   "source_ids_checked": 133,
+   "source_rows_checked": 133,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-22",
+   "title": "Code of Alabama 1975, Title 22 Health, Mental Health, and Environmental Control.",
+   "source_ids_checked": 1845,
+   "source_rows_checked": 1845,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-23",
+   "title": "Code of Alabama 1975, Title 23 Highways, Roads, Bridges and Ferries.",
+   "source_ids_checked": 396,
+   "source_rows_checked": 396,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-24",
+   "title": "Code of Alabama 1975, Title 24 Housing.",
+   "source_ids_checked": 258,
+   "source_rows_checked": 258,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-25",
+   "title": "Code of Alabama 1975, Title 25 Industrial Relations and Labor.",
+   "source_ids_checked": 661,
+   "source_rows_checked": 661,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-26",
+   "title": "Code of Alabama 1975, Title 26 Infants and Incompetents.",
+   "source_ids_checked": 862,
+   "source_rows_checked": 869,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-27",
+   "title": "Code of Alabama 1975, Title 27 Insurance.",
+   "source_ids_checked": 1677,
+   "source_rows_checked": 1679,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-28",
+   "title": "Code of Alabama 1975, Title 28 Intoxicating Liquor, Malt Beverages and Wine.",
+   "source_ids_checked": 526,
+   "source_rows_checked": 526,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-29",
+   "title": "Code of Alabama 1975, Title 29 Legislature.",
+   "source_ids_checked": 317,
+   "source_rows_checked": 317,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-30",
+   "title": "Code of Alabama 1975, Title 30 Marital and Domestic Relations.",
+   "source_ids_checked": 534,
+   "source_rows_checked": 534,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-31",
+   "title": "Code of Alabama 1975, Title 31 Military Affairs and Civil Defense.",
+   "source_ids_checked": 645,
+   "source_rows_checked": 645,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-32",
+   "title": "Code of Alabama 1975, Title 32 Motor Vehicles and Traffic.",
+   "source_ids_checked": 1124,
+   "source_rows_checked": 1129,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-33",
+   "title": "Code of Alabama 1975, Title 33 Navigation and Watercourses.",
+   "source_ids_checked": 572,
+   "source_rows_checked": 576,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-34",
+   "title": "Code of Alabama 1975, Title 34 Professions and Businesses.",
+   "source_ids_checked": 2199,
+   "source_rows_checked": 2203,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-35",
+   "title": "Code of Alabama 1975, Title 35 Property.",
+   "source_ids_checked": 977,
+   "source_rows_checked": 977,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-36",
+   "title": "Code of Alabama 1975, Title 36 Public Officers and Employees.",
+   "source_ids_checked": 1261,
+   "source_rows_checked": 1262,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-37",
+   "title": "Code of Alabama 1975, Title 37 Public Utilities and Public Transportation.",
+   "source_ids_checked": 685,
+   "source_rows_checked": 695,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-38",
+   "title": "Code of Alabama 1975, Title 38 Public Welfare.",
+   "source_ids_checked": 291,
+   "source_rows_checked": 291,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-39",
+   "title": "Code of Alabama 1975, Title 39 Public Works.",
+   "source_ids_checked": 90,
+   "source_rows_checked": 90,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-40",
+   "title": "Code of Alabama 1975, Title 40 Revenue and Taxation.",
+   "source_ids_checked": 2270,
+   "source_rows_checked": 2273,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-41",
+   "title": "Code of Alabama 1975, Title 41 State Government.",
+   "source_ids_checked": 2254,
+   "source_rows_checked": 2254,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-42",
+   "title": "Code of Alabama 1975, Title 42 United States.",
+   "source_ids_checked": 21,
+   "source_rows_checked": 21,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-43",
+   "title": "Code of Alabama 1975, Title 43 Wills and Decedents’ Estates.",
+   "source_ids_checked": 549,
+   "source_rows_checked": 549,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-44",
+   "title": "Code of Alabama 1975, Title 44 Youth Services.",
+   "source_ids_checked": 87,
+   "source_rows_checked": 87,
+   "rows_with_source_media": []
+  },
+  {
+   "act": "title-45",
+   "title": "Code of Alabama 1975, Title 45 Local Laws.",
+   "source_ids_checked": 16942,
+   "source_rows_checked": 16942,
+   "rows_with_source_media": [
+    {
+     "section": "45-57A-63.31",
+     "file": "title-45/045-057a-063-031.md",
+     "code_id": "59830",
+     "title": "Section 45-57A-63.31 Statement of Candidacy.",
+     "effective_date": null,
+     "supersession_date": null,
+     "media": [
+      {
+       "tag": "img",
+       "attrs": {
+        "width": "69",
+        "height": "2",
+        "src": "file:///C:/Users/TGWALL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.gif",
+        "v:shapes": "Group_x0020_1180 Graphic_x0020_1181",
+        "style": "color: initial;"
+       }
+      }
+     ],
+     "assessment": "decorative clipped line image from source editor markup"
+    }
+   ]
+  }
+ ]
+}

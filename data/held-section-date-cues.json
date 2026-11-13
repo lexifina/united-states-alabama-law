@@ -1,0 +1,3785 @@
+{
+ "kind": "official-held-section-date-cues",
+ "checked_on": "2026-11-13",
+ "source": "https://alison.legislature.state.al.us",
+ "scope": "49 unresolved source sections; quotes are evidence, not whole-section commencement decisions",
+ "records": [
+  {
+   "section": "9-12-180",
+   "file": "title-9/009-012-180.md",
+   "code_id": "23031",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "9-12-180",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "ee8378d9a887390ae314d5587b4aa9ea7ead8cd0cb7ef4cca1cfb6443165f84b",
+     "history_sha256": "aabf15b337f0561642a4345e31d1eba7b019542d6163c4210b4931f5c7c94202",
+     "body_cues": [
+      {
+       "offset": 7806,
+       "cue": "until",
+       "quote": "o. Such initial appropriations as are set forth below shall be made available yearly until modified as hereinafter provided: Florida ..... $ 3,500.00 Alabama ..... 1,000.00 Mississippi ..... 1,000.00 Louis"
+      },
+      {
+       "offset": 8571,
+       "cue": "until",
+       "quote": "I This compact shall continue in force and remain binding upon each compacting state until renounced by act of the legislature of such state, in such form as it may choose; provided, that such renunciation"
+      },
+      {
+       "offset": 8709,
+       "cue": "effective",
+       "quote": "te, in such form as it may choose; provided, that such renunciation shall not become effective until six months after the effective date of the action taken by the legislature. Notice of such renunciation shal"
+      },
+      {
+       "offset": 8719,
+       "cue": "until",
+       "quote": "h form as it may choose; provided, that such renunciation shall not become effective until six months after the effective date of the action taken by the legislature. Notice of such renunciation shall be g"
+      },
+      {
+       "offset": 8746,
+       "cue": "effective",
+       "quote": "ovided, that such renunciation shall not become effective until six months after the effective date of the action taken by the legislature. Notice of such renunciation shall be given to the other states party "
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "11-1-5",
+   "file": "title-11/011-001-005.md",
+   "code_id": "4264",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "11-1-5",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "fc5be0d5b30d4dff94599e19a8ba3520c1ae824911e7cd91417b08f080bd1c1a",
+     "history_sha256": "c1d4d45d4a3d2efecbfcab5c16c55923e4a34454e4b00f49414d952d835038d8",
+     "body_cues": [
+      {
+       "offset": 144,
+       "cue": "October 1, 1970",
+       "quote": "and uniformity of designation, each county governing body in this state shall, after October 1, 1970, be designated and known as the __________ county commission. (name of county) (b) The provision of this section s"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "12-19-171",
+   "file": "title-12/012-019-171.md",
+   "code_id": "26905",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "12-19-171",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "4c7d9a81538028bc08b6cb15ddf2a18dfbc94c669ac97df75280689fc945a9f0",
+     "history_sha256": "e2dd0170d604cd61f37d5c907fe75a4c00da6811af9edc58fbff3b03fd9e9bea",
+     "body_cues": [
+      {
+       "offset": 1317,
+       "cue": "Effective",
+       "quote": "5) to the county general fund. (2) Three dollars ($3) to the State General Fund. (c) Effective October 1, 2000, the docket fees in criminal and juvenile cases shall be increased by five dollars ($5) and the ad"
+      },
+      {
+       "offset": 1327,
+       "cue": "October 1, 2000",
+       "quote": "county general fund. (2) Three dollars ($3) to the State General Fund. (c) Effective October 1, 2000, the docket fees in criminal and juvenile cases shall be increased by five dollars ($5) and the additional fee sha"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "12-19-172",
+   "file": "title-12/012-019-172.md",
+   "code_id": "26906",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "12-19-172",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "b2e2aa7c62dc86231828192ca04dfa95ba35f83db7f4c5d29cf5d104068bca30",
+     "history_sha256": "86ccaf6776e1e1c3723aaed110fe91209d86f173976e4fb4bea1a8e1fffb124d",
+     "body_cues": [
+      {
+       "offset": 233,
+       "cue": "Effective",
+       "quote": "alias writ 20.00 (3) Other ordinance violations 117.00 (4) Bond forfeiture 65.00 (b) Effective October 1, 2000, the docket fee in municipal ordinance cases in district and circuit courts shall be increased by "
+      },
+      {
+       "offset": 243,
+       "cue": "October 1, 2000",
+       "quote": " 20.00 (3) Other ordinance violations 117.00 (4) Bond forfeiture 65.00 (b) Effective October 1, 2000, the docket fee in municipal ordinance cases in district and circuit courts shall be increased by five dollars ($5"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "14-13-2",
+   "file": "title-14/014-013-002.md",
+   "code_id": "24541",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "14-13-2",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "ee045304e736854f6b523cac01dd1a03b51b6992747709afb514cd1aecd923fe",
+     "history_sha256": "bf56f89b9e51ffa129325f4248e913040ac38b82bd0b1b275170393d0f4966e1",
+     "body_cues": [
+      {
+       "offset": 5868,
+       "cue": "before",
+       "quote": "pursuant to this compact may be entitled by the laws of the sending state may be had before the appropriate authorities of the sending state, or of the receiving state if authorized by the sending state. Th"
+      },
+      {
+       "offset": 6174,
+       "cue": "before",
+       "quote": "ropriate officials of a sending state. In the event such hearing or hearings are had before officials of the receiving state, the governing law shall be that of the sending state and a record of the hearing"
+      },
+      {
+       "offset": 6489,
+       "cue": "before",
+       "quote": "of the hearing officials shall be transmitted forthwith to the official or officials before whom the hearing would have been had if it had taken place in the sending state. In any and all proceedings had pu"
+      },
+      {
+       "offset": 8466,
+       "cue": "until",
+       "quote": "offense, the inmate shall not be returned without the consent of the receiving state until discharged from prosecution or other form of proceeding, imprisonment or detention for such offense. The duly accr"
+      },
+      {
+       "offset": 8688,
+       "cue": "through",
+       "quote": "f the sending state shall be permitted to transport inmates pursuant to this compact through any and all states’ party to this compact without interference. (b) An inmate who escapes from an institution in w"
+      },
+      {
+       "offset": 10041,
+       "cue": "effective",
+       "quote": "efrom. Article VII (Entry into Force) This compact shall enter into force and become effective and binding upon the states so acting when it has been enacted into law by any two states. Thereafter, this compac"
+      },
+      {
+       "offset": 10201,
+       "cue": "effective",
+       "quote": "to law by any two states. Thereafter, this compact shall enter into force and become effective and binding as to any other of said states upon similar action by such state. Article VIII (Withdrawal and Termina"
+      },
+      {
+       "offset": 10406,
+       "cue": "until",
+       "quote": "mination) This compact shall continue in force and remain binding upon a party state until it shall have enacted a statute repealing the same and providing for the sending of formal written notice of withd"
+      },
+      {
+       "offset": 10648,
+       "cue": "until",
+       "quote": "iate officials of all other party states. An actual withdrawal shall not take effect until one year after the notices provided in said statute have been sent. Such withdrawal shall not relieve the withdraw"
+      },
+      {
+       "offset": 10817,
+       "cue": "prior to",
+       "quote": "rawal shall not relieve the withdrawing state from its obligations assumed hereunder prior to the effective date of withdrawal. Before the effective date of withdrawal, a withdrawing state shall remove to its"
+      },
+      {
+       "offset": 10830,
+       "cue": "effective",
+       "quote": "ot relieve the withdrawing state from its obligations assumed hereunder prior to the effective date of withdrawal. Before the effective date of withdrawal, a withdrawing state shall remove to its territory, at"
+      },
+      {
+       "offset": 10860,
+       "cue": "Before",
+       "quote": "te from its obligations assumed hereunder prior to the effective date of withdrawal. Before the effective date of withdrawal, a withdrawing state shall remove to its territory, at its own expense, such inma"
+      },
+      {
+       "offset": 10871,
+       "cue": "effective",
+       "quote": " obligations assumed hereunder prior to the effective date of withdrawal. Before the effective date of withdrawal, a withdrawing state shall remove to its territory, at its own expense, such inmates as it may "
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "15-9-81",
+   "file": "title-15/015-009-081.md",
+   "code_id": "19127",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "15-9-81",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "0af973ed98aa0bbcf381bf97f7fefdcdcd72b579a7f51ff3a1048d83de4852e9",
+     "history_sha256": "e67c4ed474ea352546608197a13ba4b210d5b6f3f1bb58094d22199f8d30e1f2",
+     "body_cues": [
+      {
+       "offset": 4739,
+       "cue": "prior to",
+       "quote": " If trial is not had on any indictment, information or complaint contemplated hereby prior to the return of the prisoner to the original place of imprisonment, such indictment, information or complaint shall "
+      },
+      {
+       "offset": 6763,
+       "cue": "before",
+       "quote": "that there shall be a period of 30 days after receipt by the appropriate authorities before the request be honored, within which period the Governor of the sending state may disapprove the request for tempo"
+      },
+      {
+       "offset": 8534,
+       "cue": "prior to",
+       "quote": " If trial is not had on any indictment, information or complaint contemplated hereby prior to the prisoner’s being returned to the original place of imprisonment pursuant to Article V(e) hereof, such indictme"
+      },
+      {
+       "offset": 12228,
+       "cue": "until",
+       "quote": "he time that a party state receives custody of a prisoner pursuant to this agreement until such prisoner is returned to the territory and custody of the sending state, the state in which the one or more un"
+      },
+      {
+       "offset": 13865,
+       "cue": "effective",
+       "quote": "t, and who shall provide, within and without the state, information necessary to the effective operation of this agreement. Article VIII. This agreement shall enter into full force and effect as to a party sta"
+      },
+      {
+       "offset": 15878,
+       "cue": "prior to",
+       "quote": "ree as an escape from the institution in which the prisoner was confined immediately prior to having been sent to another state pursuant to the provisions of the agreement on detainers, and shall be punishabl"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "16-23A-1",
+   "file": "title-16/016-023a-001.md",
+   "code_id": "5578",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "16-23A-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "0c5239fbdc6465b0f58497aae8ec0cd01d4ef78ba64b562d202886ee3e40c262",
+     "history_sha256": "2e3256afcea8beec6f84da980a311777c809ac57e4fef813f31142859d0048a3",
+     "body_cues": [
+      {
+       "offset": 5051,
+       "cue": "prior to",
+       "quote": "ceiving state of any persons qualified because of successful completion of a program prior to January 1, 1954. 5. The certification or other acceptance of a person who has been accepted pursuant to the terms "
+      },
+      {
+       "offset": 5060,
+       "cue": "January 1, 1954",
+       "quote": "tate of any persons qualified because of successful completion of a program prior to January 1, 1954. 5. The certification or other acceptance of a person who has been accepted pursuant to the terms of a contract sh"
+      },
+      {
+       "offset": 7492,
+       "cue": "effective",
+       "quote": "ional personnel. Article VIII. Effect and Withdrawal. 1. This agreement shall become effective when enacted into law by two states. Thereafter it shall become effective as to any state upon its enactment of th"
+      },
+      {
+       "offset": 7566,
+       "cue": "effective",
+       "quote": "all become effective when enacted into law by two states. Thereafter it shall become effective as to any state upon its enactment of this agreement. 2. Any party state may withdraw from this agreement by enact"
+      },
+      {
+       "offset": 7765,
+       "cue": "until",
+       "quote": "t by enacting a statute repealing the same, but no such withdrawal shall take effect until one year after the governor of the withdrawing state has given notice in writing of the withdrawal to the governor"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "16-44-1",
+   "file": "title-16/016-044-001.md",
+   "code_id": "7510",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "16-44-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "1b97b33df657a449aef6dc6ee6b1fe597e721e406d11f6230d32a3cf68d1464c",
+     "history_sha256": "5b066f56356f57150a66fd09f9e7adf441c76571254ad0afcc8dddddd2ec3b5e",
+     "body_cues": [
+      {
+       "offset": 11570,
+       "cue": "prior to",
+       "quote": "compact, provided that the commission takes specific action setting aside such funds prior to incurring an obligation to be met in whole or in part in such manner. Except where the commission makes use of fun"
+      },
+      {
+       "offset": 11793,
+       "cue": "prior to",
+       "quote": " it pursuant to Article III G thereof, the commission shall not incur any obligation prior to the allotment of funds by the party states adequate to meet the same. D. The commission shall keep accurate accoun"
+      },
+      {
+       "offset": 13614,
+       "cue": "until",
+       "quote": "ctment, adherence by the governor shall be sufficient to make his state a party only until December 31, 1967. During any period when a state is participating in this compact through gubernatorial action, t"
+      },
+      {
+       "offset": 13620,
+       "cue": "December 31, 1967",
+       "quote": ", adherence by the governor shall be sufficient to make his state a party only until December 31, 1967. During any period when a state is participating in this compact through gubernatorial action, the governor shall "
+      },
+      {
+       "offset": 13703,
+       "cue": "through",
+       "quote": "l December 31, 1967. During any period when a state is participating in this compact through gubernatorial action, the governor shall appoint those persons who, in addition to himself, shall serve as the mem"
+      },
+      {
+       "offset": 14023,
+       "cue": "effective",
+       "quote": "pport of the commission from any source available to him. D. Except for a withdrawal effective on December 31, 1967, in accordance with paragraph C of this article, any party state may withdraw from this compa"
+      },
+      {
+       "offset": 14036,
+       "cue": "December 31, 1967",
+       "quote": "commission from any source available to him. D. Except for a withdrawal effective on December 31, 1967, in accordance with paragraph C of this article, any party state may withdraw from this compact by enacting a stat"
+      },
+      {
+       "offset": 14233,
+       "cue": "until",
+       "quote": "t by enacting a statute repealing the same, but no such withdrawal shall take effect until one year after the governor of the withdrawing state has given notice in writing of the withdrawal to the governor"
+      },
+      {
+       "offset": 14474,
+       "cue": "prior to",
+       "quote": "drawal shall affect any liability already incurred by or chargeable to a party state prior to the time of such withdrawal. Article IX. Construction and Severability. This compact shall be liberally construed "
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "16-65A-1",
+   "file": "title-16/016-065a-001.md",
+   "code_id": "58756",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "16-65A-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "152200f72c3e0121fe62e14ca57d7e09f434c9c62af7abeca2429a7405ae90b3",
+     "history_sha256": "45316909fc3be2802ca46c6e2d843add7d0e6e1ec193a5dc7677d4fccd0184de",
+     "body_cues": [
+      {
+       "offset": 12,
+       "cue": "ACT 2024-444",
+       "quote": "REPEALED BY ACT 2024-444, EFFECTIVE MAY 17, 2024. There is created the Distressed Institutions of Higher Education Revolving Loan Program t"
+      },
+      {
+       "offset": 26,
+       "cue": "EFFECTIVE",
+       "quote": "REPEALED BY ACT 2024-444, EFFECTIVE MAY 17, 2024. There is created the Distressed Institutions of Higher Education Revolving Loan Program to be admini"
+      },
+      {
+       "offset": 36,
+       "cue": "MAY 17, 2024",
+       "quote": "REPEALED BY ACT 2024-444, EFFECTIVE MAY 17, 2024. There is created the Distressed Institutions of Higher Education Revolving Loan Program to be administered by the"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2023-560",
+       "quote": "(Act 2023-560, §1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "22-32-1",
+   "file": "title-22/022-032-001.md",
+   "code_id": "8767",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "22-32-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "b64f62052b772e3ee74e85432d083c8efad0c5798a97d5b8a7f4cbbea32d63c6",
+     "history_sha256": "ebba3e5ed9ab51cac6ef34229fff2dd284fefa9ce79cd47d4a6cc01eab133d44",
+     "body_cues": [
+      {
+       "offset": 5054,
+       "cue": "July 1, 1982",
+       "quote": "e of South Carolina and as licensed for the burial of low-level radioactive waste on July 1, 1982, but in no event shall this disposal facility serve as a regional facility beyond December 31, 1992. k. “State” me"
+      },
+      {
+       "offset": 5149,
+       "cue": "December 31, 1992",
+       "quote": "82, but in no event shall this disposal facility serve as a regional facility beyond December 31, 1992. k. “State” means a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Vir"
+      },
+      {
+       "offset": 6295,
+       "cue": "through",
+       "quote": "ditionally shall have the right of access to facilities made available to the region through agreements entered into by the commission pursuant to Article IV e.9. The right of access by a generator within a "
+      },
+      {
+       "offset": 7653,
+       "cue": "through",
+       "quote": " pertaining to the packaging and transportation of waste generated within or passing through its borders. e. Each party state must provide to the commission on an annual basis, any data and information neces"
+      },
+      {
+       "offset": 13254,
+       "cue": "before",
+       "quote": "rs of the commission for such state or states, as an intervenor or party in interest before congress, state legislatures, any court of law, or any federal, state or local agency, board or commission which h"
+      },
+      {
+       "offset": 17097,
+       "cue": "January 1, 1986",
+       "quote": "al control, after post-closure observation and maintenance of any facility. l. As of January 1, 1986, the management of wastes at regional facilities is restricted to wastes generated within the region, and to waste"
+      },
+      {
+       "offset": 17346,
+       "cue": "January 1, 1986",
+       "quote": " when authorized by the commission pursuant to the provisions of this compact. After January 1, 1986, the commission may prohibit the exportation of waste from the region for the purposes of management. m.1. The com"
+      },
+      {
+       "offset": 18486,
+       "cue": "until",
+       "quote": "gnated by the compact commission as a host state for an additional regional facility until each party state has fulfilled its obligation, as determined by the commission, to have a regional facility operat"
+      },
+      {
+       "offset": 18890,
+       "cue": "prior to",
+       "quote": "ons therefor. Such notification shall be given to the commission at least four years prior to the intended date of closure. Notwithstanding the four year notice requirement herein provided, a host state is no"
+      },
+      {
+       "offset": 20713,
+       "cue": "effective",
+       "quote": "ility already licensed for development or operation on the date this compact becomes effective, except that any such facility shall comply with Article III, Article IV and Article V and shall be subject to any"
+      },
+      {
+       "offset": 21029,
+       "cue": "effective",
+       "quote": "its own premises; 6. Affect any judicial or administrative proceeding pending on the effective date of this compact; 7. Alter the relations between, and the respective internal responsibilities of, the governm"
+      },
+      {
+       "offset": 24754,
+       "cue": "effective",
+       "quote": "ementation of this compact. The provisions of Article V, Section d. shall not become effective until the effective date of the import ban authorized by Article IV, Section 1. as approved by Congress. The Congr"
+      },
+      {
+       "offset": 24764,
+       "cue": "until",
+       "quote": " of this compact. The provisions of Article V, Section d. shall not become effective until the effective date of the import ban authorized by Article IV, Section 1. as approved by Congress. The Congress ma"
+      },
+      {
+       "offset": 24774,
+       "cue": "effective",
+       "quote": "ompact. The provisions of Article V, Section d. shall not become effective until the effective date of the import ban authorized by Article IV, Section 1. as approved by Congress. The Congress may by law withd"
+      },
+      {
+       "offset": 25900,
+       "cue": "until",
+       "quote": " obligations incurred by being declared a party state to this compact shall continue until the effective date of the sanction imposed or as provided in the resolution of the commission imposing the sanctio"
+      },
+      {
+       "offset": 25910,
+       "cue": "effective",
+       "quote": "ns incurred by being declared a party state to this compact shall continue until the effective date of the sanction imposed or as provided in the resolution of the commission imposing the sanction. The commiss"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "22-55-1",
+   "file": "title-22/022-055-001.md",
+   "code_id": "9986",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "22-55-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "3e3de2bbc38d7bdf28a948e12b17bf0163c7bda3e2dfa31f3cbf8c59e0d0db28",
+     "history_sha256": "d0eeadc7cd6127ebe579e0bb9efa35b3de0c508713cdba3c263844cece3fc668",
+     "body_cues": [
+      {
+       "offset": 7292,
+       "cue": "through",
+       "quote": "nt, shall be permitted to transport any patient being moved pursuant to this compact through any and all states party to this compact, without interference. Article VII (a) No person shall be deemed a patien"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "25-4-54",
+   "file": "title-25/025-004-054.md",
+   "code_id": "1119",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "25-4-54",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "6144e6006459da7a8e04d56752680bbd8902e394d25621a700f148a5d8efc0f5",
+     "history_sha256": "7e5dd454a692934367c646666eb21752d1c1d078d5627b71657ee5d15b490364",
+     "body_cues": [
+      {
+       "offset": 69,
+       "cue": "beginning",
+       "quote": "(a) Determination of contribution rates. (1) For the 12-month period beginning on January 1 of each year which begins after December 31, 1996, any employer whose experience rating account has b"
+      },
+      {
+       "offset": 124,
+       "cue": "December 31, 1996",
+       "quote": ". (1) For the 12-month period beginning on January 1 of each year which begins after December 31, 1996, any employer whose experience rating account has been subject to benefit charges throughout at least the fiscal y"
+      },
+      {
+       "offset": 1009,
+       "cue": "beginning",
+       "quote": " computing its benefit ratio pursuant to subsection (d). (2) For the 12-month period beginning on January 1 of each calendar year which begins before January 1, 1997, the rates of contribution shall be determi"
+      },
+      {
+       "offset": 1067,
+       "cue": "before",
+       "quote": "2) For the 12-month period beginning on January 1 of each calendar year which begins before January 1, 1997, the rates of contribution shall be determined as was prescribed by this section prior to January "
+      },
+      {
+       "offset": 1074,
+       "cue": "January 1, 1997",
+       "quote": "the 12-month period beginning on January 1 of each calendar year which begins before January 1, 1997, the rates of contribution shall be determined as was prescribed by this section prior to January 1, 1997. (b) Det"
+      },
+      {
+       "offset": 1171,
+       "cue": "prior to",
+       "quote": "997, the rates of contribution shall be determined as was prescribed by this section prior to January 1, 1997. (b) Determination of individual benefit charges. (1) An individual’s benefit charges shall be as "
+      },
+      {
+       "offset": 1180,
+       "cue": "January 1, 1997",
+       "quote": "rates of contribution shall be determined as was prescribed by this section prior to January 1, 1997. (b) Determination of individual benefit charges. (1) An individual’s benefit charges shall be as follows: a. For "
+      },
+      {
+       "offset": 5978,
+       "cue": "commencing",
+       "quote": "hich such employer was a party entitled to notice thereof, as provided by Article 5, commencing with Section 25-4-90, of this chapter, and shall further show that he or she was not notified of such determinatio"
+      },
+      {
+       "offset": 6174,
+       "cue": "commencing",
+       "quote": "h determination or redetermination in accordance with the requirements of Article 5, commencing with Section 25-4-90, of this chapter. Nothing herein contained shall affect the right of any employer at such hea"
+      },
+      {
+       "offset": 7387,
+       "cue": "June 30, 1996",
+       "quote": "e account of a contributory base period employer(s) for the state fiscal year ending June 30, 1996, and each fiscal year thereafter, if: a. The benefits are paid for unemployment due directly to a major natural di"
+      },
+      {
+       "offset": 7969,
+       "cue": "Effective",
+       "quote": "its with respect to their unemployment. (d) Determination of employer benefit ratio. Effective January 1, 1997, and each year thereafter, the benefit ratio of each employer who qualifies for a rate determinati"
+      },
+      {
+       "offset": 7979,
+       "cue": "January 1, 1997",
+       "quote": "espect to their unemployment. (d) Determination of employer benefit ratio. Effective January 1, 1997, and each year thereafter, the benefit ratio of each employer who qualifies for a rate determination under subdivi"
+      },
+      {
+       "offset": 8462,
+       "cue": "before",
+       "quote": " the same three-year period with respect to which contributions have been paid on or before July 31, next following such period, and the benefit ratio of each employer who qualifies for a rate determination"
+      },
+      {
+       "offset": 9124,
+       "cue": "before",
+       "quote": "payroll for the same period with respect to which contributions have been paid on or before July 31 next following such period. The employer’s benefit ratio shall be computed to the fourth decimal and be us"
+      },
+      {
+       "offset": 9388,
+       "cue": "beginning",
+       "quote": "scribed in subsection (a) for the next calendar year; except that: For tax rate year beginning January 1, 1991, the employer’s benefit ratio shall be determined by the employer’s actual benefit charges to his "
+      },
+      {
+       "offset": 9398,
+       "cue": "January 1, 1991",
+       "quote": " subsection (a) for the next calendar year; except that: For tax rate year beginning January 1, 1991, the employer’s benefit ratio shall be determined by the employer’s actual benefit charges to his or her account f"
+      },
+      {
+       "offset": 9554,
+       "cue": "September 30, 1990",
+       "quote": "e employer’s actual benefit charges to his or her account for the fiscal year ending September 30, 1990, and for fiscal years ending September 30, 1988, and September 30, 1989, the employer’s benefit charges shall be d"
+      },
+      {
+       "offset": 9602,
+       "cue": "September 30, 1988",
+       "quote": "r account for the fiscal year ending September 30, 1990, and for fiscal years ending September 30, 1988, and September 30, 1989, the employer’s benefit charges shall be determined from data accumulated by the secretary"
+      },
+      {
+       "offset": 9626,
+       "cue": "September 30, 1989",
+       "quote": " year ending September 30, 1990, and for fiscal years ending September 30, 1988, and September 30, 1989, the employer’s benefit charges shall be determined from data accumulated by the secretary during such years relat"
+      },
+      {
+       "offset": 14575,
+       "cue": "effective",
+       "quote": "r her benefit ratio and his or her contribution rate no later than 31 days after the effective date of such rate. Such employer contribution rate for the tax rate years beginning January 1, 1991, shall be dete"
+      },
+      {
+       "offset": 14659,
+       "cue": "beginning",
+       "quote": " effective date of such rate. Such employer contribution rate for the tax rate years beginning January 1, 1991, shall be determined from the appropriate rate schedule prescribed for that tax rate year by subse"
+      },
+      {
+       "offset": 14669,
+       "cue": "January 1, 1991",
+       "quote": " date of such rate. Such employer contribution rate for the tax rate years beginning January 1, 1991, shall be determined from the appropriate rate schedule prescribed for that tax rate year by subsection (g) and sh"
+      },
+      {
+       "offset": 16053,
+       "cue": "beginning",
+       "quote": "g been determined as herein prescribed, be adjusted as follows for calendar quarters beginning after March 31, 1992: If the rate of contribution specified by the Tax Rate Table contained in this section is: Th"
+      },
+      {
+       "offset": 16069,
+       "cue": "March 31, 1992",
+       "quote": "d as herein prescribed, be adjusted as follows for calendar quarters beginning after March 31, 1992: If the rate of contribution specified by the Tax Rate Table contained in this section is: The employer’s contribu"
+      },
+      {
+       "offset": 19119,
+       "cue": "before",
+       "quote": "any one of the 10 most recent preceding fiscal years. (3) The secretary shall, on or before the December 1 next following the end of each fiscal year, declare effective for the 12-month period beginning wit"
+      },
+      {
+       "offset": 19193,
+       "cue": "effective",
+       "quote": "all, on or before the December 1 next following the end of each fiscal year, declare effective for the 12-month period beginning with January 1 of the immediately succeeding calendar year, the desired level of"
+      },
+      {
+       "offset": 19227,
+       "cue": "beginning",
+       "quote": "ext following the end of each fiscal year, declare effective for the 12-month period beginning with January 1 of the immediately succeeding calendar year, the desired level of the fund and the schedule to be i"
+      },
+      {
+       "offset": 20829,
+       "cue": "effective",
+       "quote": "r her benefit ratio and his or her contribution rate no later than 31 days after the effective date of the contribution rate. This subdivision (5) shall not apply to employers who, in lieu of contributions, re"
+      },
+      {
+       "offset": 23903,
+       "cue": "effective",
+       "quote": "ay finality provision set forth in subsection (h) shall not prevail but, instead, be effective with respect to the subsequent notice computed on the basis of the benefit ratio and taxable payrolls of the acqui"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 906,
+       "cue": "Act 2000-456",
+       "quote": "No. 95-764, p. 1792, §1; Acts 1996, No. 96-665, p. 1093, §1; Act 98-364, p. 634, §1; Act 2000-456, p. 842, §1; Act 2001-694, p. 1453, §1; Act 2004-110, p. 164, §1; Act 2006-519, p. 1194, §1; Act 2008-501, p. 1091"
+      },
+      {
+       "offset": 932,
+       "cue": "Act 2001-694",
+       "quote": "cts 1996, No. 96-665, p. 1093, §1; Act 98-364, p. 634, §1; Act 2000-456, p. 842, §1; Act 2001-694, p. 1453, §1; Act 2004-110, p. 164, §1; Act 2006-519, p. 1194, §1; Act 2008-501, p. 1091, §1; Act 2010-505, p. 811"
+      },
+      {
+       "offset": 959,
+       "cue": "Act 2004-110",
+       "quote": "93, §1; Act 98-364, p. 634, §1; Act 2000-456, p. 842, §1; Act 2001-694, p. 1453, §1; Act 2004-110, p. 164, §1; Act 2006-519, p. 1194, §1; Act 2008-501, p. 1091, §1; Act 2010-505, p. 811, §1; Act 2011-558, p. 1047"
+      },
+      {
+       "offset": 985,
+       "cue": "Act 2006-519",
+       "quote": ", §1; Act 2000-456, p. 842, §1; Act 2001-694, p. 1453, §1; Act 2004-110, p. 164, §1; Act 2006-519, p. 1194, §1; Act 2008-501, p. 1091, §1; Act 2010-505, p. 811, §1; Act 2011-558, p. 1047, §1; Act 2013-208, p. 446"
+      },
+      {
+       "offset": 1012,
+       "cue": "Act 2008-501",
+       "quote": " §1; Act 2001-694, p. 1453, §1; Act 2004-110, p. 164, §1; Act 2006-519, p. 1194, §1; Act 2008-501, p. 1091, §1; Act 2010-505, p. 811, §1; Act 2011-558, p. 1047, §1; Act 2013-208, p. 446, §1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "27-3-7",
+   "file": "title-27/027-003-007.md",
+   "code_id": "8563",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "27-3-7",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "8f7bad46af10f0e1d71b12e7e71008a8b38b6355f42081b912177fe3ac26c9da",
+     "history_sha256": "7b75a453a970c33e58b317d24edca8d6783650cf3ab5423d2f0cfa4fd06d7842",
+     "body_cues": [
+      {
+       "offset": 246,
+       "cue": "effective",
+       "quote": "n insurer applying for its original certificate of authority in this state after the effective date of this title or continuing such original certificate of authority shall possess and thereafter maintain unim"
+      },
+      {
+       "offset": 1145,
+       "cue": "prior to",
+       "quote": "ing a valid certificate of authority to transact insurance in this state immediately prior to the effective date of this title may continue to be authorized to transact the same kinds of insurance as permitte"
+      },
+      {
+       "offset": 1158,
+       "cue": "effective",
+       "quote": "ertificate of authority to transact insurance in this state immediately prior to the effective date of this title may continue to be authorized to transact the same kinds of insurance as permitted by such cert"
+      },
+      {
+       "offset": 1554,
+       "cue": "prior to",
+       "quote": "procal insurer, as required by the laws of this state for such authority immediately prior to such effective date; but such insurer shall not thereafter be granted authority to transact any other or additiona"
+      },
+      {
+       "offset": 1568,
+       "cue": "effective",
+       "quote": ", as required by the laws of this state for such authority immediately prior to such effective date; but such insurer shall not thereafter be granted authority to transact any other or additional kind of insur"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "27-4A-3",
+   "file": "title-27/027-004a-003.md",
+   "code_id": "8759",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "27-4A-3",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "5165cefb72a248fb4156e1a415edd253b4e47098bac851efbb0610bb186b1b8d",
+     "history_sha256": "97eb5db84cd9cd0da1a7542997d2291cabe6d6c732c4e54f7575e10aaaf9310d",
+     "body_cues": [
+      {
+       "offset": 81,
+       "cue": "beginning",
+       "quote": "(a) Subject to the exceptions and exemptions hereinafter set forth, for the year beginning on January 1, 1995, and for each year thereafter, every insurer shall pay to the commissioner a premium tax equal "
+      },
+      {
+       "offset": 94,
+       "cue": "January 1, 1995",
+       "quote": "ct to the exceptions and exemptions hereinafter set forth, for the year beginning on January 1, 1995, and for each year thereafter, every insurer shall pay to the commissioner a premium tax equal to the percentage, "
+      },
+      {
+       "offset": 4332,
+       "cue": "January 1, 1993",
+       "quote": "mproved Alabama real property owned by the insurer or an affiliate of the insurer on January 1, 1993, and any improved or unimproved Alabama real property acquired or new construction placed in service on or after J"
+      },
+      {
+       "offset": 4449,
+       "cue": "on or after",
+       "quote": "d or unimproved Alabama real property acquired or new construction placed in service on or after January 1, 1993, by the insurer or an affiliate of the insurer. (ii) For purposes of determining the Alabama real "
+      },
+      {
+       "offset": 4461,
+       "cue": "January 1, 1993",
+       "quote": "ved Alabama real property acquired or new construction placed in service on or after January 1, 1993, by the insurer or an affiliate of the insurer. (ii) For purposes of determining the Alabama real property investm"
+      },
+      {
+       "offset": 4935,
+       "cue": "on or after",
+       "quote": "dings, completed and placed in service by the insurer or an affiliate of the insurer on or after January 1, 1993, shall be considered an Alabama real estate investment. (iii) For purposes of determining the valu"
+      },
+      {
+       "offset": 4947,
+       "cue": "January 1, 1993",
+       "quote": "eted and placed in service by the insurer or an affiliate of the insurer on or after January 1, 1993, shall be considered an Alabama real estate investment. (iii) For purposes of determining the value of Alabama rea"
+      },
+      {
+       "offset": 8244,
+       "cue": "Beginning",
+       "quote": "ent to passage of this chapter shall be remitted in accordance with this subsection. Beginning January 1, 1993, and all years thereafter, each insurer shall pay its premium taxes on a quarterly basis, as follo"
+      },
+      {
+       "offset": 8254,
+       "cue": "January 1, 1993",
+       "quote": "sage of this chapter shall be remitted in accordance with this subsection. Beginning January 1, 1993, and all years thereafter, each insurer shall pay its premium taxes on a quarterly basis, as follows: on or before"
+      },
+      {
+       "offset": 8378,
+       "cue": "before",
+       "quote": "er, each insurer shall pay its premium taxes on a quarterly basis, as follows: on or before May 15, a payment estimated on the basis of 25 percent of its business done in this state during the preceding cal"
+      },
+      {
+       "offset": 8613,
+       "cue": "through",
+       "quote": "of the insurer, on the basis of its actual business done in the state from January 1 through March 31 of the same calendar year; on or before August 15, a payment estimated on the basis of 45 percent of its "
+      },
+      {
+       "offset": 8663,
+       "cue": "before",
+       "quote": "s done in the state from January 1 through March 31 of the same calendar year; on or before August 15, a payment estimated on the basis of 45 percent of its business done in this state during the preceding "
+      },
+      {
+       "offset": 8915,
+       "cue": "through",
+       "quote": ", on the basis of 180 percent of its actual business done in this state from April 1 through June 30 of the same calendar year; on or before November 15, a payment estimated on the basis of 25 percent of its"
+      },
+      {
+       "offset": 8964,
+       "cue": "before",
+       "quote": "ess done in this state from April 1 through June 30 of the same calendar year; on or before November 15, a payment estimated on the basis of 25 percent of its business done in this state during the precedin"
+      },
+      {
+       "offset": 9202,
+       "cue": "through",
+       "quote": "n of the insurer, on the basis of its actual business done in this state from July 1 through September 30 of the same calendar year; on or before March 1, a payment in the amount of the remainder of the actu"
+      },
+      {
+       "offset": 9256,
+       "cue": "before",
+       "quote": "done in this state from July 1 through September 30 of the same calendar year; on or before March 1, a payment in the amount of the remainder of the actual premium taxes due on its business done in the stat"
+      },
+      {
+       "offset": 13656,
+       "cue": "September 30, 1992",
+       "quote": "ma Special Mental Health Trust Fund for any fiscal year after the fiscal year ending September 30, 1992, under this subsection shall be limited to no more than the amount so credited in the fiscal year ending September"
+      },
+      {
+       "offset": 13780,
+       "cue": "September 30, 1992",
+       "quote": "on shall be limited to no more than the amount so credited in the fiscal year ending September 30, 1992. Any premium tax that would have been credited to the Education Trust Fund or the Alabama Special Mental Health Tr"
+      },
+      {
+       "offset": 13996,
+       "cue": "Effective",
+       "quote": "Trust Fund but for this limitation, shall be credited to the state General Fund. (5) Effective for the fiscal year beginning on October 1, 2020, and for each fiscal year thereafter, the amount credited to the "
+      },
+      {
+       "offset": 14026,
+       "cue": "beginning",
+       "quote": "tion, shall be credited to the state General Fund. (5) Effective for the fiscal year beginning on October 1, 2020, and for each fiscal year thereafter, the amount credited to the Education Trust Fund under sub"
+      },
+      {
+       "offset": 14039,
+       "cue": "October 1, 2020",
+       "quote": "e credited to the state General Fund. (5) Effective for the fiscal year beginning on October 1, 2020, and for each fiscal year thereafter, the amount credited to the Education Trust Fund under subdivision (4) shall "
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 150,
+       "cue": "Act 2019-392",
+       "quote": ". 93-847, p. 67, §1; Act 98-498, p. 1069, §1; Act 99-665, 2nd Sp. Sess., p. 131, §5; Act 2019-392, §3.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "29-1-1.2",
+   "file": "title-29/029-001-001-002.md",
+   "code_id": "199",
+   "held_reasons": [
+    "source completeness or table structure failed: official content hits 204800-character truncation boundary"
+   ],
+   "official_rows": [
+    {
+     "display_id": "29-1-1.2",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "72e689fdcf476e6bcba2a4e7adbf81c61a65e78765b6ae3101f6faeeca95d9c7",
+     "history_sha256": "3b7faab6ffa58df6d385e45ccb95ba69b9f2b21170910d2e55a24d4ebfdd6789",
+     "body_cues": [
+      {
+       "offset": 71,
+       "cue": "ACT 2021-556",
+       "quote": "THIS SECTION WAS REPEALED AND REENACTED IN THE 2021 REGULAR SESSION BY ACT 2021-556 EFFECTIVE NOVEMBER 4, 2021. The Alabama House of Representatives shall consist of 105 members. Each member elected"
+      },
+      {
+       "offset": 84,
+       "cue": "EFFECTIVE",
+       "quote": "THIS SECTION WAS REPEALED AND REENACTED IN THE 2021 REGULAR SESSION BY ACT 2021-556 EFFECTIVE NOVEMBER 4, 2021. The Alabama House of Representatives shall consist of 105 members. Each member elected shall res"
+      },
+      {
+       "offset": 94,
+       "cue": "NOVEMBER 4, 2021",
+       "quote": "ION WAS REPEALED AND REENACTED IN THE 2021 REGULAR SESSION BY ACT 2021-556 EFFECTIVE NOVEMBER 4, 2021. The Alabama House of Representatives shall consist of 105 members. Each member elected shall reside in the distri"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 526,
+       "cue": "Act 2001-729",
+       "quote": "s., No. 83-824, p. 40; Acts 1984, No. 84-371, p. 864; Acts 1987, No. 87-436, p. 648; Act 2001-729, 2nd Sp. Sess., p. 207, §§2-8; Act 2012-602, 1st Sp. Sess., p. 1939, §§2-8; repealed by Act 2017-348, §§1-4; added"
+      },
+      {
+       "offset": 570,
+       "cue": "Act 2012-602",
+       "quote": ", p. 864; Acts 1987, No. 87-436, p. 648; Act 2001-729, 2nd Sp. Sess., p. 207, §§2-8; Act 2012-602, 1st Sp. Sess., p. 1939, §§2-8; repealed by Act 2017-348, §§1-4; added by Act 2017-348, §§2-8.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "32-6-31",
+   "file": "title-32/032-006-031.md",
+   "code_id": "14478",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "32-6-31",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "5e9df8f5deb53b292597e20f11a67a597248d6ed7804de5c187f43367419352e",
+     "history_sha256": "e982319d00b285a85dd3bbc9e2eccbd07e7baeacaf3c0daa43f2a6e335d487a7",
+     "body_cues": [
+      {
+       "offset": 6753,
+       "cue": "effective",
+       "quote": "I Entry Into Force and Withdrawal (a) This compact shall enter into force and become effective as to any state when it has enacted the same into law. (b) Any party state may withdraw from this compact by enact"
+      },
+      {
+       "offset": 6952,
+       "cue": "until",
+       "quote": "t by enacting a statute repealing the same, but no such withdrawal shall take effect until six months after the executive head of the withdrawing state has given notice of the withdrawal to the executive h"
+      },
+      {
+       "offset": 7269,
+       "cue": "prior to",
+       "quote": "ities of states remaining party to the compact of any report of conviction occurring prior to the withdrawal. Article IX Construction and Severability This compact shall be liberally construed so as to effect"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "36-26-35",
+   "file": "title-36/036-026-035.md",
+   "code_id": "22246",
+   "held_reasons": [
+    "source completeness or table structure failed: unbalanced or unfinished official markup: ['unmatched closing tbody', 'tbody']"
+   ],
+   "official_rows": [
+    {
+     "display_id": "36-26-35",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "16bc193accb03481c0c3c1e322b7ad62b24b091a48c115de2add0801bde15306",
+     "history_sha256": "eaf566f011601bbc3d323347f9f88a36f8f58a8f327e436fc26ff91ded9d1d9c",
+     "body_cues": [
+      {
+       "offset": 379,
+       "cue": "through",
+       "quote": "t, shall be entitled to accumulate annual leave on the basis of biweekly pay periods through the payday on March 17, 2006, as follows: Employee’s total service with: Accumulation of leave per pay period Annu"
+      },
+      {
+       "offset": 401,
+       "cue": "March 17, 2006",
+       "quote": "o accumulate annual leave on the basis of biweekly pay periods through the payday on March 17, 2006, as follows: Employee’s total service with: Accumulation of leave per pay period Annual Accumulation Fewer than fi"
+      },
+      {
+       "offset": 850,
+       "cue": "Beginning",
+       "quote": "ars’ service 8 hours 26 days 25 years of service or more 9 hours 29 days 2 hours (b) Beginning with the payday on April 3, 2006, all persons who are regularly employed by the state and who are subject to the p"
+      },
+      {
+       "offset": 879,
+       "cue": "April 3, 2006",
+       "quote": "25 years of service or more 9 hours 29 days 2 hours (b) Beginning with the payday on April 3, 2006, all persons who are regularly employed by the state and who are subject to the provisions of the state Merit Syst"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 107,
+       "cue": "Act 2005-316",
+       "quote": ". 1125, §1; Acts 1980, No. 80-752, p. 1556, § 1; Acts 1997, No. 97-716, p. 1486, §1; Act 2005-316, 1st Sp. Sess., p. 766, §1; Act 2019-286, §2.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "36-27-21.1",
+   "file": "title-36/036-027-021-001.md",
+   "code_id": "22556",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "36-27-21.1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "0f4466dd9cc5d79e07f774447783b2cc1ef25dfd5cb3c7ffe14595e7433fc2ad",
+     "history_sha256": "01abdbf4cd4bbb8cbdbc20cc817f4db2231a833117686c61a694c736f831c667",
+     "body_cues": [
+      {
+       "offset": 184,
+       "cue": "prior to",
+       "quote": "rning the Teachers’ Retirement System or the Employees’ Retirement System of Alabama prior to October 1, 1977, shall be entitled to receive, in addition to present benefits, a supplemental benefit in an amoun"
+      },
+      {
+       "offset": 193,
+       "cue": "October 1, 1977",
+       "quote": " Teachers’ Retirement System or the Employees’ Retirement System of Alabama prior to October 1, 1977, shall be entitled to receive, in addition to present benefits, a supplemental benefit in an amount based upon his"
+      },
+      {
+       "offset": 813,
+       "cue": "beginning",
+       "quote": "on as they relate to the Teachers’ Retirement System of Alabama, for the fiscal year beginning October 1, 1978. For each fiscal year thereafter, the Board of Control shall determine the cost of benefits under "
+      },
+      {
+       "offset": 823,
+       "cue": "October 1, 1978",
+       "quote": " relate to the Teachers’ Retirement System of Alabama, for the fiscal year beginning October 1, 1978. For each fiscal year thereafter, the Board of Control shall determine the cost of benefits under this section as "
+      },
+      {
+       "offset": 1736,
+       "cue": "beginning",
+       "quote": "nt to carry out the provisions of subsection (a) of this section for the fiscal year beginning October 1, 1978. The Board of Control of the Employees’ Retirement System of Alabama shall determine annually the "
+      },
+      {
+       "offset": 1746,
+       "cue": "October 1, 1978",
+       "quote": "y out the provisions of subsection (a) of this section for the fiscal year beginning October 1, 1978. The Board of Control of the Employees’ Retirement System of Alabama shall determine annually the amount required "
+      },
+      {
+       "offset": 3410,
+       "cue": "beginning",
+       "quote": "r other local employer may elect to come under the provisions of this section at the beginning of any future fiscal year and said county, municipality or other local employer shall not be required to pay said "
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "40-6A-2",
+   "file": "title-40/040-006a-002.md",
+   "code_id": "12615",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "40-6A-2",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "5835157308c22963e03a5d98cae7d3927da31127e6e8fa69175b18015fd34f01",
+     "history_sha256": "ac6ae66d189905844f659f419877c7af71d804a50bf47228d2367ba2fdf47b6f",
+     "body_cues": [
+      {
+       "offset": 13,
+       "cue": "May 3, 1990",
+       "quote": "On and after May 3, 1990, and upon approval by the county governing body of a resolution of authorization, the tax assessors, tax collector"
+      },
+      {
+       "offset": 2382,
+       "cue": "prior to",
+       "quote": "ality for assessment and collection of ad valorem taxes for the tax year immediately prior to such municipality becoming subject to the provisions of this section, the payment of such pro rata share by the mu"
+      },
+      {
+       "offset": 2855,
+       "cue": "prior to",
+       "quote": "ality for assessment and collection of ad valorem taxes for the tax year immediately prior to such municipality becoming subject to the provisions of this section, the payment of such fees or commissions by t"
+      },
+      {
+       "offset": 3236,
+       "cue": "effective",
+       "quote": "ion shall be based upon the collections made during the tax year next preceding, the effective date of election to come under this section, and adjusted from year to year as may be necessary."
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "40-7-25.1",
+   "file": "title-40/040-007-025-001.md",
+   "code_id": "12809",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "40-7-25.1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "4fd0a61fe82717d64d3e03d4395ec28270def3d8a42a2bd52e08382c6f1b41a0",
+     "history_sha256": "beb6ae0f421cbc1abf7650aa977ed0fc01fff0c039d518a185807dfe7e7fef29",
+     "body_cues": [
+      {
+       "offset": 29,
+       "cue": "beginning",
+       "quote": "(a) For ad valorem tax years beginning on and after October 1, 1978, with respect to taxable property defined in Section 40-8-1, as amended, as Class III"
+      },
+      {
+       "offset": 52,
+       "cue": "October 1, 1978",
+       "quote": "(a) For ad valorem tax years beginning on and after October 1, 1978, with respect to taxable property defined in Section 40-8-1, as amended, as Class III property and upon request by"
+      },
+      {
+       "offset": 609,
+       "cue": "until",
+       "quote": "e valued on its fair and reasonable market value as otherwise provided in this title until such time as the owner thereof shall request valuation on the basis of current use value. As used in this chapter,"
+      },
+      {
+       "offset": 1444,
+       "cue": "October 1, 1981",
+       "quote": "e value shall have been made. (b) In determining the current use value, on and after October 1, 1981, of eligible taxable property the owner of which shall elect current use valuation of such property hereunder, the"
+      },
+      {
+       "offset": 1814,
+       "cue": "prior to",
+       "quote": "in order for this method to be utilized with respect to property the owner of which, prior to October 1, 1981, shall have elected to have had assessed at the ratio of its assessed value to its current use val"
+      },
+      {
+       "offset": 1823,
+       "cue": "October 1, 1981",
+       "quote": "for this method to be utilized with respect to property the owner of which, prior to October 1, 1981, shall have elected to have had assessed at the ratio of its assessed value to its current use value, and which pr"
+      },
+      {
+       "offset": 4308,
+       "cue": "prior to",
+       "quote": "e describable by a preponderance of those characteristics; the Department of Revenue prior to issuing any regulations further defining soil groups hereunder shall consult with the U.S. Soil Conservation Servi"
+      },
+      {
+       "offset": 9815,
+       "cue": "October 1, 1981",
+       "quote": " and have extensive rock outcrops. (d) The tax assessor shall then use, on and after October 1, 1981, the following formulas and methods to determine the assessed value of each type of Class III property, with respe"
+      },
+      {
+       "offset": 10983,
+       "cue": "beginning",
+       "quote": ", shall determine annually not later than November 15 (except that, for the tax year beginning October 1, 1981, the determination shall be made 30 days after April 20, 1982), for use in assessing property for "
+      },
+      {
+       "offset": 10993,
+       "cue": "October 1, 1981",
+       "quote": "termine annually not later than November 15 (except that, for the tax year beginning October 1, 1981, the determination shall be made 30 days after April 20, 1982), for use in assessing property for taxation as of t"
+      },
+      {
+       "offset": 11056,
+       "cue": "April 20, 1982",
+       "quote": "he tax year beginning October 1, 1981, the determination shall be made 30 days after April 20, 1982), for use in assessing property for taxation as of the immediately preceding October 1, the current use standard v"
+      },
+      {
+       "offset": 12725,
+       "cue": "effective",
+       "quote": "ncome flow per acre shall be capitalized by dividing it by the average of the annual effective interest rates on new federal land bank loans (determined in the same manner as the effective interest rates utili"
+      },
+      {
+       "offset": 12819,
+       "cue": "effective",
+       "quote": " interest rates on new federal land bank loans (determined in the same manner as the effective interest rates utilized under Section 2032A(e)(7)(A)(ii) of the Internal Revenue Code of 1954, as presently determ"
+      },
+      {
+       "offset": 13472,
+       "cue": "effective",
+       "quote": " thereafter, the income flow per acre shall be divided by the average of said annual effective interest rates determined for the 10 most recent calendar years since 1973 for which figures are available, such r"
+      },
+      {
+       "offset": 14616,
+       "cue": "beginning",
+       "quote": "vailable for the calendar year 1981, and all calculations hereunder for the tax year beginning October 1, 1981, shall be made as if such 1981 statistics and interest rates were not available; and provided furt"
+      },
+      {
+       "offset": 14626,
+       "cue": "October 1, 1981",
+       "quote": "or the calendar year 1981, and all calculations hereunder for the tax year beginning October 1, 1981, shall be made as if such 1981 statistics and interest rates were not available; and provided further that for eac"
+      },
+      {
+       "offset": 15446,
+       "cue": "beginning",
+       "quote": "cent of such values multiplied by the number of tax years elapsed since the tax year beginning October 1, 1981. Utilizing the department’s determination of standard values, the tax assessor shall enter the sta"
+      },
+      {
+       "offset": 15456,
+       "cue": "October 1, 1981",
+       "quote": "ch values multiplied by the number of tax years elapsed since the tax year beginning October 1, 1981. Utilizing the department’s determination of standard values, the tax assessor shall enter the standard value or v"
+      },
+      {
+       "offset": 18898,
+       "cue": "effective",
+       "quote": "perty of each productivity rating shall then be divided by the average of the annual effective interest rates charged on new federal land bank loans (determined as in subsection (d)(1)e. of this section) by th"
+      },
+      {
+       "offset": 19452,
+       "cue": "effective",
+       "quote": "e imputed net income per acre figures shall be divided by the average of said annual effective interest rates for the 10 most recent calendar years since 1973 for which figures are available, such rate to be r"
+      },
+      {
+       "offset": 20567,
+       "cue": "beginning",
+       "quote": "cent of such values multiplied by the number of tax years elapsed since the tax year beginning October 1, 1981. Utilizing the department’s determination of standard values, the tax assessor shall enter such st"
+      },
+      {
+       "offset": 20577,
+       "cue": "October 1, 1981",
+       "quote": "ch values multiplied by the number of tax years elapsed since the tax year beginning October 1, 1981. Utilizing the department’s determination of standard values, the tax assessor shall enter such standard values pe"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "40-12-242",
+   "file": "title-40/040-012-242.md",
+   "code_id": "15129",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "40-12-242",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "cf106013e5978cdb1301009dde6d9657218ebff42ac50b7deaf81d723d3ffd2b",
+     "history_sha256": "5de6f1dd5bae2ef5a9dd9a5ce9a9ecf366ad646f569cb6807d002a9224138153",
+     "body_cues": [
+      {
+       "offset": 1745,
+       "cue": "Beginning",
+       "quote": "and which includes an internal combustion or heat engine using combustible fuel. (c) Beginning on July 1, 2023 and every fourth year thereafter, the additional license tax and registration fee specified in sub"
+      },
+      {
+       "offset": 1758,
+       "cue": "July 1, 2023",
+       "quote": "ludes an internal combustion or heat engine using combustible fuel. (c) Beginning on July 1, 2023 and every fourth year thereafter, the additional license tax and registration fee specified in subsection (b) shal"
+      },
+      {
+       "offset": 3397,
+       "cue": "through",
+       "quote": "n of grants for electric vehicle charging infrastructure, and the use of grant funds through the Alabama Administrative Procedure Act. (f) Notwithstanding any other law to the contrary, all proceeds of the a"
+      },
+      {
+       "offset": 4393,
+       "cue": "through",
+       "quote": "nt of Transportation to fund electric vehicle transportation charging infrastructure through the Electric Transportation Infrastructure Grant Program established in subsection (e) until such time as the tota"
+      },
+      {
+       "offset": 4488,
+       "cue": "until",
+       "quote": "e Electric Transportation Infrastructure Grant Program established in subsection (e) until such time as the total annual registrations of battery electric vehicles plus plug-in hybrid electric vehicle exce"
+      },
+      {
+       "offset": 5813,
+       "cue": "effective",
+       "quote": "ual license taxes and registration fees pursuant to the Rebuild Alabama Act shall be effective January 1, 2020."
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 164,
+       "cue": "Act 2004-529",
+       "quote": " T. 51, §693; Acts 1951, No. 206, p. 468; Acts 1967, Ex. Sess., No. 223, p. 282, §2; Act 2004-529, p. 1106, §1; Act 2019-2, 1st Sp. Sess., §3.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "40-14-40",
+   "file": "title-40/040-014-040.md",
+   "code_id": "15747",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "40-14-40",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "74eb9b0c168d2d032209e64f2c400670cb0864226ccff19e50df5a394cdd6d71",
+     "history_sha256": "abf64a709c496f870746eef6ff3ae1d9438e09074ec9a71f3e2b3be60ab04958",
+     "body_cues": [
+      {
+       "offset": 238,
+       "cue": "beginning",
+       "quote": "tate an annual franchise tax based on its capital stock as follows: For the tax year beginning Rate on each $1,000 of capital stock January 1, 1984 $10 And all tax years thereafter $10 provided that in no even"
+      },
+      {
+       "offset": 285,
+       "cue": "January 1, 1984",
+       "quote": "al stock as follows: For the tax year beginning Rate on each $1,000 of capital stock January 1, 1984 $10 And all tax years thereafter $10 provided that in no event shall the amount paid by any corporation for annual"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "40-14A-22",
+   "file": "title-40/040-014a-022.md",
+   "code_id": "29586",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "40-14A-22",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "508f2a53613e07c2f4e80d925d7e16db92305a27792ea65780ff3f1a01e4ef99",
+     "history_sha256": "85d5fcc7e2f40b5e893f8da9041375997c1203a38f704fa697a54248de255cd7",
+     "body_cues": [
+      {
+       "offset": 679,
+       "cue": "beginning",
+       "quote": "ay be. The taxpayer shall be liable for the tax levied by this article for each year beginning before the taxpayer has been dissolved or otherwise ceased to exist or has withdrawn or forfeited its qualificatio"
+      },
+      {
+       "offset": 689,
+       "cue": "before",
+       "quote": " taxpayer shall be liable for the tax levied by this article for each year beginning before the taxpayer has been dissolved or otherwise ceased to exist or has withdrawn or forfeited its qualification to do"
+      },
+      {
+       "offset": 1040,
+       "cue": "December 31, 1999",
+       "quote": "subsection (b). (b) Rate of tax. For all taxable years of taxpayers that begin after December 31, 1999, the rate of tax shall be as set forth below. If taxable income of the taxpayer is: at least but less than The tax"
+      },
+      {
+       "offset": 1615,
+       "cue": "beginning",
+       "quote": "ties, and disregarded entities shall not be less than $100. (2) For the taxable year beginning after December 31, 2022, taxpayers who would otherwise be subject to the minimum tax due of $100 provided for in s"
+      },
+      {
+       "offset": 1631,
+       "cue": "December 31, 2022",
+       "quote": "arded entities shall not be less than $100. (2) For the taxable year beginning after December 31, 2022, taxpayers who would otherwise be subject to the minimum tax due of $100 provided for in subdivision (c)(1) shall "
+      },
+      {
+       "offset": 1909,
+       "cue": "beginning",
+       "quote": "those subject to the tax levy provided under Section 20-2A-80. (3) For taxable years beginning after December 31, 2023, taxpayers who would otherwise be subject to the minimum tax due provided for in subdivisi"
+      },
+      {
+       "offset": 1925,
+       "cue": "December 31, 2023",
+       "quote": " the tax levy provided under Section 20-2A-80. (3) For taxable years beginning after December 31, 2023, taxpayers who would otherwise be subject to the minimum tax due provided for in subdivisions (c)(1) or (c)(2) sha"
+      },
+      {
+       "offset": 2418,
+       "cue": "beginning",
+       "quote": "evied by this article shall not exceed $15,250 for any taxpayer for the taxable year beginning January 1, 2000. For each taxable year thereafter, the maximum tax shall not exceed $15,000 for any taxpayer, exce"
+      },
+      {
+       "offset": 2428,
+       "cue": "January 1, 2000",
+       "quote": "his article shall not exceed $15,250 for any taxpayer for the taxable year beginning January 1, 2000. For each taxable year thereafter, the maximum tax shall not exceed $15,000 for any taxpayer, except as provided i"
+      },
+      {
+       "offset": 4688,
+       "cue": "through",
+       "quote": "roup. (i) One or more chains of corporations or limited liability entities connected through the ownership of stock or ownership interests with a common parent which is a corporation or limited liability ent"
+      },
+      {
+       "offset": 7600,
+       "cue": "beginning",
+       "quote": "g these returns shall not be granted for more than six months. (5) For taxable years beginning on or after January 1, 2000, the minimum aggregate business privilege tax levied by Article 2 on all members of a "
+      },
+      {
+       "offset": 7610,
+       "cue": "on or after",
+       "quote": "turns shall not be granted for more than six months. (5) For taxable years beginning on or after January 1, 2000, the minimum aggregate business privilege tax levied by Article 2 on all members of a financial in"
+      },
+      {
+       "offset": 7622,
+       "cue": "January 1, 2000",
+       "quote": "not be granted for more than six months. (5) For taxable years beginning on or after January 1, 2000, the minimum aggregate business privilege tax levied by Article 2 on all members of a financial institution group "
+      },
+      {
+       "offset": 8219,
+       "cue": "June 30, 1999",
+       "quote": "uture periods, the deposits shall in no event be less than the deposits listed as of June 30, 1999. b. For financial institutions with total deposits inside Alabama of one billion dollars ($1,000,000,000) or great"
+      },
+      {
+       "offset": 8748,
+       "cue": "June 30, 1999",
+       "quote": "uture periods, the deposits shall in no event be less than the deposits listed as of June 30, 1999. c. For financial institutions with total deposits inside Alabama greater than six billion dollars ($6,000,000,000"
+      },
+      {
+       "offset": 9220,
+       "cue": "June 30, 1999",
+       "quote": "uture periods, the deposits shall in no event be less than the deposits listed as of June 30, 1999. d. Provided, however, that in the case of a financial institution group that, as of June 30, 1999, (i) had total "
+      },
+      {
+       "offset": 9319,
+       "cue": "June 30, 1999",
+       "quote": " d. Provided, however, that in the case of a financial institution group that, as of June 30, 1999, (i) had total deposits of less than one billion dollars ($1,000,000,000) and (ii) derived at least a majority of "
+      },
+      {
+       "offset": 9858,
+       "cue": "beginning",
+       "quote": "e minimum aggregate business privilege tax levied by Article 2 for all taxable years beginning on and after January 1, 2000, shall only include deposits of account holders whose addresses of record on the book"
+      },
+      {
+       "offset": 9881,
+       "cue": "January 1, 2000",
+       "quote": "iness privilege tax levied by Article 2 for all taxable years beginning on and after January 1, 2000, shall only include deposits of account holders whose addresses of record on the books of the financial institutio"
+      },
+      {
+       "offset": 10215,
+       "cue": "Act 2000-705",
+       "quote": "r financial institution group that reports those deposits in Alabama for purposes of Act 2000-705, those deposits shall not be taxed more than once pursuant to the provisions of Act 2000-705 in the same taxable y"
+      },
+      {
+       "offset": 10308,
+       "cue": "Act 2000-705",
+       "quote": "-705, those deposits shall not be taxed more than once pursuant to the provisions of Act 2000-705 in the same taxable year. The liability for such taxes shall be the responsibility of the purchaser, and the tax b"
+      },
+      {
+       "offset": 10631,
+       "cue": "June 30, 1999",
+       "quote": "p reports deposits in any year less than 96.5 percent of the deposits reported as of June 30, 1999, the alternative minimum tax shall be based on the deposits reported as of June 30, 1999. In the event an existing"
+      },
+      {
+       "offset": 10720,
+       "cue": "June 30, 1999",
+       "quote": " 30, 1999, the alternative minimum tax shall be based on the deposits reported as of June 30, 1999. In the event an existing financial institution group reports deposits in any year more than 96.5 percent of the d"
+      },
+      {
+       "offset": 10871,
+       "cue": "June 30, 1999",
+       "quote": "p reports deposits in any year more than 96.5 percent of the deposits reported as of June 30, 1999, the alternative minimum tax shall be based on the deposits reported for that taxable year. For financial institut"
+      },
+      {
+       "offset": 11032,
+       "cue": "June 30, 1999",
+       "quote": "ported for that taxable year. For financial institutions coming into existence after June 30, 1999, the deposits upon which the alternative minimum tax is based shall not be less than the deposits reported the fir"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 40,
+       "cue": "Act 2000-705",
+       "quote": "(Act 99-665, 2nd Sp. Sess., p. 131, §2; Act 2000-705, p. 1442, §2; Act 2017-363, §7; Act 2022-252, §§1, 2.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "40-14A-24",
+   "file": "title-40/040-014a-024.md",
+   "code_id": "29588",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "40-14A-24",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "7cfed36c374cb90926bedf15c333556f891af3acee3cbe43b286b8fbc064a700",
+     "history_sha256": "a04394ce78c97673eac0ba0a77568186a63bc7140a5545d7e4aa108a2fb55024",
+     "body_cues": [
+      {
+       "offset": 1056,
+       "cue": "before",
+       "quote": "a): (1) The net amount invested by the taxpayer in any bond or other security issued before January 1, 2000 by the State of Alabama, or any county, municipality or other political subdivision of the State o"
+      },
+      {
+       "offset": 1063,
+       "cue": "January 1, 2000",
+       "quote": " The net amount invested by the taxpayer in any bond or other security issued before January 1, 2000 by the State of Alabama, or any county, municipality or other political subdivision of the State of Alabama, or an"
+      },
+      {
+       "offset": 1268,
+       "cue": "until",
+       "quote": "ama, or any public corporation, agency or instrumentality of the foregoing, but only until the year in which occurs the earlier of the final stated maturity thereof or the date on which the principal of th"
+      },
+      {
+       "offset": 1453,
+       "cue": "prior to",
+       "quote": " the principal of the bond or other security shall be called for optional redemption prior to the final maturity thereof. For purposes of this subdivision, “net amount invested” means the amount of cash, incl"
+      },
+      {
+       "offset": 3529,
+       "cue": "beginning",
+       "quote": " the same or a different certificated or licensed air carrier. (4) During the period beginning December 1, 1997, and ending on the date 20 years thereafter, the amount invested in all new and existing manufact"
+      },
+      {
+       "offset": 3539,
+       "cue": "December 1, 1997",
+       "quote": "or a different certificated or licensed air carrier. (4) During the period beginning December 1, 1997, and ending on the date 20 years thereafter, the amount invested in all new and existing manufacturing facilities "
+      },
+      {
+       "offset": 4039,
+       "cue": "December 31, 2000",
+       "quote": "on, has met the criteria in paragraph b. below: a. The taxpayer must, not later than December 31, 2000, file with the department a statement of intent to claim the deduction provided under this section. This statement"
+      },
+      {
+       "offset": 4261,
+       "cue": "commencing",
+       "quote": "ntent shall contain any information required by the department. b. During the period commencing with December 1, 1997, and ending on the date six years thereafter, the amount of new investment in all new and ex"
+      },
+      {
+       "offset": 4277,
+       "cue": "December 1, 1997",
+       "quote": "ain any information required by the department. b. During the period commencing with December 1, 1997, and ending on the date six years thereafter, the amount of new investment in all new and existing manufacturing f"
+      },
+      {
+       "offset": 5006,
+       "cue": "until",
+       "quote": "0,000 Not less than 1,000 No deduction shall be available under this subdivision (4) until the criteria defined in paragraph a. above, and, in addition, paragraph b. above have been met. The deduction avai"
+      },
+      {
+       "offset": 5228,
+       "cue": "December 1, 1997",
+       "quote": "subdivision (4) shall only be available during those years within the 20 years after December 1, 1997, in which the taxpayer maintains the criteria defined in paragraph b. above. (5) The amount invested by the taxpay"
+      },
+      {
+       "offset": 5584,
+       "cue": "on or after",
+       "quote": "ible personal property, equipment, facilities, structures, components, and inventory on or after January 1, 1998, and during the period for 20 years thereafter, provided that the taxpayer has met the criteria in"
+      },
+      {
+       "offset": 5596,
+       "cue": "January 1, 1998",
+       "quote": "l property, equipment, facilities, structures, components, and inventory on or after January 1, 1998, and during the period for 20 years thereafter, provided that the taxpayer has met the criteria in paragraphs a., "
+      },
+      {
+       "offset": 5780,
+       "cue": "February 19, 1998",
+       "quote": "the criteria in paragraphs a., b., and c. a. The taxpayer must, within six months of February 19, 1998, file with the department a statement of intent to claim the deduction provided pursuant to this subdivision (5). "
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 40,
+       "cue": "Act 2000-705",
+       "quote": "(Act 99-665, 2nd Sp. Sess., p. 131, §2; Act 2000-705, p. 1442, §2.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "40-14A-34",
+   "file": "title-40/040-014a-034.md",
+   "code_id": "29598",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "40-14A-34",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "52b3eed3ff76dc39bc96e5dba7ce2ec68538affc5a42ac53514f7d967d2408a0",
+     "history_sha256": "a134d9a80b8813bc08bdc74b41d63bb3424e108edec281b7f3808c4ae1bb4877",
+     "body_cues": [
+      {
+       "offset": 919,
+       "cue": "before",
+       "quote": "ma; (2) The net amount invested by the taxpayer in any bond or other security issued before January 1, 2000, by the State of Alabama, or any county, municipality, or other political subdivision of the State"
+      },
+      {
+       "offset": 926,
+       "cue": "January 1, 2000",
+       "quote": " The net amount invested by the taxpayer in any bond or other security issued before January 1, 2000, by the State of Alabama, or any county, municipality, or other political subdivision of the State of Alabama, or "
+      },
+      {
+       "offset": 1131,
+       "cue": "until",
+       "quote": "abama, or any public corporation agency or instrumentality of the foregoing but only until the year in which occurs the earlier of the final maturity date thereof or the date on which the principal of the "
+      },
+      {
+       "offset": 1308,
+       "cue": "prior to",
+       "quote": " which the principal of the bond or security shall be called for optional redemption prior to the final maturity thereof. For purposes of this subdivision, “net amount invested” means the amount of cash, incl"
+      },
+      {
+       "offset": 2233,
+       "cue": "beginning",
+       "quote": "s associated with a plant, facility, mine, or site in Alabama; (4) During the period beginning December 1, 1997, and ending on the date 20 years thereafter, the amount invested in all new and existing manufact"
+      },
+      {
+       "offset": 2243,
+       "cue": "December 1, 1997",
+       "quote": "ed with a plant, facility, mine, or site in Alabama; (4) During the period beginning December 1, 1997, and ending on the date 20 years thereafter, the amount invested in all new and existing manufacturing facilities "
+      },
+      {
+       "offset": 2743,
+       "cue": "December 31, 2000",
+       "quote": "on, has met the criteria in paragraph b. below: a. The taxpayer must, not later than December 31, 2000, file with the department a statement of intent to claim the deduction provided under this section. This statement"
+      },
+      {
+       "offset": 2965,
+       "cue": "commencing",
+       "quote": "ntent shall contain any information required by the department. b. During the period commencing with December 1, 1997, and ending on the date six years thereafter, the amount of new investment in all new and ex"
+      },
+      {
+       "offset": 2981,
+       "cue": "December 1, 1997",
+       "quote": "ain any information required by the department. b. During the period commencing with December 1, 1997, and ending on the date six years thereafter, the amount of new investment in all new and existing manufacturing f"
+      },
+      {
+       "offset": 3710,
+       "cue": "until",
+       "quote": "0,000 Not less than 1,000 No deduction shall be available under this subdivision (4) until the criteria defined in paragraph a. above, and, in addition, paragraph b. above have been met. The deduction avai"
+      },
+      {
+       "offset": 3932,
+       "cue": "December 1, 1997",
+       "quote": "subdivision (4) shall only be available during those years within the 20 years after December 1, 1997, in which the taxpayer maintains the criteria defined in paragraph b. above. (5) The amount invested by the taxpay"
+      },
+      {
+       "offset": 4288,
+       "cue": "on or after",
+       "quote": "ible personal property, equipment, facilities, structures, components, and inventory on or after January 1, 1998, and during the period for 20 years thereafter, provided that the taxpayer has met the criteria in"
+      },
+      {
+       "offset": 4300,
+       "cue": "January 1, 1998",
+       "quote": "l property, equipment, facilities, structures, components, and inventory on or after January 1, 1998, and during the period for 20 years thereafter, provided that the taxpayer has met the criteria in paragraphs a., "
+      },
+      {
+       "offset": 4484,
+       "cue": "February 19, 1998",
+       "quote": "the criteria in paragraphs a., b., and c. a. The taxpayer must, within six months of February 19, 1998, file with the department a statement of intent to claim the deduction provided pursuant to this subdivision (5). "
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 40,
+       "cue": "Act 2000-705",
+       "quote": "(Act 99-665, 2nd Sp. Sess., p. 131, §2; Act 2000-705, p. 1442, §2; repealed by Act 2000-705, §12.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "40-21-82",
+   "file": "title-40/040-021-082.md",
+   "code_id": "18072",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "40-21-82",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "3bc38e082d0e8844851e33841f13b62bca298ee38cd6b207dac01634ab0028c2",
+     "history_sha256": "83e6e85f1104742b89cfd1e3a51798b43a010c426a682879f86bca101443feb2",
+     "body_cues": [
+      {
+       "offset": 1246,
+       "cue": "beginning",
+       "quote": "es in the State of Alabama. The tax shall be applied to interstate telephone service beginning with bills dated on and after February 1, 2002, regardless of when the services being billed were provided. The ta"
+      },
+      {
+       "offset": 1286,
+       "cue": "February 1, 2002",
+       "quote": "l be applied to interstate telephone service beginning with bills dated on and after February 1, 2002, regardless of when the services being billed were provided. The tax shall be computed monthly with respect to eac"
+      },
+      {
+       "offset": 1694,
+       "cue": "Beginning",
+       "quote": "h gross sales or gross receipts Over $60,000 $4,020 plus 3.7% of excess over $60,000 Beginning with bills dated on or after April 1, 2002, the tax shall be computed at the rate of six percent on all gross sale"
+      },
+      {
+       "offset": 1721,
+       "cue": "on or after",
+       "quote": "ipts Over $60,000 $4,020 plus 3.7% of excess over $60,000 Beginning with bills dated on or after April 1, 2002, the tax shall be computed at the rate of six percent on all gross sales or gross receipts. The util"
+      },
+      {
+       "offset": 1733,
+       "cue": "April 1, 2002",
+       "quote": "0,000 $4,020 plus 3.7% of excess over $60,000 Beginning with bills dated on or after April 1, 2002, the tax shall be computed at the rate of six percent on all gross sales or gross receipts. The utility furnishing"
+      },
+      {
+       "offset": 2049,
+       "cue": "on or after",
+       "quote": "ax billed by the utility nine-tenths of one percent of the amount of such tax billed on or after February 1, 2002, in consideration of the costs incurred by the utility in collecting and remitting the tax levied"
+      },
+      {
+       "offset": 2061,
+       "cue": "February 1, 2002",
+       "quote": " the utility nine-tenths of one percent of the amount of such tax billed on or after February 1, 2002, in consideration of the costs incurred by the utility in collecting and remitting the tax levied by this subsecti"
+      },
+      {
+       "offset": 2237,
+       "cue": "October 1, 2002",
+       "quote": "emitting the tax levied by this subsection; provided, however, that on and following October 1, 2002, the amount deducted and retained by such utility shall be one-fourth of one percent of the gross amount of such t"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 159,
+       "cue": "Act 2001-1090",
+       "quote": ", p. 172; Acts 1992, No. 92-623, p. 1466, §3; Acts 1993, No. 93-614, p. 1006, §2(4); Act 2001-1090, 4th Sp. Sess., p. 1120, §1; Act 2004-397, p. 668, §1; Act 2006-292, p. 584, §1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "40-27-1",
+   "file": "title-40/040-027-001.md",
+   "code_id": "19362",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "40-27-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "96c2c0de1172556a4f46dd63284b02647fba2e81adc189628a739da69c9f43a7",
+     "history_sha256": "8f114602e5f7965de77dd0d6b448092eef16897535a6ce61f9151f66f71e0d3e",
+     "body_cues": [
+      {
+       "offset": 9034,
+       "cue": "through",
+       "quote": "t they constitute nonbusiness income, shall be allocated as provided in paragraphs 5 through 8 of this article. 5. (a) Net rents and royalties from real property located in this state are allocable to this s"
+      },
+      {
+       "offset": 23289,
+       "cue": "prior to",
+       "quote": "article: Provided that the commission takes specific action setting aside such funds prior to incurring any obligation to be met in whole or in part in such manner. Except where the commission makes use of fu"
+      },
+      {
+       "offset": 23500,
+       "cue": "prior to",
+       "quote": " available to it under paragraph 1(i), the commission shall not incur any obligation prior to the allotment of funds by the party states adequate to meet the same. (d) The commission shall keep accurate accou"
+      },
+      {
+       "offset": 24960,
+       "cue": "Prior to",
+       "quote": "ission may also act with respect to the provisions of article IV of this compact. 2. Prior to the adoption of any regulation, the commission shall: (a) As provided in its bylaws, hold at least one public hear"
+      },
+      {
+       "offset": 29027,
+       "cue": "through",
+       "quote": " states or subdivisions on whose account the commission performs the audit, and only through the appropriate agencies or officers of such states or subdivisions. Nothing in this article shall be construed to"
+      },
+      {
+       "offset": 32214,
+       "cue": "before",
+       "quote": "that it finds most appropriate for gaining access to evidence relevant to the matter before it. 6. The board shall give due notice of the times and places of its hearings. The parties shall be entitled to b"
+      },
+      {
+       "offset": 35037,
+       "cue": "effective",
+       "quote": "rce when enacted into law by any seven states. Thereafter, this compact shall become effective as to any other state upon its enactment thereof. The commission shall arrange for notification of all party state"
+      },
+      {
+       "offset": 35397,
+       "cue": "prior to",
+       "quote": "drawal shall affect any liability already incurred by or chargeable to a party state prior to the time of such withdrawal. 3. No proceeding commenced before an arbitration board prior to the withdrawal of a s"
+      },
+      {
+       "offset": 35462,
+       "cue": "before",
+       "quote": "le to a party state prior to the time of such withdrawal. 3. No proceeding commenced before an arbitration board prior to the withdrawal of a state and to which the withdrawing state or any subdivision ther"
+      },
+      {
+       "offset": 35490,
+       "cue": "prior to",
+       "quote": " the time of such withdrawal. 3. No proceeding commenced before an arbitration board prior to the withdrawal of a state and to which the withdrawing state or any subdivision thereof is a party shall be discon"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 69,
+       "cue": "Act 2011-616",
+       "quote": "(Acts 1967, No. 395, p. 982, §1; Acts 1997, No. 97-625, p. 1048, §3; Act 2011-616, p. 1394, §1; Act 2021-1, §6.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "40-28-2",
+   "file": "title-40/040-028-002.md",
+   "code_id": "19411",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "40-28-2",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "d75a3f300cfedf415fa0d040a7b4afcd4b6c5476d46d04cf8745aad6492fb3ee",
+     "history_sha256": "1d64de902855841986b16908bcdb574c0cb529e09336a6fbc3b683238f5a1d9f",
+     "body_cues": [
+      {
+       "offset": 4,
+       "cue": "Beginning",
+       "quote": "(a) Beginning in the fiscal year ending September 30, 1980, the State of Alabama will annually transfer to the counties in Alaba"
+      },
+      {
+       "offset": 40,
+       "cue": "September 30, 1980",
+       "quote": "(a) Beginning in the fiscal year ending September 30, 1980, the State of Alabama will annually transfer to the counties in Alabama served by T.V.A. a portion of the in-lieu-"
+      },
+      {
+       "offset": 502,
+       "cue": "through",
+       "quote": " Be: 1979-80 20% 1980-81 30% 1981-82 40% 1982-83 50% 1983-84 60% 1984-85 70% 1985-86 through 2004-05 75% 2005-2006 and each fiscal year thereafter 78% (b) The state shall distribute the in-lieu-of-taxes paym"
+      },
+      {
+       "offset": 726,
+       "cue": "September 30, 2005",
+       "quote": "year to each of the counties served by T.V.A., and the three percent increases after September 30, 2005, generated by the amendments to this section at the 2006 Regular Session of the Legislature shall be allocated by "
+      },
+      {
+       "offset": 1842,
+       "cue": "Beginning",
+       "quote": "istribution to the municipalities will be administered by the county governing body. Beginning in the fiscal year ending September 30, 2010, the distribution provided in this subsection to the dry counties and"
+      },
+      {
+       "offset": 1878,
+       "cue": "September 30, 2010",
+       "quote": "ll be administered by the county governing body. Beginning in the fiscal year ending September 30, 2010, the distribution provided in this subsection to the dry counties and municipalities that are not served by T.V.A."
+      },
+      {
+       "offset": 2165,
+       "cue": "until",
+       "quote": "dry counties and municipalities from liquor tax revenues pursuant to Section 40-28-5 until the aggregate annual amount of revenue received by those dry counties and municipalities from the provisions of Se"
+      },
+      {
+       "offset": 2456,
+       "cue": "September 30, 2009",
+       "quote": "s and municipalities therein pursuant to this subdivision for the fiscal year ending September 30, 2009. Until the aggregate annual amount of liquor tax distributions to the dry counties and municipalities not served b"
+      },
+      {
+       "offset": 2476,
+       "cue": "Until",
+       "quote": " therein pursuant to this subdivision for the fiscal year ending September 30, 2009. Until the aggregate annual amount of liquor tax distributions to the dry counties and municipalities not served by T.V.A"
+      },
+      {
+       "offset": 2783,
+       "cue": "September 30, 2009",
+       "quote": "s and municipalities therein pursuant to this subdivision for the fiscal year ending September 30, 2009, the annual amount by which any payments to such counties and municipalities are reduced by liquor tax revenues pu"
+      },
+      {
+       "offset": 3643,
+       "cue": "Act 2010-135",
+       "quote": " by local law. The additional distributions to the above listed counties pursuant to Act 2010-135 shall be held by the respective county separate and apart from other T.V.A. distributions and shall not be expende"
+      },
+      {
+       "offset": 3786,
+       "cue": "until",
+       "quote": "te and apart from other T.V.A. distributions and shall not be expended by the county until the effective date of the local law providing for the allocation of such funds. (2) Effective for transfers after "
+      },
+      {
+       "offset": 3796,
+       "cue": "effective",
+       "quote": "rt from other T.V.A. distributions and shall not be expended by the county until the effective date of the local law providing for the allocation of such funds. (2) Effective for transfers after July 1, 2006, "
+      },
+      {
+       "offset": 3876,
+       "cue": "Effective",
+       "quote": " the effective date of the local law providing for the allocation of such funds. (2) Effective for transfers after July 1, 2006, the distribution to the State General Fund shall remain at the level received on"
+      },
+      {
+       "offset": 3906,
+       "cue": "July 1, 2006",
+       "quote": "al law providing for the allocation of such funds. (2) Effective for transfers after July 1, 2006, the distribution to the State General Fund shall remain at the level received on July 1, 2006, until the level re"
+      },
+      {
+       "offset": 4001,
+       "cue": "July 1, 2006",
+       "quote": "06, the distribution to the State General Fund shall remain at the level received on July 1, 2006, until the level received attains the amount of seventeen million eight hundred forty thousand two hundred thirty-"
+      },
+      {
+       "offset": 4015,
+       "cue": "until",
+       "quote": "bution to the State General Fund shall remain at the level received on July 1, 2006, until the level received attains the amount of seventeen million eight hundred forty thousand two hundred thirty-three d"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 115,
+       "cue": "Act 2006-655",
+       "quote": " 92, p. 1786, §1; Acts 1979, No. 79-306, p. 458; Acts 1979, No. 79-786, p. 1425, §2; Act 2006-655, p. 1792, §1; Act 2010-135, p. 190, §1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "41-8-21",
+   "file": "title-41/041-008-021.md",
+   "code_id": "549",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "41-8-21",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "e01f7272143aec2060c44f9e275a131147ec16d4acbc75f11a5b125cf7b3cd7e",
+     "history_sha256": "6beb072b12f8e38bb6e39406b29ba3ae274c7fc5be2bdf565c0688a067b8f1f8",
+     "body_cues": [
+      {
+       "offset": 1029,
+       "cue": "effective",
+       "quote": "ary resources makes the provision of library service on an interstate basis the most effective way of providing adequate and efficient service. Article II. Definitions. As used in this compact: (a) “Public lib"
+      },
+      {
+       "offset": 7382,
+       "cue": "effective",
+       "quote": " by the constitution or statutes of its state. (c) No library agreement shall become effective until filed with the compact administrator of each state involved and approved in accordance with Article VII of t"
+      },
+      {
+       "offset": 7392,
+       "cue": "until",
+       "quote": "nstitution or statutes of its state. (c) No library agreement shall become effective until filed with the compact administrator of each state involved and approved in accordance with Article VII of this co"
+      },
+      {
+       "offset": 7629,
+       "cue": "prior to",
+       "quote": "Library Agreements. (a) Every library agreement made pursuant to this compact shall, prior to and as a condition precedent to its entry into force, be submitted to the Attorney General of each state in which "
+      },
+      {
+       "offset": 11272,
+       "cue": "until",
+       "quote": "l continue in force with respect to a party state and remain binding upon such state until six months after such state has given notice to each other party state of the repeal thereof. Such withdrawal shal"
+      },
+      {
+       "offset": 11531,
+       "cue": "prior to",
+       "quote": "greement entered into pursuant to this compact from any obligation of that agreement prior to the end of its duration as provided therein. Article XII. Construction and Severability. This compact shall be lib"
+      }
+     ],
+     "history_cues": []
+    }
+   ]
+  },
+  {
+   "section": "41-10-48.12",
+   "file": "title-41/041-010-048-012.md",
+   "code_id": "60736",
+   "held_reasons": [
+    "source completeness or table structure failed: unbalanced or unfinished official markup: ['span']"
+   ],
+   "official_rows": [
+    {
+     "display_id": "41-10-48.12",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "0fcd3bda48c7fc0d2f982bf878d957de88c96f7391bea02e862344d3f6957421",
+     "history_sha256": "65b6eec862be1f4cd29b515cb3e754735ff3e5b96aebc337d874808ae498c155",
+     "body_cues": [
+      {
+       "offset": 189,
+       "cue": "June 1, 2025",
+       "quote": "an irrevocable fund named the Strategic Energy Infrastructure Development Fund. From June 1, 2025, through the fiscal year ending September 30, 2030, the funding under the strategic development fund shall be util"
+      },
+      {
+       "offset": 203,
+       "cue": "through",
+       "quote": " fund named the Strategic Energy Infrastructure Development Fund. From June 1, 2025, through the fiscal year ending September 30, 2030, the funding under the strategic development fund shall be utilized for "
+      },
+      {
+       "offset": 234,
+       "cue": "September 30, 2030",
+       "quote": "y Infrastructure Development Fund. From June 1, 2025, through the fiscal year ending September 30, 2030, the funding under the strategic development fund shall be utilized for the infrastructure improvements and items "
+      },
+      {
+       "offset": 551,
+       "cue": "September 30, 2030",
+       "quote": "ted in rural areas, with any funds remaining in the strategic development fund as of September 30, 2030, carried over and continued to be used for such purposes until fully depleted. Of the funding for the strategic de"
+      },
+      {
+       "offset": 627,
+       "cue": "until",
+       "quote": "nd as of September 30, 2030, carried over and continued to be used for such purposes until fully depleted. Of the funding for the strategic development fund for fiscal years ending after September 30, 2030"
+      },
+      {
+       "offset": 729,
+       "cue": "September 30, 2030",
+       "quote": "ted. Of the funding for the strategic development fund for fiscal years ending after September 30, 2030, excluding any carry-over funds as mentioned in the immediately preceding sentence, 50 percent shall be used for t"
+      },
+      {
+       "offset": 1165,
+       "cue": "September 30, 2030",
+       "quote": "ved for infrastructure development projects in the rural areas in fiscal years after September 30, 2030, by the close of the third quarter of any fiscal year, the funds may revert and be used for energy infrastructure "
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2025-394",
+       "quote": "(Act 2025-394, §1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37-82.01",
+   "file": "title-45/045-037-082-001.md",
+   "code_id": "45732",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37-82.01",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "30e6eb5867c7e2c27d8bff70a0ceaa486630c6caac9dd28246163f71e8cf6a86",
+     "history_sha256": "bcc893a88125b7d2029ffb1691df4d73aac3fcbf75e3868e7cae9199fc5400fc",
+     "body_cues": [
+      {
+       "offset": 1232,
+       "cue": "commence",
+       "quote": "he office. It is intended to entitle an attorney with applicable legal experience to commence the office at a higher rate of pay than one who has less applicable legal experience. Steps shall refer to the amo"
+      },
+      {
+       "offset": 4986,
+       "cue": "effective",
+       "quote": "000 100,000 74,000 54,500 (h) The compensation provided by this section shall become effective on October 1, 1997. The county governing body of the county or counties within the Tenth Judicial Circuit may incr"
+      },
+      {
+       "offset": 4999,
+       "cue": "October 1, 1997",
+       "quote": "4,000 54,500 (h) The compensation provided by this section shall become effective on October 1, 1997. The county governing body of the county or counties within the Tenth Judicial Circuit may increase the compensati"
+      },
+      {
+       "offset": 5483,
+       "cue": "On or after",
+       "quote": "y in semimonthly installments as the salaries of other county officers are paid. (i) On or after July 1, 2022, subject to approval by the Jefferson County Commission, an additional deputy district attorney desig"
+      },
+      {
+       "offset": 5495,
+       "cue": "July 1, 2022",
+       "quote": "thly installments as the salaries of other county officers are paid. (i) On or after July 1, 2022, subject to approval by the Jefferson County Commission, an additional deputy district attorney designated as a Le"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 29,
+       "cue": "Act 2003-216",
+       "quote": "(Act 97-666, p. 1285, §§1-8; Act 2003-216, p. 547, §1; Act 2019-323, §1; Act 2022-429, §1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37-82.20",
+   "file": "title-45/045-037-082-020.md",
+   "code_id": "45733",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37-82.20",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "6e49707511d551e0fd5aeaf69b40dd2f784e4cdec31f148cc4efd9fcee266ec2",
+     "history_sha256": "82167d762fa43ac6fb5d77061293078ec97136f40430ac34a126fc325741a631",
+     "body_cues": [
+      {
+       "offset": 1171,
+       "cue": "commence",
+       "quote": "he office. It is intended to entitle an attorney with applicable legal experience to commence the office at a higher rate of pay than one who has less applicable legal experience. Steps shall refer to the amo"
+      },
+      {
+       "offset": 2565,
+       "cue": "October 1, 2007",
+       "quote": "clude any cost-of-living salary increases granted by an act of the Legislature after October 1, 2007. The remainder of the annual compensation as provided in the schedule of salaries hereinbelow set out, of each of "
+      },
+      {
+       "offset": 2959,
+       "cue": "October 1, 2007",
+       "quote": "tallments as the salaries of other county officers are paid. (2) Within 12 months of October 1, 2007, all deputy district attorneys currently employed on October 1, 2007 shall have the option of having the county po"
+      },
+      {
+       "offset": 3028,
+       "cue": "October 1, 2007",
+       "quote": "in 12 months of October 1, 2007, all deputy district attorneys currently employed on October 1, 2007 shall have the option of having the county portion of their salary and benefits paid through the state. Upon writt"
+      },
+      {
+       "offset": 3129,
+       "cue": "through",
+       "quote": "shall have the option of having the county portion of their salary and benefits paid through the state. Upon written request by the individual deputy district attorney, the county within the Tenth Judicial C"
+      },
+      {
+       "offset": 3774,
+       "cue": "October 1, 2007",
+       "quote": "nth Judicial Circuit, Birmingham Division. All deputy district attorneys hired after October 1, 2007, shall be required to execute the aforementioned request to have the county forward the county portion of his or h"
+      },
+      {
+       "offset": 3951,
+       "cue": "through",
+       "quote": "forward the county portion of his or her salary and benefits to the state to be paid through the Office of Prosecution Services. (e) The deputy district attorneys appointed by the district attorney to serve "
+      },
+      {
+       "offset": 5408,
+       "cue": "effective",
+       "quote": "000 100,000 74,000 54,500 (g) The compensation provided by this section shall become effective on October 1, 1997. The county governing body of the county or counties within the Tenth Judicial Circuit may incr"
+      },
+      {
+       "offset": 5421,
+       "cue": "October 1, 1997",
+       "quote": "4,000 54,500 (g) The compensation provided by this section shall become effective on October 1, 1997. The county governing body of the county or counties within the Tenth Judicial Circuit may increase the compensati"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 162,
+       "cue": "Act 2000-618",
+       "quote": " 196, §1; Act 90-542, p. 846, §1; Act 93-567, p. 946, §1; Act 97-403, p. 658, §§1-7; Act 2000-618, p. 1258, §1; Act 2007-303, p. 552, §1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37-123.84",
+   "file": "title-45/045-037-123-084.md",
+   "code_id": "45839",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37-123.84",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "47ede768cc2f1b32d6d23ace7c5d292b851931c1ec089744229d5b2bf9a20dbc",
+     "history_sha256": "1a8c1b201bc9e34f48d1353989ad6ec4466ee3ae4a422a245a35c26907a0e7da",
+     "body_cues": [
+      {
+       "offset": 892,
+       "cue": "August 1, 1993",
+       "quote": "dless of the performance of any services. For members terminating employment between August 1, 1993, and January 31, 2010, up to three months of service credit was granted to members on unpaid Family and Medical Le"
+      },
+      {
+       "offset": 912,
+       "cue": "January 31, 2010",
+       "quote": "ance of any services. For members terminating employment between August 1, 1993, and January 31, 2010, up to three months of service credit was granted to members on unpaid Family and Medical Leave Act leaves. (5) Ye"
+      },
+      {
+       "offset": 1632,
+       "cue": "effective",
+       "quote": "ne-twelfth of a year. (7) Notwithstanding any provision of the plan to the contrary, effective December 12, 1994, contributions, benefits, and service shall be provided in accordance with 26 U.S.C. § 414(u), r"
+      },
+      {
+       "offset": 1642,
+       "cue": "December 12, 1994",
+       "quote": " of a year. (7) Notwithstanding any provision of the plan to the contrary, effective December 12, 1994, contributions, benefits, and service shall be provided in accordance with 26 U.S.C. § 414(u), relating to militar"
+      },
+      {
+       "offset": 1795,
+       "cue": "before",
+       "quote": "vided in accordance with 26 U.S.C. § 414(u), relating to military leave. (8) Service before and after reemployment by the county shall also be calculated in accordance with Section 45-37-123.54."
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2013-415",
+       "quote": "(Act 2013-415, p. 1586, §2:4.5; Act 2021-456, §1; Act 2024-260, §1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37-123.100",
+   "file": "title-45/045-037-123-100.md",
+   "code_id": "45840",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37-123.100",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "3f8394b1d915c44f2eb7cf83f3e0b107527aaed1ebe7a7074710aaa6c3c3fd98",
+     "history_sha256": "b43aa6c3a4c50d0fa353609f80e692122e81fa545bba076bb5c257382678a111",
+     "body_cues": [
+      {
+       "offset": 1223,
+       "cue": "beginning",
+       "quote": "verage salary. This 75 percent limitation shall only be applied at the time that the beginning pension benefit is determined and shall not limit increases granted to retired members subsequent to their retirem"
+      },
+      {
+       "offset": 1410,
+       "cue": "before",
+       "quote": "quent to their retirement. Additionally, this 75 percent limitation shall be applied before applying any actuarial adjustments to reflect an election of a joint survivorship pension. (4) 26 U.S.C. § 401(a)("
+      },
+      {
+       "offset": 3082,
+       "cue": "prior to",
+       "quote": "ts. (1) REGULAR EARLY RETIREMENT. A member may elect, but is not required, to retire prior to age 60 if the member has completed 30 or more years of service, 10 of which, but not the total 30, are paid member"
+      },
+      {
+       "offset": 3615,
+       "cue": "before",
+       "quote": "st Birthday Preceding Retirement Reduced Retirement Benefit on Account of Retirement before Age 60 Expressed as a Percentage of the Superannuation Retirement Benefit under subsection (a) 59 93% 58 87% 57 82"
+      },
+      {
+       "offset": 3856,
+       "cue": "April 24, 2003",
+       "quote": "% 51 57% 50 54% 49 51% 48 48% (2) TWENTY-FIVE EARLY RETIREMENT BENEFIT. On and after April 24, 2003, a member with at least 25 years of paid membership time, but less than 30 years of paid membership time, who is n"
+      },
+      {
+       "offset": 5675,
+       "cue": "before",
+       "quote": "ay withdraw in full his or her employee contributions, without interest, at any time before payment of the benefit commences. However, no deferred retirement benefit shall be paid to a member who withdraws "
+      },
+      {
+       "offset": 6100,
+       "cue": "before",
+       "quote": "vorship pension provided for under Section 45-37-123.101. d. Death. If a member dies before or after payment of his or her deferred retirement benefit commences, the return of his or her employee contributi"
+      },
+      {
+       "offset": 7452,
+       "cue": "commence",
+       "quote": "d in subsection (e), payment of a member’s regular deferred retirement benefit shall commence upon the date that the member reaches the age of 60 and shall continue for the life of the member, regardless of w"
+      },
+      {
+       "offset": 7653,
+       "cue": "commence",
+       "quote": "ss of whether the member is employed with another employer at the time payment is to commence. (3) INVOLUNTARY DEFERRED RETIREMENT BENEFIT. a. 20/55 Provisions. Subject to the general eligibility requirements"
+      },
+      {
+       "offset": 8288,
+       "cue": "commence",
+       "quote": "rth in subsection (a), superannuation retirement benefit, the payment of which shall commence upon his or her retirement if he or she has attained the age of 55; if the member has not attained the age of 55, "
+      },
+      {
+       "offset": 8436,
+       "cue": "until",
+       "quote": "he age of 55; if the member has not attained the age of 55, payment shall be delayed until the member’s attainment of age 55. b. 18/60 Provisions. Subject to the general eligibility requirements stated in "
+      },
+      {
+       "offset": 9079,
+       "cue": "commence",
+       "quote": "rth in subsection (a), superannuation retirement benefit, the payment of which shall commence as set forth below. 1. Member contributions. In order to receive a benefit under this paragraph, a member shall co"
+      },
+      {
+       "offset": 10006,
+       "cue": "commence",
+       "quote": "ent of a member’s involuntary deferred retirement benefit under this paragraph shall commence upon the earlier of: (i) the date on which the member attains the age of 60; or (ii) the date on which the member "
+      },
+      {
+       "offset": 10335,
+       "cue": "commence",
+       "quote": "ss of whether the member is employed with another employer at the time payment is to commence; provided however, that if at the time payment of the deferred retirement benefit commences, he or she has not att"
+      },
+      {
+       "offset": 11540,
+       "cue": "before",
+       "quote": "ber action required. A member shall complete all forms required by the pension board before payment of any benefit provided in this part may commence."
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2013-415",
+       "quote": "(Act 2013-415, p. 1586, §2:5.1; Act 2021-456, §1; Act 2024-260, §1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.04",
+   "file": "title-45/045-037a-051-004.md",
+   "code_id": "62318",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.04",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "98d3fbde9231712cacb6c5ed3949309d0ea9248a7d7fa99a2bcfdd560f88e21d",
+     "history_sha256": "226803cbe1e52790a896ec3e4a1c00ecfff78257b74b7981ca405789966b660f",
+     "body_cues": [
+      {
+       "offset": 1663,
+       "cue": "prior to",
+       "quote": "ection shall not result in the reduction of any benefit payable to a member retiring prior to the date on which this subsection becomes applicable to the city or in the reduction of any benefit payable to the"
+      },
+      {
+       "offset": 1902,
+       "cue": "January 1, 1973",
+       "quote": "and shall be applicable only to those members who became members of the system after January 1, 1973. To achieve such intention it is hereby provided that this subsection shall not apply to any benefit the payment o"
+      },
+      {
+       "offset": 2047,
+       "cue": "prior to",
+       "quote": "ided that this subsection shall not apply to any benefit the payment of which begins prior to the date whereon this subsection becomes applicable. All benefits the payment of which begins after the date where"
+      },
+      {
+       "offset": 2598,
+       "cue": "effective",
+       "quote": "ings herein given them: a. Future member. One who becomes a member subsequent to the effective date of this subsection. b. Liability for deficiency of salary “ deductions.” Liability to the fund resulting from"
+      },
+      {
+       "offset": 2878,
+       "cue": "effective",
+       "quote": "itable service under this option. c. Present member. A person who is a member on the effective date of this subsection. d. The effective date of this subsection. The date whereon this subsection becomes applic"
+      },
+      {
+       "offset": 2920,
+       "cue": "effective",
+       "quote": "nt member. A person who is a member on the effective date of this subsection. d. The effective date of this subsection. The date whereon this subsection becomes applicable to the city. e. This option. The opti"
+      },
+      {
+       "offset": 3834,
+       "cue": "beginning",
+       "quote": " his or her noncreditable service, which interest shall be calculated for the period beginning on the dates on which the respective salary deductions would have been paid, had he or she been subject to the sal"
+      },
+      {
+       "offset": 4344,
+       "cue": "effective",
+       "quote": "ion by doing one of the following not later than the ninetieth day subsequent to the effective day of this subsection: (i) by paying the fund in full the amount of his or her liability for deficiency of salary"
+      },
+      {
+       "offset": 5907,
+       "cue": "on or after",
+       "quote": " a temporary employee. In the event a member employee becoming a participant, herein on or after July 1, 2007, shall have, prior to becoming a member, been employed (i) by the county under a merit system applica"
+      },
+      {
+       "offset": 5919,
+       "cue": "July 1, 2007",
+       "quote": " employee. In the event a member employee becoming a participant, herein on or after July 1, 2007, shall have, prior to becoming a member, been employed (i) by the county under a merit system applicable to the co"
+      },
+      {
+       "offset": 5945,
+       "cue": "prior to",
+       "quote": "member employee becoming a participant, herein on or after July 1, 2007, shall have, prior to becoming a member, been employed (i) by the county under a merit system applicable to the county, (ii) by any othe"
+      },
+      {
+       "offset": 7887,
+       "cue": "beginning",
+       "quote": "ring all his or her prior service, which interest shall be calculated for the period beginning on the dates on which the respective salary deductions would have been paid, had he or she been subject to the sal"
+      },
+      {
+       "offset": 8931,
+       "cue": "effective",
+       "quote": "ings herein given them: a. Future member. One who becomes a member subsequent to the effective date of this subsection. b. Liability for deficiency of salary deduction. Liability to the fund resulting from his"
+      },
+      {
+       "offset": 9286,
+       "cue": "September 1, 2007",
+       "quote": "ercise the option set forth in this subsection no later than the ninetieth day after September 1, 2007 or if a future member subsequent to September 1, 2007, then by the ninetieth day upon which he or she becomes a me"
+      },
+      {
+       "offset": 9340,
+       "cue": "September 1, 2007",
+       "quote": "r than the ninetieth day after September 1, 2007 or if a future member subsequent to September 1, 2007, then by the ninetieth day upon which he or she becomes a member of this system. c. Present member. A person who i"
+      },
+      {
+       "offset": 9490,
+       "cue": "effective",
+       "quote": " becomes a member of this system. c. Present member. A person who is a member on the effective date of this subsection. d. The effective date of this subsection. The date whereon this subsection becomes applic"
+      },
+      {
+       "offset": 9532,
+       "cue": "effective",
+       "quote": "nt member. A person who is a member on the effective date of this subsection. d. The effective date of this subsection. The date whereon this subsection becomes applicable to the city. e. This option. The opti"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 95,
+       "cue": "Act 2007-503",
+       "quote": ", No. 556, p. 1376, § 5; Acts 1978, No. 738, p. 1067, § 3; Act 80-707, p. 1425, § 5; Act 2007-503, p. 1072, § 1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.05",
+   "file": "title-45/045-037a-051-005.md",
+   "code_id": "62319",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.05",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "ab7be392ab4aab128d555fcf63b102a0d3ae6fb6412c643281ce156e1feb1efb",
+     "history_sha256": "b90e1a0288dfa50c94de3ab6a6093fbc6d9780da6460c7e8b7f9b670d2bd0187",
+     "body_cues": [
+      {
+       "offset": 300,
+       "cue": "effective",
+       "quote": "ded for in Section 9 of Act 929. (b) (1) At the end of each payroll period after the effective date of this subpart, the City of Birmingham shall deduct from the salary of each firefighter and police officer w"
+      },
+      {
+       "offset": 445,
+       "cue": "on or after",
+       "quote": " deduct from the salary of each firefighter and police officer who commenced service on or after May 2, 1978, an amount equal to three and 30/100 percent of his or her salary plus an actuarially determined amoun"
+      },
+      {
+       "offset": 457,
+       "cue": "May 2, 1978",
+       "quote": " the salary of each firefighter and police officer who commenced service on or after May 2, 1978, an amount equal to three and 30/100 percent of his or her salary plus an actuarially determined amount to cover o"
+      },
+      {
+       "offset": 3644,
+       "cue": "until",
+       "quote": "n in the name of the system promptly upon acquisition and shall remain so registered until sold or otherwise disposed of by authority of the board. The board may select a banking institution located within"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 223,
+       "cue": "Act 2000-564",
+       "quote": "5, No. 388, p. 959, § 4; Acts 1978, No. 738, p. 1067, § 4; Act 80-707, p. 1425, § 6; Act 2000-564, p. 1039, § 1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.08",
+   "file": "title-45/045-037a-051-008.md",
+   "code_id": "62322",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.08",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "3f2f9cbc5ec2f0709bfbe2894288435c033c754ce2d58889b9a4991211a7f547",
+     "history_sha256": "fd991e295c3920d0ded0a42d5a600552469e23587411170b43276eb5549d9669",
+     "body_cues": [
+      {
+       "offset": 56,
+       "cue": "effective",
+       "quote": "(a) A member who retires at least 90 days following the effective date of this section, who has then completed at least 26 years, but less than 30 years, of credited service, and w"
+      },
+      {
+       "offset": 705,
+       "cue": "effective",
+       "quote": "eriod. A member who is not actively employed may not make a Back DROP election to be effective, a Back DROP election by a married member shall be approved in writing by his or her spouse. (b) Notwithstanding s"
+      },
+      {
+       "offset": 1134,
+       "cue": "beginning",
+       "quote": " (a) and subsection (d) of Section 45-37A-51.07 as if retirement had occurred on the beginning date of the Back DROP period, so that for purposes of calculating retirement benefits, service during the Back DRO"
+      },
+      {
+       "offset": 1720,
+       "cue": "beginning",
+       "quote": "een paid during the Back DROP Period if such member’s retirement had occurred on the beginning date of the Back DROP Period, calculated as provided in subsection (a) of Section 45-37A-51.07, together with inte"
+      },
+      {
+       "offset": 2053,
+       "cue": "until",
+       "quote": "thly benefit would have been paid; provided, however, that no interest shall be paid until or unless the actuary retained by the board determines that sufficient funds are available to pay such interest on"
+      },
+      {
+       "offset": 2421,
+       "cue": "before",
+       "quote": "ate of the member’s retirement. (d) If any member who elects the Back DROP plan dies before the date of his or her retirement, the Back DROP election shall be null, void, and of no force and effect, and the"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2001-519",
+       "quote": "(Act 2001-519, p. 933, § 1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.120",
+   "file": "title-45/045-037a-051-120.md",
+   "code_id": "62336",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.120",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "f7a47ec7d31d5068891d413cf3bfb6798a4ede17aafc0bf46443437a14bc27ed",
+     "history_sha256": "9cc7752e9b0258b08a69f11697efb317c2fec89e1797c34346b634aac2974205",
+     "body_cues": [
+      {
+       "offset": 937,
+       "cue": "prior to",
+       "quote": "rded as having been received in equal monthly installments during each of the months prior to the accrual date for which the longevity is payable, whether paid to the member employee in monthly or other insta"
+      },
+      {
+       "offset": 3147,
+       "cue": "prior to",
+       "quote": "f of each year completed in the unclassified service of the city as a common laborer prior to becoming a participant or employee member, provided that such participant or employee member shall have completed "
+      },
+      {
+       "offset": 3970,
+       "cue": "September 1, 1937",
+       "quote": "deral census preceding or subsequent to the passage of this subpart, shall be deemed September 1, 1937. The date of establishment of the system for each such city of a Class 1 municipality according to any federal cen"
+      },
+      {
+       "offset": 4515,
+       "cue": "Effective",
+       "quote": "e duties are those of treasurer or director of financial services for the city. (19) Effective date. The date of establishment. (20) Employee. A person between whom and the city there exists the technical rela"
+      },
+      {
+       "offset": 4706,
+       "cue": "through",
+       "quote": "the technical relationship of employer and employee, whether such person be employed through the principal governing body of the city or through a subsidiary body such as a library, airport authority, emerge"
+      },
+      {
+       "offset": 4758,
+       "cue": "through",
+       "quote": " whether such person be employed through the principal governing body of the city or through a subsidiary body such as a library, airport authority, emergency management authority, communications district, o"
+      },
+      {
+       "offset": 5238,
+       "cue": "effective",
+       "quote": " including longevity pay, in the 10 years immediately preceding retirement after the effective date of this plan, divided by 36 months. Effective July 1, 1996, compensation in excess of one hundred fifty thous"
+      },
+      {
+       "offset": 5289,
+       "cue": "Effective",
+       "quote": "ly preceding retirement after the effective date of this plan, divided by 36 months. Effective July 1, 1996, compensation in excess of one hundred fifty thousand dollars ($150,000), or such other amount provid"
+      },
+      {
+       "offset": 5299,
+       "cue": "July 1, 1996",
+       "quote": "ng retirement after the effective date of this plan, divided by 36 months. Effective July 1, 1996, compensation in excess of one hundred fifty thousand dollars ($150,000), or such other amount provided in the Int"
+      },
+      {
+       "offset": 5678,
+       "cue": "effective",
+       "quote": "except that the dollar increase in effect on January 1 of any calendar year shall be effective for the fiscal years beginning with or within such calendar year. Effective July 1, 2002, compensation in excess o"
+      },
+      {
+       "offset": 5709,
+       "cue": "beginning",
+       "quote": " in effect on January 1 of any calendar year shall be effective for the fiscal years beginning with or within such calendar year. Effective July 1, 2002, compensation in excess of one hundred sixty thousand do"
+      },
+      {
+       "offset": 5754,
+       "cue": "Effective",
+       "quote": "shall be effective for the fiscal years beginning with or within such calendar year. Effective July 1, 2002, compensation in excess of one hundred sixty thousand dollars ($160,000) shall be disregarded. Such a"
+      },
+      {
+       "offset": 5764,
+       "cue": "July 1, 2002",
+       "quote": "ffective for the fiscal years beginning with or within such calendar year. Effective July 1, 2002, compensation in excess of one hundred sixty thousand dollars ($160,000) shall be disregarded. Such amount shall b"
+      },
+      {
+       "offset": 6089,
+       "cue": "effective",
+       "quote": "except that the dollar increase in effect on January 1 of any calendar year shall be effective for the fiscal years beginning with or within such calendar year. If compensation for any prior determination peri"
+      },
+      {
+       "offset": 6120,
+       "cue": "beginning",
+       "quote": " in effect on January 1 of any calendar year shall be effective for the fiscal years beginning with or within such calendar year. If compensation for any prior determination period is taken into account in det"
+      },
+      {
+       "offset": 6495,
+       "cue": "on or after",
+       "quote": "imit in effect for that prior period. (24) Fire and police employee. Any person who, on or after the effective date of this plan, is employed by the city as a full time firefighter or sworn police officer; polic"
+      },
+      {
+       "offset": 6511,
+       "cue": "effective",
+       "quote": "or that prior period. (24) Fire and police employee. Any person who, on or after the effective date of this plan, is employed by the city as a full time firefighter or sworn police officer; police officer shal"
+      },
+      {
+       "offset": 7405,
+       "cue": "through",
+       "quote": "t with the city for which that participant shall have made contributions to the fund through payroll deductions or direct payments where authorized. (29) General employees. All employees, including construct"
+      },
+      {
+       "offset": 9231,
+       "cue": "on or after",
+       "quote": "ian, or another, as the board may determine. (40) Qualified employee. Any person who on or after the date of establishment is employed by the city as a full time employee in a job: a. Shall include: 1. General f"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. II, § 1; Act 2011-585, p. 1289, § 1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.162",
+   "file": "title-45/045-037a-051-162.md",
+   "code_id": "62350",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.162",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "1a8a1c6cbaa17366c5fcaf75678e9bf48627ce703537732b62e52adbfeababb0",
+     "history_sha256": "249feb8b7398724fbb9efd519317d10084050e79eaab3c5a494c69375db2a791",
+     "body_cues": [
+      {
+       "offset": 1138,
+       "cue": "prior to",
+       "quote": " (4)a. As herein used, the term prior service means a person’s service as an officer prior to such officer’s entering the system; the term liability for unpaid contributions means the liability an officer sha"
+      },
+      {
+       "offset": 1710,
+       "cue": "prior to",
+       "quote": " the officer received such salary. 2. Interest at the rate of four percent per annum prior to July 1, 2006, and used in the most recent earnings assumption in the actuarial report compounded annually thereaft"
+      },
+      {
+       "offset": 1719,
+       "cue": "July 1, 2006",
+       "quote": "cer received such salary. 2. Interest at the rate of four percent per annum prior to July 1, 2006, and used in the most recent earnings assumption in the actuarial report compounded annually thereafter, on each s"
+      },
+      {
+       "offset": 3316,
+       "cue": "prior to",
+       "quote": "ense allowance as necessary, for each payroll period an amount equal to five percent prior to July 1, 2006, and the rate used in the current employees’ rate of contribution subsequent thereto, of such liabili"
+      },
+      {
+       "offset": 3325,
+       "cue": "July 1, 2006",
+       "quote": "wance as necessary, for each payroll period an amount equal to five percent prior to July 1, 2006, and the rate used in the current employees’ rate of contribution subsequent thereto, of such liability for unpaid"
+      },
+      {
+       "offset": 3661,
+       "cue": "until",
+       "quote": "rt compounded annually per annum from the date whereon the officer enters the system until such liability, including interest, is fully discharged. (6) Contemporaneously with the officer’s discharging his "
+      },
+      {
+       "offset": 3977,
+       "cue": "through",
+       "quote": "ited service, or with the city’s making any payment to the general employees’ system through salary deductions to discharge such liability, the city shall pay to the fund of the general employees’ system fro"
+      },
+      {
+       "offset": 4506,
+       "cue": "prior to",
+       "quote": " she converts to credited service. b. Interest at the rate of four percent per annum prior to July 1, 2006, and six percent compounded annually per annum subsequent thereto, on each separate payment the city "
+      },
+      {
+       "offset": 4515,
+       "cue": "July 1, 2006",
+       "quote": "erts to credited service. b. Interest at the rate of four percent per annum prior to July 1, 2006, and six percent compounded annually per annum subsequent thereto, on each separate payment the city would have ma"
+      },
+      {
+       "offset": 5249,
+       "cue": "before",
+       "quote": "liver to the city director of finance officer, within 30 days of employment if hired before July 1, 2006, and 90 days if hired subsequent thereto, a statement signed by him or her reciting that he or she el"
+      },
+      {
+       "offset": 5256,
+       "cue": "July 1, 2006",
+       "quote": "o the city director of finance officer, within 30 days of employment if hired before July 1, 2006, and 90 days if hired subsequent thereto, a statement signed by him or her reciting that he or she elects to becom"
+      },
+      {
+       "offset": 5997,
+       "cue": "prior to",
+       "quote": "ied service. Each qualified employee of the city who was in the unclassified service prior to January 1, 1989, shall have been eligible to participate in the system provided such qualified employee elected in"
+      },
+      {
+       "offset": 6006,
+       "cue": "January 1, 1989",
+       "quote": "ce. Each qualified employee of the city who was in the unclassified service prior to January 1, 1989, shall have been eligible to participate in the system provided such qualified employee elected in writing to so p"
+      },
+      {
+       "offset": 6349,
+       "cue": "on or after",
+       "quote": "employee of the city who is in the unclassified service or is newly hired or rehired on or after January 1, 1989, by the city as provided in subsection (d) shall be eligible to participate in the system. (d) Unc"
+      },
+      {
+       "offset": 6361,
+       "cue": "January 1, 1989",
+       "quote": "the city who is in the unclassified service or is newly hired or rehired on or after January 1, 1989, by the city as provided in subsection (d) shall be eligible to participate in the system. (d) Unclassified servic"
+      },
+      {
+       "offset": 6494,
+       "cue": "Effective",
+       "quote": "ection (d) shall be eligible to participate in the system. (d) Unclassified service. Effective January 1, 1989, each newly hired or rehired employee of the city who is in the unclassified service and who is no"
+      },
+      {
+       "offset": 6504,
+       "cue": "January 1, 1989",
+       "quote": " shall be eligible to participate in the system. (d) Unclassified service. Effective January 1, 1989, each newly hired or rehired employee of the city who is in the unclassified service and who is normally scheduled"
+      },
+      {
+       "offset": 6759,
+       "cue": "January 1, 1989",
+       "quote": "l be a participant in the system. Each such employee who was employed by the city on January 1, 1989, and immediately preceding such day, shall have had the option (1) to elect to continue to participate in any uncl"
+      },
+      {
+       "offset": 7102,
+       "cue": "May 15, 1989",
+       "quote": "r this provision; or (2) to have elected participation in this system not later than May 15, 1989. Selection of option (2) gave such participant the right to purchase prior unclassified service as described in Se"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. IV, § 3.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.165",
+   "file": "title-45/045-037a-051-165.md",
+   "code_id": "62353",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.165",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "af2187e47b01ae9c159569b6e71149905b95d07d4d88b53fcf2dcc2e8956953e",
+     "history_sha256": "2c5943b33afb8153b71cd4773cca171faf1c5753ffe00ed3f019e0c8e4defe16",
+     "body_cues": [
+      {
+       "offset": 1048,
+       "cue": "Effective",
+       "quote": "hs as shall provide for monthly installments of not less than ten dollars ($10). (b) Effective July 1, 2006, any city employee, who has prior service time with the city but has not prior to that date purchased"
+      },
+      {
+       "offset": 1058,
+       "cue": "July 1, 2006",
+       "quote": "l provide for monthly installments of not less than ten dollars ($10). (b) Effective July 1, 2006, any city employee, who has prior service time with the city but has not prior to that date purchased his or her p"
+      },
+      {
+       "offset": 1144,
+       "cue": "prior to",
+       "quote": "uly 1, 2006, any city employee, who has prior service time with the city but has not prior to that date purchased his or her prior service time with the city, shall have until July 1, 2009, to apply to purcha"
+      },
+      {
+       "offset": 1229,
+       "cue": "until",
+       "quote": "prior to that date purchased his or her prior service time with the city, shall have until July 1, 2009, to apply to purchase this prior city service time. Any employee who does not purchase his or her pri"
+      },
+      {
+       "offset": 1235,
+       "cue": "July 1, 2009",
+       "quote": "to that date purchased his or her prior service time with the city, shall have until July 1, 2009, to apply to purchase this prior city service time. Any employee who does not purchase his or her prior service ti"
+      },
+      {
+       "offset": 1382,
+       "cue": "July 1, 2009",
+       "quote": "e. Any employee who does not purchase his or her prior service time with the city by July 1, 2009, cannot use service time purchased after that date for the purpose of the DROP benefit set forth in Section 45-37A"
+      },
+      {
+       "offset": 1579,
+       "cue": "July 1, 2006",
+       "quote": " Section 45-37A-51.245. (c) All employees of the city who are hired or rehired after July 1, 2006, shall have one year from the effective date of reemployment within which to apply for the purchase of prior city "
+      },
+      {
+       "offset": 1622,
+       "cue": "effective",
+       "quote": "f the city who are hired or rehired after July 1, 2006, shall have one year from the effective date of reemployment within which to apply for the purchase of prior city service time or thereafter forfeit the a"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. IV, § 6.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.192",
+   "file": "title-45/045-037a-051-192.md",
+   "code_id": "62360",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.192",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "f288d5dabc55d7e7c0ee9fb31c02fcdaa89d1af693369cb78683b7315ea25be4",
+     "history_sha256": "d268c8d2779753e8289530604bc99d5096726660671464f374965bfb72a0c749",
+     "body_cues": [
+      {
+       "offset": 111,
+       "cue": "through",
+       "quote": " employer payment of required participants’ contributions in lieu of salary or wages through a program and plan amendments relating to the city’s employees meeting the requirements of the United States Inter"
+      },
+      {
+       "offset": 271,
+       "cue": "Beginning",
+       "quote": "ing the requirements of the United States Internal Revenue Code, as amended. (b) (1) Beginning July 1, 1995, the contribution of the employer, excluding the board of health and employees of the board of health"
+      },
+      {
+       "offset": 281,
+       "cue": "July 1, 1995",
+       "quote": "quirements of the United States Internal Revenue Code, as amended. (b) (1) Beginning July 1, 1995, the contribution of the employer, excluding the board of health and employees of the board of health, shall be de"
+      },
+      {
+       "offset": 579,
+       "cue": "Beginning",
+       "quote": "The actuary shall be required to make the determination for each actuarial year. (2) Beginning on July 1, 2017, the employer’s total minimum rate of contribution into the fund, excluding the board of health, s"
+      },
+      {
+       "offset": 592,
+       "cue": "July 1, 2017",
+       "quote": "hall be required to make the determination for each actuarial year. (2) Beginning on July 1, 2017, the employer’s total minimum rate of contribution into the fund, excluding the board of health, shall increase to"
+      },
+      {
+       "offset": 738,
+       "cue": "Beginning",
+       "quote": "on into the fund, excluding the board of health, shall increase to 7.25 percent. (3) Beginning on July 1, 2018, the employer’s total minimum rate of contribution into the fund, excluding the board of health, s"
+      },
+      {
+       "offset": 751,
+       "cue": "July 1, 2018",
+       "quote": "und, excluding the board of health, shall increase to 7.25 percent. (3) Beginning on July 1, 2018, the employer’s total minimum rate of contribution into the fund, excluding the board of health, shall increase to"
+      },
+      {
+       "offset": 897,
+       "cue": "Beginning",
+       "quote": "on into the fund, excluding the board of health, shall increase to 8.50 percent. (4) Beginning on July 1, 2020, the employer’s total minimum rate of contribution into the fund, excluding the board of health, s"
+      },
+      {
+       "offset": 910,
+       "cue": "July 1, 2020",
+       "quote": "und, excluding the board of health, shall increase to 8.50 percent. (4) Beginning on July 1, 2020, the employer’s total minimum rate of contribution into the fund, excluding the board of health, shall increase to"
+      },
+      {
+       "offset": 1124,
+       "cue": "beginning",
+       "quote": "ine percent. (5) Notwithstanding anything to the contrary contained in this subpart, beginning July 1, 2021, the employer, including all participating constructive subsidiaries, except the board of health, sha"
+      },
+      {
+       "offset": 1134,
+       "cue": "July 1, 2021",
+       "quote": "t. (5) Notwithstanding anything to the contrary contained in this subpart, beginning July 1, 2021, the employer, including all participating constructive subsidiaries, except the board of health, shall make a con"
+      },
+      {
+       "offset": 1681,
+       "cue": "commencing",
+       "quote": "liability of the system over a closed period not to exceed 30 years, with the period commencing on July 1, 2021. (6) Notwithstanding anything to the contrary in this subsection, the employer may increase its to"
+      },
+      {
+       "offset": 1695,
+       "cue": "July 1, 2021",
+       "quote": "he system over a closed period not to exceed 30 years, with the period commencing on July 1, 2021. (6) Notwithstanding anything to the contrary in this subsection, the employer may increase its total rate of cont"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. V, § 3; Act 2017-251, p. 384, § 1; Act 2021-245, § 1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.198",
+   "file": "title-45/045-037a-051-198.md",
+   "code_id": "62366",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.198",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "c80c67fee73dbe6bfc113c48d7540385d54fad1896ac97125e70407b18762189",
+     "history_sha256": "02c676026b498c638d8c5940261a1fd2e1273f312d57eafb408aee41b2476a3b",
+     "body_cues": [
+      {
+       "offset": 98,
+       "cue": "prior to",
+       "quote": "yee member having been a full-time employee in the unclassified service of the city, prior to January 1, 1989, as a common laborer for less than 10 years, shall have had the election options available under t"
+      },
+      {
+       "offset": 107,
+       "cue": "January 1, 1989",
+       "quote": "r having been a full-time employee in the unclassified service of the city, prior to January 1, 1989, as a common laborer for less than 10 years, shall have had the election options available under the terms of subs"
+      },
+      {
+       "offset": 344,
+       "cue": "May 15, 1989",
+       "quote": "45-37A-51.162 and Section 45-37A-51.163 and shall have purchased time not later than May 15, 1989. In the case of reemployment of an unclassified employee, such employee with unclassified time prior to January 1,"
+      },
+      {
+       "offset": 452,
+       "cue": "prior to",
+       "quote": "se of reemployment of an unclassified employee, such employee with unclassified time prior to January 1, 1989, and having received a return of contributions at his or her termination of prior employment, may "
+      },
+      {
+       "offset": 461,
+       "cue": "January 1, 1989",
+       "quote": "mployment of an unclassified employee, such employee with unclassified time prior to January 1, 1989, and having received a return of contributions at his or her termination of prior employment, may purchase this cr"
+      },
+      {
+       "offset": 1196,
+       "cue": "effective",
+       "quote": "ve paid the amount into the fund within 60 days after date that this section becomes effective or that he or she becomes a participant; whichever of these periods last expires."
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. V, § 9.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.220",
+   "file": "title-45/045-037a-051-220.md",
+   "code_id": "62369",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.220",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "79bf28908d8680fabec77e01d28daad8e5e95eef6d1401e16c30c5278313ca41",
+     "history_sha256": "70766043f6b810bb55e3389e847f4e749dc4144fa7ad1557302f89a627558d5a",
+     "body_cues": [
+      {
+       "offset": 376,
+       "cue": "before",
+       "quote": "of the following: (1) With respect to a retiree who first became a participant on or before the first day of July after nine years after date of establishment, 40 percent of his or her final average salary,"
+      },
+      {
+       "offset": 835,
+       "cue": "before",
+       "quote": "establishment, and becomes entitled to a normal retirement benefit and retires on or before July 1, 1990, 2 percent of his or her final average salary shall be multiplied by such retiree’s years of credited"
+      },
+      {
+       "offset": 842,
+       "cue": "July 1, 1990",
+       "quote": "shment, and becomes entitled to a normal retirement benefit and retires on or before July 1, 1990, 2 percent of his or her final average salary shall be multiplied by such retiree’s years of credited service. (3)"
+      },
+      {
+       "offset": 1170,
+       "cue": "July 1, 1990",
+       "quote": "establishment, and becomes entitled to a normal retirement benefit and retires after July 1, 1990, and on or before June 30, 2001, 2.25 percent of his or her final average salary multiplied by such retiree’s year"
+      },
+      {
+       "offset": 1194,
+       "cue": "before",
+       "quote": "es entitled to a normal retirement benefit and retires after July 1, 1990, and on or before June 30, 2001, 2.25 percent of his or her final average salary multiplied by such retiree’s years of credited serv"
+      },
+      {
+       "offset": 1201,
+       "cue": "June 30, 2001",
+       "quote": "tled to a normal retirement benefit and retires after July 1, 1990, and on or before June 30, 2001, 2.25 percent of his or her final average salary multiplied by such retiree’s years of credited service. (4) With "
+      },
+      {
+       "offset": 1518,
+       "cue": "on or after",
+       "quote": "r the establishment, and becomes entitled to a normal retirement benefit and retires on or after July 1, 2001, 2.5 percent of his or her final average salary multiplied by such retiree’s years of credited servic"
+      },
+      {
+       "offset": 1530,
+       "cue": "July 1, 2001",
+       "quote": "ishment, and becomes entitled to a normal retirement benefit and retires on or after July 1, 2001, 2.5 percent of his or her final average salary multiplied by such retiree’s years of credited service, subject to"
+      },
+      {
+       "offset": 1706,
+       "cue": "Effective",
+       "quote": "ears of credited service, subject to any future action of the board of managers. (b) Effective July 1, 2006, the retiree of the board of health who becomes entitled to a normal retirement benefit and retires a"
+      },
+      {
+       "offset": 1716,
+       "cue": "July 1, 2006",
+       "quote": "edited service, subject to any future action of the board of managers. (b) Effective July 1, 2006, the retiree of the board of health who becomes entitled to a normal retirement benefit and retires after that dat"
+      },
+      {
+       "offset": 2464,
+       "cue": "on or after",
+       "quote": "ction, yet subject to subsection (e), all participants who first become participants on or after July 1, 2017, and who have attained age 62 or older and have completed 10 or more years of credited service, or wh"
+      },
+      {
+       "offset": 2476,
+       "cue": "July 1, 2017",
+       "quote": "ubject to subsection (e), all participants who first become participants on or after July 1, 2017, and who have attained age 62 or older and have completed 10 or more years of credited service, or who have comple"
+      },
+      {
+       "offset": 3109,
+       "cue": "on or after",
+       "quote": " contrary contained in this section, any participant who first becomes a participant on or after July 1, 2021, other than fire and police employees, and who becomes entitled to a normal retirement benefit, shall"
+      },
+      {
+       "offset": 3121,
+       "cue": "July 1, 2021",
+       "quote": "ntained in this section, any participant who first becomes a participant on or after July 1, 2021, other than fire and police employees, and who becomes entitled to a normal retirement benefit, shall be entitled "
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. VI, § 1; Act 2017-251, p. 384, § 1; Act 2021-245, § 1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.226",
+   "file": "title-45/045-037a-051-226.md",
+   "code_id": "62375",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.226",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "29ddb5479287b96959938d9ffd7bd017e89e53a78c2800482547b3b7b03b061e",
+     "history_sha256": "2a5daa28ec58ba8f0726d9dd3367b356419affe5261eadcf8bd3d8f31556bcd7",
+     "body_cues": [
+      {
+       "offset": 75,
+       "cue": "prior to",
+       "quote": "(a) Extraordinary disability allowance for participants joining the system prior to January 1, 1989. (1) In the event a participant who joins the system prior to January 1, 1989, shall become totall"
+      },
+      {
+       "offset": 84,
+       "cue": "January 1, 1989",
+       "quote": "(a) Extraordinary disability allowance for participants joining the system prior to January 1, 1989. (1) In the event a participant who joins the system prior to January 1, 1989, shall become totally disabled to pe"
+      },
+      {
+       "offset": 153,
+       "cue": "prior to",
+       "quote": "system prior to January 1, 1989. (1) In the event a participant who joins the system prior to January 1, 1989, shall become totally disabled to perform his or her customary duties by reason of personal injury"
+      },
+      {
+       "offset": 162,
+       "cue": "January 1, 1989",
+       "quote": "ior to January 1, 1989. (1) In the event a participant who joins the system prior to January 1, 1989, shall become totally disabled to perform his or her customary duties by reason of personal injury received as a r"
+      },
+      {
+       "offset": 485,
+       "cue": "until",
+       "quote": "at a definite time and place, then in the event such total disability shall continue until the participant ceases to draw salary as an employee of the city, such disabled participant shall be entitled to a"
+      },
+      {
+       "offset": 930,
+       "cue": "commence",
+       "quote": "fit payable by the city as set forth hereafter. (2) Benefits payable hereunder shall commence upon the cessation of the disabled participant’s drawing a salary from the city and shall continue until such time"
+      },
+      {
+       "offset": 1038,
+       "cue": "until",
+       "quote": "tion of the disabled participant’s drawing a salary from the city and shall continue until such time as such participant is no longer disabled by such injury to perform his or her customary duties or subst"
+      },
+      {
+       "offset": 1477,
+       "cue": "until",
+       "quote": "exist, the board, in its discretion, may continue him or her on the disability rolls until such time as in the judgment of the board he or she is able to find suitable employment at a rate of pay equal or "
+      },
+      {
+       "offset": 1904,
+       "cue": "prior to",
+       "quote": "12 months after the accident resulting in such disability. Applications for injuries prior to January 1, 1989, received thereafter shall not be considered and no extraordinary disability allowance shall be aw"
+      },
+      {
+       "offset": 1913,
+       "cue": "January 1, 1989",
+       "quote": " after the accident resulting in such disability. Applications for injuries prior to January 1, 1989, received thereafter shall not be considered and no extraordinary disability allowance shall be awarded with respe"
+      },
+      {
+       "offset": 2642,
+       "cue": "on or after",
+       "quote": "ly cease. (b) Extraordinary disability allowance for participants joining the system on or after January 1, 1989. (1) In the event a participant who joins the system on or after January 1, 1989, shall become tot"
+      },
+      {
+       "offset": 2654,
+       "cue": "January 1, 1989",
+       "quote": ") Extraordinary disability allowance for participants joining the system on or after January 1, 1989. (1) In the event a participant who joins the system on or after January 1, 1989, shall become totally disabled to"
+      },
+      {
+       "offset": 2723,
+       "cue": "on or after",
+       "quote": "tem on or after January 1, 1989. (1) In the event a participant who joins the system on or after January 1, 1989, shall become totally disabled to perform his or her customary duties by reason of personal injury"
+      },
+      {
+       "offset": 2735,
+       "cue": "January 1, 1989",
+       "quote": "ter January 1, 1989. (1) In the event a participant who joins the system on or after January 1, 1989, shall become totally disabled to perform his or her customary duties by reason of personal injury received as a r"
+      },
+      {
+       "offset": 3058,
+       "cue": "until",
+       "quote": "at a definite time and place, then in the event such total disability shall continue until the participant ceases to draw salary as an employee of the city, such disabled participant shall be entitled to a"
+      },
+      {
+       "offset": 3486,
+       "cue": "August 1, 2009",
+       "quote": "ch participant shall be eligible for extraordinary disability benefits subsequent to August 1, 2009, the extraordinary disability benefit shall be subject to the offset for any workers’ compensation benefit or othe"
+      },
+      {
+       "offset": 4240,
+       "cue": "commence",
+       "quote": "ising from the accident causing the disability. (3) Benefits payable hereunder shall commence upon the cessation of the disabled participant’s drawing a salary from the city and shall continue until such time"
+      },
+      {
+       "offset": 4348,
+       "cue": "until",
+       "quote": "tion of the disabled participant’s drawing a salary from the city and shall continue until such time as such participant is no longer disabled by such injury to perform his or her customary or other duties"
+      },
+      {
+       "offset": 4796,
+       "cue": "until",
+       "quote": "exist, the board, in its discretion, may continue him or her on the disability rolls until such time as in the judgment of the board he or she is able to find suitable employment with an employer at a rate"
+      },
+      {
+       "offset": 7020,
+       "cue": "prior to",
+       "quote": "ection. If the disabled participant receives full extraordinary disability benefits, prior to receiving workers’ compensation, or other such benefit from the city, the fund shall be due a refund from the disa"
+      },
+      {
+       "offset": 7160,
+       "cue": "through",
+       "quote": " benefit from the city, the fund shall be due a refund from the disabled participant through a reduction in the extraordinary disability benefit based upon the amount of monthly benefit, as calculated above,"
+      },
+      {
+       "offset": 7722,
+       "cue": "January 1, 1989",
+       "quote": "months after the accident resulting in such disability. For injuries occurring after January 1, 1989, the board of managers, in its sole discretion, may choose to waive this one-year limitation and grant an applicat"
+      },
+      {
+       "offset": 8113,
+       "cue": "Effective",
+       "quote": " and no extraordinary disability allowance shall be awarded with respect thereto. b. Effective January 1, 2005, the board has the discretion to waive the 36-month period and to grant extraordinary disability b"
+      },
+      {
+       "offset": 8123,
+       "cue": "January 1, 2005",
+       "quote": "traordinary disability allowance shall be awarded with respect thereto. b. Effective January 1, 2005, the board has the discretion to waive the 36-month period and to grant extraordinary disability benefits if the a"
+      },
+      {
+       "offset": 8556,
+       "cue": "prior to",
+       "quote": "plication for an extraordinary benefit has been filed for an accident which occurred prior to August 1, 2009. (7) Anything herein to the contrary notwithstanding, an extraordinary disability allowance heretof"
+      },
+      {
+       "offset": 8565,
+       "cue": "August 1, 2009",
+       "quote": " for an extraordinary benefit has been filed for an accident which occurred prior to August 1, 2009. (7) Anything herein to the contrary notwithstanding, an extraordinary disability allowance heretofore or hereafte"
+      },
+      {
+       "offset": 9168,
+       "cue": "on or after",
+       "quote": "ly cease. (c) Extraordinary disability allowance for participants joining the system on or after July 1, 2005. In addition to the provision set forth in subsection (b), the board, in its discretion, in determini"
+      },
+      {
+       "offset": 9180,
+       "cue": "July 1, 2005",
+       "quote": ") Extraordinary disability allowance for participants joining the system on or after July 1, 2005. In addition to the provision set forth in subsection (b), the board, in its discretion, in determining an applica"
+      },
+      {
+       "offset": 10804,
+       "cue": "August 1, 2009",
+       "quote": ") Subsections (b) and (c) apply to all employees who are participants in the fund on August 1, 2009, who are not currently receiving extraordinary disability. (f) Notwithstanding any other provision herein, the tim"
+      },
+      {
+       "offset": 11059,
+       "cue": "August 1, 2009",
+       "quote": "xtraordinary disability benefits on account from an accident occurring subsequent to August 1, 2009, shall be within 24 months from the date of the accident causing injury which is the basis of the application for "
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. VI, § 8; Act 2009-780, p. 2447, § 2.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.228",
+   "file": "title-45/045-037a-051-228.md",
+   "code_id": "62377",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.228",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "7781463fa5424b868d5002c4de8f19733e4a54acc7efc7aaf1b8908e3ea18f4c",
+     "history_sha256": "c6298531e11833b8489ef8abc33ad268abf371f5a52a7064dc06f7b0356fc737",
+     "body_cues": [
+      {
+       "offset": 4,
+       "cue": "Effective",
+       "quote": "(a) Effective July 1, 2002, in the event of the death of a retiree or participant who, on the date of his or her death was eligi"
+      },
+      {
+       "offset": 14,
+       "cue": "July 1, 2002",
+       "quote": "(a) Effective July 1, 2002, in the event of the death of a retiree or participant who, on the date of his or her death was eligible for volun"
+      },
+      {
+       "offset": 349,
+       "cue": "prior to",
+       "quote": "onthly retirement benefit which the retiree was receiving or was entitled to receive prior to his or her death or which the participant would have been entitled to receive had he or she retired under Section "
+      },
+      {
+       "offset": 752,
+       "cue": "May 1, 2006",
+       "quote": " is being paid an amount in excess of 60 percent of the retiree’s monthly benefit on May 1, 2006, such survivor’s benefits shall not be decreased. (b) (1) Effective July 1, 2002, upon the death of any retiree or"
+      },
+      {
+       "offset": 822,
+       "cue": "Effective",
+       "quote": "hly benefit on May 1, 2006, such survivor’s benefits shall not be decreased. (b) (1) Effective July 1, 2002, upon the death of any retiree or participant who at the time of his or her death was not eligible fo"
+      },
+      {
+       "offset": 832,
+       "cue": "July 1, 2002",
+       "quote": "t on May 1, 2006, such survivor’s benefits shall not be decreased. (b) (1) Effective July 1, 2002, upon the death of any retiree or participant who at the time of his or her death was not eligible for voluntary r"
+      },
+      {
+       "offset": 1006,
+       "cue": "prior to",
+       "quote": "death was not eligible for voluntary retirement under Section 45-37A-51.220, but who prior to death had five or more years of creditable time, there may be payable at the option of the survivors and to the ex"
+      },
+      {
+       "offset": 1810,
+       "cue": "Prior to",
+       "quote": "ted years of credited service as shown in the schedule of percentages as follows: a. Prior to July 1, 2002, the percentage rate, effective to survivors, applicable to decedent’s completed years prior to July "
+      },
+      {
+       "offset": 1819,
+       "cue": "July 1, 2002",
+       "quote": " of credited service as shown in the schedule of percentages as follows: a. Prior to July 1, 2002, the percentage rate, effective to survivors, applicable to decedent’s completed years prior to July 1, 2002, cred"
+      },
+      {
+       "offset": 1854,
+       "cue": "effective",
+       "quote": "e schedule of percentages as follows: a. Prior to July 1, 2002, the percentage rate, effective to survivors, applicable to decedent’s completed years prior to July 1, 2002, credited service: Credited service, "
+      },
+      {
+       "offset": 1919,
+       "cue": "prior to",
+       "quote": "he percentage rate, effective to survivors, applicable to decedent’s completed years prior to July 1, 2002, credited service: Credited service, 10 years = 50 percent; 11 years = 60 percent; 12 years = 70 perc"
+      },
+      {
+       "offset": 1928,
+       "cue": "July 1, 2002",
+       "quote": "tage rate, effective to survivors, applicable to decedent’s completed years prior to July 1, 2002, credited service: Credited service, 10 years = 50 percent; 11 years = 60 percent; 12 years = 70 percent; 13 years"
+      },
+      {
+       "offset": 2444,
+       "cue": "effective",
+       "quote": " shall not be entitled to any benefit under this subsection. b. The percentage rate, effective to survivors, applicable to decedent’s completed years after July 1, 2002, credited service: Credited service, fiv"
+      },
+      {
+       "offset": 2515,
+       "cue": "July 1, 2002",
+       "quote": "centage rate, effective to survivors, applicable to decedent’s completed years after July 1, 2002, credited service: Credited service, five years = 50 percent; six years = 60 percent; seven years = 70 percent; ei"
+      },
+      {
+       "offset": 3140,
+       "cue": "on or after",
+       "quote": "ntrary contained in this section, for all participants who first become participants on or after July 1, 2017, upon the death of any retiree or participant who at the time of his or her death was not eligible fo"
+      },
+      {
+       "offset": 3152,
+       "cue": "July 1, 2017",
+       "quote": "ined in this section, for all participants who first become participants on or after July 1, 2017, upon the death of any retiree or participant who at the time of his or her death was not eligible for voluntary r"
+      },
+      {
+       "offset": 3326,
+       "cue": "prior to",
+       "quote": "death was not eligible for voluntary retirement under Section 45-37A-51.220, but who prior to death had 10 or more years of creditable time, there may be payable at the option of the survivors and to the excl"
+      },
+      {
+       "offset": 4244,
+       "cue": "on or after",
+       "quote": "ntrary contained in this section, for all participants who first become participants on or after July 1, 2017, the percentage rate, effective to survivors, applicable to those decedents is as follows: Credited s"
+      },
+      {
+       "offset": 4256,
+       "cue": "July 1, 2017",
+       "quote": "ined in this section, for all participants who first become participants on or after July 1, 2017, the percentage rate, effective to survivors, applicable to those decedents is as follows: Credited service, 10 ye"
+      },
+      {
+       "offset": 4291,
+       "cue": "effective",
+       "quote": "cipants who first become participants on or after July 1, 2017, the percentage rate, effective to survivors, applicable to those decedents is as follows: Credited service, 10 years = 50 percent; 11 years = 60 "
+      },
+      {
+       "offset": 6128,
+       "cue": "on or after",
+       "quote": "rary contained in subsection (a), for all participants who first become participants on or after July 1, 2017, the optional survivor’s benefit provided for under subdivision (1) may only accrue and be payable to"
+      },
+      {
+       "offset": 6140,
+       "cue": "July 1, 2017",
+       "quote": "ed in subsection (a), for all participants who first become participants on or after July 1, 2017, the optional survivor’s benefit provided for under subdivision (1) may only accrue and be payable to the benefit "
+      },
+      {
+       "offset": 7668,
+       "cue": "before",
+       "quote": "hstanding, regardless of whether any or all of the deceased’s eligible survivors die before receiving any payment of benefits. The surviving spouse may revoke any written request by giving written notice th"
+      },
+      {
+       "offset": 7824,
+       "cue": "prior to",
+       "quote": "ke any written request by giving written notice thereof to the custodian at any time prior to a benefit payment being made pursuant to such request and thereby the eligible survivor has made such request and "
+      },
+      {
+       "offset": 8782,
+       "cue": "on or after",
+       "quote": "ntrary contained in this section, for all participants who first become participants on or after July 1, 2021, upon the retirement of any legally married participant, prior to payment of any retirement benefit a"
+      },
+      {
+       "offset": 8794,
+       "cue": "July 1, 2021",
+       "quote": "ined in this section, for all participants who first become participants on or after July 1, 2021, upon the retirement of any legally married participant, prior to payment of any retirement benefit and in accorda"
+      },
+      {
+       "offset": 8864,
+       "cue": "prior to",
+       "quote": "ts on or after July 1, 2021, upon the retirement of any legally married participant, prior to payment of any retirement benefit and in accordance with procedures established by the city, the participant shall"
+      },
+      {
+       "offset": 9451,
+       "cue": "prior to",
+       "quote": "onthly retirement benefit which the retiree was receiving or was entitled to receive prior to his or her death or which the participant would have been entitled to receive had he or she retired under Section "
+      },
+      {
+       "offset": 10605,
+       "cue": "prior to",
+       "quote": "ything contained in this section, for all participants who first become participants prior to July 1, 2021, the minimum survivor’s benefit payable to the spouse of the deceased retiree shall be three hundred "
+      },
+      {
+       "offset": 10614,
+       "cue": "July 1, 2021",
+       "quote": "ntained in this section, for all participants who first become participants prior to July 1, 2021, the minimum survivor’s benefit payable to the spouse of the deceased retiree shall be three hundred twenty dollar"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. VI, § 10; Act 2017-251, p. 384, § 1; Act 2021-245, § 1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.232",
+   "file": "title-45/045-037a-051-232.md",
+   "code_id": "62387",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.232",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "a9a4d482427ba41fdc90d542a9865a9e58f9799a0659c611d2be3e33310d83db",
+     "history_sha256": "9055556b158addfcdee5077156833c5271af38b5360dc5969e0dff88f49c84b4",
+     "body_cues": [
+      {
+       "offset": 4,
+       "cue": "Effective",
+       "quote": "(a) Effective as of July 1, 2002, in the event a firefighter or police officer retires under the supplemental pension system est"
+      },
+      {
+       "offset": 20,
+       "cue": "July 1, 2002",
+       "quote": "(a) Effective as of July 1, 2002, in the event a firefighter or police officer retires under the supplemental pension system established by Subpart"
+      },
+      {
+       "offset": 236,
+       "cue": "prior to",
+       "quote": "after having accumulated 20 years of credited service under the system and shall die prior to the date on which the participant would have accumulated 30 years of credited service under this system had he or "
+      },
+      {
+       "offset": 935,
+       "cue": "before",
+       "quote": "of the retiree’s or participant’s death, regardless of whether the marriage occurred before or after the retiree’s departure from service, the surviving spouse shall be entitled to receive until such time a"
+      },
+      {
+       "offset": 1039,
+       "cue": "until",
+       "quote": " retiree’s departure from service, the surviving spouse shall be entitled to receive until such time as the spouse should remarry, a monthly survivor’s benefit in the amount equal to 60 percent of the mont"
+      },
+      {
+       "offset": 1772,
+       "cue": "on or after",
+       "quote": "ntrary contained in this section, for all participants who first become participants on or after July 1, 2021, in the event a legally married firefighter or police officer retires under the supplemental pension "
+      },
+      {
+       "offset": 1784,
+       "cue": "July 1, 2021",
+       "quote": "ined in this section, for all participants who first become participants on or after July 1, 2021, in the event a legally married firefighter or police officer retires under the supplemental pension system establ"
+      },
+      {
+       "offset": 2012,
+       "cue": "prior to",
+       "quote": " 1, after having accumulated 20 years of credited service under the system, and dies prior to the date on which the participant would have accumulated 30 years of credited service under this system had he or "
+      },
+      {
+       "offset": 2653,
+       "cue": "before",
+       "quote": "of the retiree’s or participant’s death, regardless of whether the marriage occurred before or after the participant’s departure from service, a spousal survivor’s benefit may be payable pursuant to any of "
+      },
+      {
+       "offset": 2849,
+       "cue": "prior to",
+       "quote": "to any of the following: (1) Upon the retirement of the legally married participant, prior to payment of any retirement benefit and in accordance with procedures established by the city, the participant shall"
+      },
+      {
+       "offset": 3383,
+       "cue": "prior to",
+       "quote": "onthly retirement benefit which the retiree was receiving or was entitled to receive prior to his or her death or which the participant would have been entitled to receive had he or she retired on the day pre"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. VI, § 14; Act 2021-245, § 1.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.241",
+   "file": "title-45/045-037a-051-241.md",
+   "code_id": "62390",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.241",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "1fa6cbc26214d565d25b6125c43eb3d3b2aabcb1c3a783a1836266eebca922da",
+     "history_sha256": "0764329c0d6565af36ccb48d7d74ca7377d7a024df62c611ea461944c65dbdb4",
+     "body_cues": [
+      {
+       "offset": 273,
+       "cue": "beginning",
+       "quote": "tributions made by such terminated employee and receive a monthly retirement benefit beginning at age 60, in the amount equal to two percent of such employee’s monthly final average salary multiplied by his or"
+      },
+      {
+       "offset": 847,
+       "cue": "prior to",
+       "quote": "s determined by the board of managers. In the event that a terminated employee dies, prior to receiving a benefit hereunder, or elects at any time to withdraw the contribution to the system fund, then such co"
+      },
+      {
+       "offset": 1436,
+       "cue": "effective",
+       "quote": "ify the cost to the city and to the board of health. (c) This provision shall become effective following the date of adoption hereof if the board of health shall have irrevocably committed to pay the vesting b"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. VI, § 23.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.243",
+   "file": "title-45/045-037a-051-243.md",
+   "code_id": "62392",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.243",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "3c3386df44a5ccba2fc31aa08fd56e49d6a6394088de5487d03728098e0f6fa7",
+     "history_sha256": "bcaf00eb91bf62df31bd328425a68f2c60aecf68ccaa1746594189ac4fbc1f18",
+     "body_cues": [
+      {
+       "offset": 313,
+       "cue": "July 1, 1989",
+       "quote": "g been in the city service, which participant did not have active city service after July 1, 1989, did not retire after July 1, 1990, or did not otherwise become eligible for a benefit calculated at 2.25 percent,"
+      },
+      {
+       "offset": 348,
+       "cue": "July 1, 1990",
+       "quote": "articipant did not have active city service after July 1, 1989, did not retire after July 1, 1990, or did not otherwise become eligible for a benefit calculated at 2.25 percent, per year after July 1, 1990, shall"
+      },
+      {
+       "offset": 456,
+       "cue": "July 1, 1990",
+       "quote": "t otherwise become eligible for a benefit calculated at 2.25 percent, per year after July 1, 1990, shall have received after three years of retirement or disability under this system an increase in monthly benefi"
+      },
+      {
+       "offset": 1101,
+       "cue": "effective",
+       "quote": "icle VI of Act 929, 1951 Regular Session (Acts 1951, p. 1579). This section shall be effective retroactively to January 1, 1994, with payment to have begun as soon as administratively possible, with retroactiv"
+      },
+      {
+       "offset": 1128,
+       "cue": "January 1, 1994",
+       "quote": "gular Session (Acts 1951, p. 1579). This section shall be effective retroactively to January 1, 1994, with payment to have begun as soon as administratively possible, with retroactive payment and no interest. No par"
+      },
+      {
+       "offset": 1653,
+       "cue": "Effective",
+       "quote": "n shall not apply to retirees or disability recipients from the board of health. (b) Effective July 1, 2001, in addition to the benefits described herein for normal retirement, ordinary disability, and extraor"
+      },
+      {
+       "offset": 1663,
+       "cue": "July 1, 2001",
+       "quote": "t apply to retirees or disability recipients from the board of health. (b) Effective July 1, 2001, in addition to the benefits described herein for normal retirement, ordinary disability, and extraordinary disabi"
+      },
+      {
+       "offset": 2025,
+       "cue": "July 1, 2001",
+       "quote": "not otherwise become eligible for a benefit calculated at 2.5 percent per year after July 1, 2001, any retiree of the system, excluding those retirees and survivors of the board of health, who having been a perma"
+      },
+      {
+       "offset": 2742,
+       "cue": "until",
+       "quote": "h of such retiree or participant. (c) No benefit shall be granted under this section until an actuarial determination has been made that there are sufficient funds within the system to fund the benefits. A"
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. VI, § 25.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.246",
+   "file": "title-45/045-037a-051-246.md",
+   "code_id": "62395",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "official_rows": [
+    {
+     "display_id": "45-37A-51.246",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_sha256": "e44c84d1b49bb4fc14922a480c547309d6b11539c013f8a10c81676a7a90d5b8",
+     "history_sha256": "f13e7f74825687a83c184089f88a9f3f76fa3128b068782516bbb82233ff3587",
+     "body_cues": [
+      {
+       "offset": 4,
+       "cue": "Effective",
+       "quote": "(a) Effective July 1, 2006, in addition to the benefits described herein for normal retirement, ordinary disability, and extraor"
+      },
+      {
+       "offset": 14,
+       "cue": "July 1, 2006",
+       "quote": "(a) Effective July 1, 2006, in addition to the benefits described herein for normal retirement, ordinary disability, and extraordinary disabi"
+      },
+      {
+       "offset": 411,
+       "cue": "July 1, 2006",
+       "quote": "not otherwise become eligible for a benefit calculated at 2.5 percent per year after July 1, 2006, any such retiree of the board of health shall receive an increase in the amount of seventy-five dollars ($75) per"
+      },
+      {
+       "offset": 853,
+       "cue": "until",
+       "quote": "h of such retiree or participant. (b) No benefit shall be granted under this section until an actuarial determination has been made that there are sufficient funds within the system to fund the benefits. A"
+      },
+      {
+       "offset": 1431,
+       "cue": "before",
+       "quote": "ate or federal laws or regulations. The board of managers shall approve the increase before it becomes effective."
+      }
+     ],
+     "history_cues": [
+      {
+       "offset": 1,
+       "cue": "Act 2006-339",
+       "quote": "(Act 2006-339, p. 851, Art. VI, § 28.)"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

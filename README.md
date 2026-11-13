@@ -156,3 +156,7 @@ This batch leaves 61 cases in the audited discrepancy range unresolved. The sepa
 ## Official source image inventory
 
 An all-act ALISON source-media audit checked the Constitution and all 46 Code title roots on November 13, 2026. The audit examined 60204 official source rows and found 1 row with source media markup. The inventory is recorded in `data/source-image-inventory.json`. It changes no statute text and does not resolve the remaining wording/date holds.
+
+## Held section date cues
+
+`data/held-section-date-cues.json` preserves exact body and history excerpts around date-related language in the 49 unresolved Code sections, checked against the Alabama Legislature on November 13, 2026. These excerpts help locate commencement and applicability language for review; they do not establish a whole-section in-force date. The eight separate Title 40 correction cases and future-effective rows remain outside this index. No law wording or version date changed.

@@ -1,0 +1,1176 @@
+{
+ "kind": "held-section-source-audit",
+ "checked_on": "2026-11-13",
+ "published_reference": "413d58597d1ac06182578822f95a508019412df9",
+ "scope": "49 unresolved sections from q-1948; source evidence only",
+ "records": [
+  {
+   "section": "9-12-180",
+   "file": "title-9/009-012-180.md",
+   "code_id": "23031",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "6915089e9fde1389f9f2476addd8e26b049f076a6812d3eef166b3b181a84611",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "6051fb65f3c0ea8ca2ee9951aca7196422bc61863f1d4230b3197288a430be6d",
+     "display_id": "9-12-180",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 9875,
+     "history_length": 36
+    }
+   ]
+  },
+  {
+   "section": "11-1-5",
+   "file": "title-11/011-001-005.md",
+   "code_id": "4264",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment"
+   ],
+   "published_sha256": "84d3d3523affdb319f2892dc2679d94df26f5c1156a4f3a389eebbfc6bbb4563",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "7ce82dab93024e0895a32ba952f965aad313810616a14f3377bcf33c2e6545d6",
+     "display_id": "11-1-5",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 1124,
+     "history_length": 57
+    }
+   ]
+  },
+  {
+   "section": "12-19-171",
+   "file": "title-12/012-019-171.md",
+   "code_id": "26905",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "9f9daa47ad62d179e2aa86365e4d5933061fbabfdafbf54045d0136d0711cc16",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "7bdcbbcadbcc84d625b7344f163f3ec43f7e2af8f49a819305354cdf02266911",
+     "display_id": "12-19-171",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 2241,
+     "history_length": 323
+    }
+   ]
+  },
+  {
+   "section": "12-19-172",
+   "file": "title-12/012-019-172.md",
+   "code_id": "26906",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "5fe36b36b15356383097e91ec2799ddad46dde4547e35b9f1db92bc5f62a036a",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "148f3f95ded06b92131aa454b5ae0cb2956304eeb7b8fd6df377b021b8708576",
+     "display_id": "12-19-172",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 2081,
+     "history_length": 323
+    }
+   ]
+  },
+  {
+   "section": "14-13-2",
+   "file": "title-14/014-013-002.md",
+   "code_id": "24541",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "34a5da5cd64d09abcf75e2d59de145dcaa28d47d9a2901c7f35b17db0348efd7",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "1f9f2350e533af19027550cefaf343fd3ca687a33e10b5b9789b3b7c75bd4f23",
+     "display_id": "14-13-2",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 16255,
+     "history_length": 42
+    }
+   ]
+  },
+  {
+   "section": "15-9-81",
+   "file": "title-15/015-009-081.md",
+   "code_id": "19127",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "983e86572440d7563ea79c0777959261fb94c625e9768ed50bc68864c4eb3546",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "535bd47524df6d9111e2cb71963f378b3897ea603c04655bf57928a45329e4b5",
+     "display_id": "15-9-81",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 20231,
+     "history_length": 38
+    }
+   ]
+  },
+  {
+   "section": "16-23A-1",
+   "file": "title-16/016-023a-001.md",
+   "code_id": "5578",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "aac47b234743cf2b6067544726d6a1742f9cf5e271b6391c9718639ff73c7c13",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "4e8fbb05b81f51e062a04f4ce22bf92003a2e3d3ec5757ddd4453ce3440f0614",
+     "display_id": "16-23A-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 11451,
+     "history_length": 38
+    }
+   ]
+  },
+  {
+   "section": "16-44-1",
+   "file": "title-16/016-044-001.md",
+   "code_id": "7510",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "22c427ab11c10a8cc13630d345266aff478f572d8ec80117c8aac060fc5086ab",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "0951bbbb64a761aed2a6cde46eda2a2cc47a8d4f8c004920cb11a20dd7386c7e",
+     "display_id": "16-44-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 18804,
+     "history_length": 40
+    }
+   ]
+  },
+  {
+   "section": "16-65A-1",
+   "file": "title-16/016-065a-001.md",
+   "code_id": "58756",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "063ced92b0d49bcafca408fe7dc6c10ebb609f30cced476d7553db1548b2ad00",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "97ef501fbd249eb5bcc11c3c10e415254243d28637b3979dc281c1850868a577",
+     "display_id": "16-65A-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 262,
+     "history_length": 19
+    }
+   ]
+  },
+  {
+   "section": "22-32-1",
+   "file": "title-22/022-032-001.md",
+   "code_id": "8767",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "4f99a6dcea11bdc56c9fb6b36f6147de116cb9a94582251a7a5297051ca69c0c",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "b4bf5fcfbf3a97f004557d70d45405e90d569b091cf02cee20fa10846f1d271f",
+     "display_id": "22-32-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 32753,
+     "history_length": 208
+    }
+   ]
+  },
+  {
+   "section": "22-55-1",
+   "file": "title-22/022-055-001.md",
+   "code_id": "9986",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "ea7dd69e04f814b35b8f9e265027280ba6585e58de487cb7a7cdb4bd4332fa9b",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "f7ebb15050fdc90fc31e9175176d248a05bc9a88acf1fa26daef20b5b192bc2d",
+     "display_id": "22-55-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 19643,
+     "history_length": 40
+    }
+   ]
+  },
+  {
+   "section": "25-4-54",
+   "file": "title-25/025-004-054.md",
+   "code_id": "1119",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "8a899b9d6199ec8261679588e6493efb5efd962255327aa687d2fdf98435020f",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "8ab4921552197a9f72e823030b7f1f78166d1637ec75c360813b10817a0ee7ae",
+     "display_id": "25-4-54",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 36661,
+     "history_length": 1278
+    }
+   ]
+  },
+  {
+   "section": "27-3-7",
+   "file": "title-27/027-003-007.md",
+   "code_id": "8563",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "b7107f021a43a9ed61fc92719c3823bbcaa674f9c7f87449f32ebf566eb49013",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "5e0f074284bbc773068e8c6ff008cefb3234e28fb72eb9205d58444bd4499fa9",
+     "display_id": "27-3-7",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 3882,
+     "history_length": 148
+    }
+   ]
+  },
+  {
+   "section": "27-4A-3",
+   "file": "title-27/027-004a-003.md",
+   "code_id": "8759",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "f28661e7426a0016b644cb79a3a8907f3186d9f24fef04eaa498dc323479c242",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "a91c91470ba35a34b91ab1711d2b41933435b6255fb13d0204c8deb217af82e8",
+     "display_id": "27-4A-3",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 16189,
+     "history_length": 193
+    }
+   ]
+  },
+  {
+   "section": "29-1-1.2",
+   "file": "title-29/029-001-001-002.md",
+   "code_id": "199",
+   "held_reasons": [
+    "source completeness or table structure failed: official content hits 204800-character truncation boundary"
+   ],
+   "published_sha256": "2907aff4c6e3353f81e3e07954ca97636139b42b66d5ade278cfd79a804284ce",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "aebafb2396af40c10f1d0a8a51463cf84651496ae10fb694ffd943d7e3e8bfbb",
+     "display_id": "29-1-1.2",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 204800,
+     "history_length": 783
+    }
+   ]
+  },
+  {
+   "section": "32-6-31",
+   "file": "title-32/032-006-031.md",
+   "code_id": "14478",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "36c00c89307cf2504450be8c29685715852d0aaae7dacfde71254162b70f9019",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "70c0a6911d5553ab13327ece938bc7b5e7afb805a6151edec3d31116f18caa9a",
+     "display_id": "32-6-31",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 11507,
+     "history_length": 49
+    }
+   ]
+  },
+  {
+   "section": "36-26-35",
+   "file": "title-36/036-026-035.md",
+   "code_id": "22246",
+   "held_reasons": [
+    "source completeness or table structure failed: unbalanced or unfinished official markup: ['unmatched closing tbody', 'tbody']"
+   ],
+   "published_sha256": "739d487c4083677aaef08b774e790be9fe6bbcb43948b02fa3cfb3fdbb43ad78",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "acf0daa6ad4a9e01fba0cf9f48a9fcde9f19cd2761cfddb243bf0f4ec3b3f95b",
+     "display_id": "36-26-35",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 3829,
+     "history_length": 191
+    }
+   ]
+  },
+  {
+   "section": "36-27-21.1",
+   "file": "title-36/036-027-021-001.md",
+   "code_id": "22556",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "89b8735c7ec6a7fb8413390c8a35b7a9ed190c1217710cec9c08df7a73d3f78b",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "0a55365b78b0a7e3dce5c221a437a66c3b16d88d1b3ee6057ed545d5e0d494a1",
+     "display_id": "36-27-21.1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 5366,
+     "history_length": 135
+    }
+   ]
+  },
+  {
+   "section": "40-6A-2",
+   "file": "title-40/040-006a-002.md",
+   "code_id": "12615",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "2b4468c2b2fbd6ee1d295f64f0bb18dcef7f6f914ed2dc649077e1b87cfd67f1",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "9fd4e841e4b408d008df9f3342bc320fea2682f90e16f109ef6f7b98aa0ab0aa",
+     "display_id": "40-6A-2",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 3880,
+     "history_length": 128
+    }
+   ]
+  },
+  {
+   "section": "40-7-25.1",
+   "file": "title-40/040-007-025-001.md",
+   "code_id": "12809",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "7cde5b6bf1f977490ef88ea839d408dd9411ef7a2de742a6f8798354fec3d76f",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "a04a578a0648d117a5b70bc98a7ac772235c78ebf97cd768f470e48fc7a3c108",
+     "display_id": "40-7-25.1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 24829,
+     "history_length": 85
+    }
+   ]
+  },
+  {
+   "section": "40-12-242",
+   "file": "title-40/040-012-242.md",
+   "code_id": "15129",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "e35f9e281313d3efbc8f069368110d896d60dabc87b1ff513e9fb6b97315f7ad",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "ab2413e96fe1387ec3652cd05db10baddd23e33103e4fd3db2b6ca7c46b10577",
+     "display_id": "40-12-242",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 6304,
+     "history_length": 242
+    }
+   ]
+  },
+  {
+   "section": "40-14-40",
+   "file": "title-40/040-014-040.md",
+   "code_id": "15747",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "c044079176a9b5da602baf8192fda95be8014344a690d04b1ac773c8724191b3",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "ae753d51835bff9520cbb783c4de934e3dbb523c8b8d3d35c840d38c6c326c3f",
+     "display_id": "40-14-40",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 881,
+     "history_length": 202
+    }
+   ]
+  },
+  {
+   "section": "40-14A-22",
+   "file": "title-40/040-014a-022.md",
+   "code_id": "29586",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "ba96ee68463141e30ec1b451c3a93adc4fb0922bc48adc8f91b92d5d0832ddd0",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "265772794bc64ec23a601f25fe93e50921f0759582623bd76ff030208a3e93e8",
+     "display_id": "40-14A-22",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 12122,
+     "history_length": 132
+    }
+   ]
+  },
+  {
+   "section": "40-14A-24",
+   "file": "title-40/040-014a-024.md",
+   "code_id": "29588",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "8e074a27160eca80bbae8ee4c23eadb5e8b34bd40a9aa5f44e8c85a5421cd655",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "4bc26fe76ecf4aaca62f186146da1c20d16e2413dd77e43a67d993856976fddd",
+     "display_id": "40-14A-24",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 8328,
+     "history_length": 77
+    }
+   ]
+  },
+  {
+   "section": "40-14A-34",
+   "file": "title-40/040-014a-034.md",
+   "code_id": "29598",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "9f2cc0a585176f02a9f0448d98401ef9ccece0f0282e6b9912c0cc9f94089e8b",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "a8255fd548b0eefd49d791b7c56c4d0538c9e6933c69bc56955cc7010f87a85a",
+     "display_id": "40-14A-34",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 6941,
+     "history_length": 113
+    }
+   ]
+  },
+  {
+   "section": "40-21-82",
+   "file": "title-40/040-021-082.md",
+   "code_id": "18072",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "b67f959511e8b09a903c756b7fb43fb8f499202c63b58448de0d9b97d31cd6f6",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "ffc29d7b85d7e3ce1b69f2e99c4f214da3a64fca2b91641ae3a6c789f8a24643",
+     "display_id": "40-21-82",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 5665,
+     "history_length": 284
+    }
+   ]
+  },
+  {
+   "section": "40-27-1",
+   "file": "title-40/040-027-001.md",
+   "code_id": "19362",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "612129a898318b203730e9db96a02a2ed2e54fa473a103e3886faa5a8ba116be",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "8a4597a1ee69fa85977f331e1a5b91691507ba558264fca2d7c260101baa6241",
+     "display_id": "40-27-1",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 42030,
+     "history_length": 132
+    }
+   ]
+  },
+  {
+   "section": "40-28-2",
+   "file": "title-40/040-028-002.md",
+   "code_id": "19411",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "4448184b3171bab3c21fa30efe8ff5bce8bc2058c7e6f4d3fd99de8207744ff2",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "2f1a02bd2978ac680f9eb91489df158d4ddf525853324b0c373d04315a341758",
+     "display_id": "40-28-2",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 5206,
+     "history_length": 188
+    }
+   ]
+  },
+  {
+   "section": "41-8-21",
+   "file": "title-41/041-008-021.md",
+   "code_id": "549",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "136f4c3aa7109cc7c214fd89274578f0bfbf385833ebba99eaf0f7e81c043fca",
+   "official_response_file": "held-00.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215747%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%5D%7D",
+   "official_response_sha256": "b0a88269d837385b5a96e06d8fdb3a2332d924f73a53512e554531459d9883a4",
+   "official_rows": [
+    {
+     "sha256": "c2b8f78d28ce1eb14240b09974b6dd6ee42c36d95700786128e6c361231381e8",
+     "display_id": "41-8-21",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 13072,
+     "history_length": 40
+    }
+   ]
+  },
+  {
+   "section": "41-10-48.12",
+   "file": "title-41/041-010-048-012.md",
+   "code_id": "60736",
+   "held_reasons": [
+    "source completeness or table structure failed: unbalanced or unfinished official markup: ['span']"
+   ],
+   "published_sha256": "5b019d6a344b204cec01dd79bb9e415e1a1157487949244cc0eb497ee6f3a545",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "98f7b8fbe390d59a4f4dc2a2b630909bda9362f7dcdca878f254d25d4dfc8d8c",
+     "display_id": "41-10-48.12",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 3092,
+     "history_length": 19
+    }
+   ]
+  },
+  {
+   "section": "45-37-82.01",
+   "file": "title-45/045-037-082-001.md",
+   "code_id": "45732",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "ef881711d626142b0ea3aaba08b6c0f3798f9dd6a319234ac466b233a2f2e808",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "5bc80ca52e5ecf582eb2129185588d50622035a2a1c79735bcfb98347d61f7b9",
+     "display_id": "45-37-82.01",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 8397,
+     "history_length": 116
+    }
+   ]
+  },
+  {
+   "section": "45-37-82.20",
+   "file": "title-45/045-037-082-020.md",
+   "code_id": "45733",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "da570e5c9bdc4d656ee5c73e03b4bc46a8117532841fe89aad5646bb93ce7f6d",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "4c572344cce29e88cea56cd2c8b200ff7684e957f3269121e802fff64e794d41",
+     "display_id": "45-37-82.20",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 8542,
+     "history_length": 265
+    }
+   ]
+  },
+  {
+   "section": "45-37-123.84",
+   "file": "title-45/045-037-123-084.md",
+   "code_id": "45839",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "913252e7706050dc374ce01ba297884fce2db386417eb25e54a319b4167fdd9f",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "9c984e035bd0ea086ad6c7510113c815bfa706986fff0a4c7ac1ea8035646d68",
+     "display_id": "45-37-123.84",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 2351,
+     "history_length": 68
+    }
+   ]
+  },
+  {
+   "section": "45-37-123.100",
+   "file": "title-45/045-037-123-100.md",
+   "code_id": "45840",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "23efbd10d19948a8860d05eacd20c90591ea5566a6ee84af824424d6edd5c38c",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "b8026caa2c0987a3991d7167e2b95e6160db6af6d5773a94e0285dd2fa81e28a",
+     "display_id": "45-37-123.100",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 12264,
+     "history_length": 68
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.04",
+   "file": "title-45/045-037a-051-004.md",
+   "code_id": "62318",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "178d6f6789790994b27f17dd68998be03608d2b6f0d2a2eef369443b0756a919",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "a254479d5a4d79146a154f9584d9a68bd4a890b7769800a36e754230d5fd3f24",
+     "display_id": "45-37A-51.04",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 19366,
+     "history_length": 123
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.05",
+   "file": "title-45/045-037a-051-005.md",
+   "code_id": "62319",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "4c7751bec3c003a8a8fc04a9069231c7c10bfc5f7d27cf15c0517339401881b0",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "671d1f53c6dd59651472ab0b31b10fdfabd97e3e8a1cc60b31ba0515aebf6f99",
+     "display_id": "45-37A-51.05",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 6472,
+     "history_length": 251
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.08",
+   "file": "title-45/045-037a-051-008.md",
+   "code_id": "62322",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "6385f6f190dd34dc260dc9168ba1a3ef6d70bb91c7ff3a5b62689dd966a9ea8d",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "697a27464859e0142a4494d56af637782a4957f0e01617f5d8abc7e73166ae3c",
+     "display_id": "45-37A-51.08",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 5719,
+     "history_length": 28
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.120",
+   "file": "title-45/045-037a-051-120.md",
+   "code_id": "62336",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "cd785d043e162d6df21a3b9a6c32936e07664cf8022f21dfe77640d3cbd9f5b8",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "5e44f34828c5a75644996aa748ded968520167151578005aea39cfde3018800b",
+     "display_id": "45-37A-51.120",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 33529,
+     "history_length": 65
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.162",
+   "file": "title-45/045-037a-051-162.md",
+   "code_id": "62350",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "a2844206762804bc79b16637c6890b3c9fb7207295c45362a97f984b2a7646b6",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "c0e372c9b6dbfa1a3928436e457595c1ce5e11111dcb57559ef643083997d7fa",
+     "display_id": "45-37A-51.162",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 10967,
+     "history_length": 37
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.165",
+   "file": "title-45/045-037a-051-165.md",
+   "code_id": "62353",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "27b934350cf8effdbc8676e5e86af0eeb3c53a8403a14a8a954267cf631e670b",
+   "official_response_file": "held-20.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%5D%7D",
+   "official_response_sha256": "f3d340db9d0c8b907a185ac7fc014d137db0930d3db938549ad7bd7414d7b1b7",
+   "official_rows": [
+    {
+     "sha256": "ecd9b60636456faa6b3a9662ed810a864a6b3ed2124f822e33d75a6eab6365a0",
+     "display_id": "45-37A-51.165",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 2539,
+     "history_length": 37
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.192",
+   "file": "title-45/045-037a-051-192.md",
+   "code_id": "62360",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "c48271e6e040949bcc717cde2322187cd0ba8ebff03b610ae06d3db1f822aacc",
+   "official_response_file": "held-40.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262395%22%5D%7D",
+   "official_response_sha256": "a8e825a66ee53a3f761040831dba2a7db364e8c5873e63cafb17415d5e9f0929",
+   "official_rows": [
+    {
+     "sha256": "9cdd81ea92546cd64d52ad27db68c7bf9843fb09f4edc75c57e35aa92bed1b9b",
+     "display_id": "45-37A-51.192",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 4759,
+     "history_length": 82
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.198",
+   "file": "title-45/045-037a-051-198.md",
+   "code_id": "62366",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "7e52fe0a2de4bcf9fb76a524912db1d2f700ba53276d2423c037e606536eefce",
+   "official_response_file": "held-40.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262395%22%5D%7D",
+   "official_response_sha256": "a8e825a66ee53a3f761040831dba2a7db364e8c5873e63cafb17415d5e9f0929",
+   "official_rows": [
+    {
+     "sha256": "759b9ab2b1493f550fa3e992fb4356ba1baeab14ebbecad109f1b995fee66158",
+     "display_id": "45-37A-51.198",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 1783,
+     "history_length": 36
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.220",
+   "file": "title-45/045-037a-051-220.md",
+   "code_id": "62369",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "93292689b60cbc10b1dfd49047ac4458da5371a659e4aa4dec452fafb9795b02",
+   "official_response_file": "held-40.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262395%22%5D%7D",
+   "official_response_sha256": "a8e825a66ee53a3f761040831dba2a7db364e8c5873e63cafb17415d5e9f0929",
+   "official_rows": [
+    {
+     "sha256": "34dd7b63100e52f3cdb91dd8f0c2f9c8d1d9d2414b39dca3847a8173970395d4",
+     "display_id": "45-37A-51.220",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 6723,
+     "history_length": 83
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.226",
+   "file": "title-45/045-037a-051-226.md",
+   "code_id": "62375",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "fef0df9d96d40c455e0400e5b4959a0db575c46de2b2db5e31fc6691874a2b84",
+   "official_response_file": "held-40.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262395%22%5D%7D",
+   "official_response_sha256": "a8e825a66ee53a3f761040831dba2a7db364e8c5873e63cafb17415d5e9f0929",
+   "official_rows": [
+    {
+     "sha256": "c7fc40357eef7e568069eac359b0dcc0b9474b93defd25372ad05f42811887fa",
+     "display_id": "45-37A-51.226",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 15905,
+     "history_length": 65
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.228",
+   "file": "title-45/045-037a-051-228.md",
+   "code_id": "62377",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "5a18c0468c0ffd02c4abef750553147784217ca04e346c3a40be853a7fb2b05e",
+   "official_response_file": "held-40.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262395%22%5D%7D",
+   "official_response_sha256": "a8e825a66ee53a3f761040831dba2a7db364e8c5873e63cafb17415d5e9f0929",
+   "official_rows": [
+    {
+     "sha256": "9fcd0a47fe3227203187a3ba41dcd269ee862d9a4546ba7e3d8a66084ca4de5a",
+     "display_id": "45-37A-51.228",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 14969,
+     "history_length": 84
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.232",
+   "file": "title-45/045-037a-051-232.md",
+   "code_id": "62387",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "af9c890a7aceeb88287f6b9a82934378980d497840c1dae073a4d3b0409f22c7",
+   "official_response_file": "held-40.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262395%22%5D%7D",
+   "official_response_sha256": "a8e825a66ee53a3f761040831dba2a7db364e8c5873e63cafb17415d5e9f0929",
+   "official_rows": [
+    {
+     "sha256": "631e7337b5d0bee424f9103fee0c839e2c715fc968a046ee5643371d16e1c92b",
+     "display_id": "45-37A-51.232",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 6091,
+     "history_length": 57
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.241",
+   "file": "title-45/045-037a-051-241.md",
+   "code_id": "62390",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "relative statutory commencement requires source-date resolution",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "f0fcc35d78121d9a2068f4122a5b2db69e790f7ceeb6f00bc62ce3dae38e7f57",
+   "official_response_file": "held-40.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262395%22%5D%7D",
+   "official_response_sha256": "a8e825a66ee53a3f761040831dba2a7db364e8c5873e63cafb17415d5e9f0929",
+   "official_rows": [
+    {
+     "sha256": "eae6c34be66867ba07fe34b276aa53ec83b252b573e05950f158ab796654a04f",
+     "display_id": "45-37A-51.241",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 2450,
+     "history_length": 38
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.243",
+   "file": "title-45/045-037a-051-243.md",
+   "code_id": "62392",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "493e00440dfa68119caecf0491ec668bcc7118cd08de4c386fc100da703fbc02",
+   "official_response_file": "held-40.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262395%22%5D%7D",
+   "official_response_sha256": "a8e825a66ee53a3f761040831dba2a7db364e8c5873e63cafb17415d5e9f0929",
+   "official_rows": [
+    {
+     "sha256": "50aeb9f6b4adefc053c1921d9bc53e16bc394ad0e5683cfcf2fc471bc6aa3754",
+     "display_id": "45-37A-51.243",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 4045,
+     "history_length": 38
+    }
+   ]
+  },
+  {
+   "section": "45-37A-51.246",
+   "file": "title-45/045-037a-051-246.md",
+   "code_id": "62395",
+   "held_reasons": [
+    "not selected: date or span assessment remains held",
+    "body calendar dates need commencement/applicability assessment",
+    "body date cue needs assessment"
+   ],
+   "published_sha256": "8fa4d8df58a50a7db0fe0a256e1ddb681bd04673036cbd424cb5d38e45ddc180",
+   "official_response_file": "held-40.json",
+   "official_response_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+content+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262395%22%5D%7D",
+   "official_response_sha256": "a8e825a66ee53a3f761040831dba2a7db364e8c5873e63cafb17415d5e9f0929",
+   "official_rows": [
+    {
+     "sha256": "e04f56476b309b8eed4cd0cc90eabf3d81b965f0a8b74f97378987e69f52693e",
+     "display_id": "45-37A-51.246",
+     "effective_date": null,
+     "supersession_date": null,
+     "content_length": 1955,
+     "history_length": 38
+    }
+   ]
+  }
+ ]
+}

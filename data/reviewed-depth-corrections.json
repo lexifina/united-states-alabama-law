@@ -1,0 +1,135 @@
+[
+ {
+  "file": "title-45/045-022-011-001.md",
+  "section": "45-22-11.01",
+  "code_id": "40153",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2215742%22%2C%2215747%22%2C%2215758%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%2C%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229256%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2240153%22%2C%2240175%22%2C%2245732%22%5D%7D",
+  "source_sha256": "99d1aaa9e10d9e7b6efef40f15dd357dab667807b39faedfa4a5766c27d30119",
+  "published_sha256": "f8d381c1b083b49983d203511f296a5c724e4abc9e3be36bde78d2ae420793fb",
+  "corrected_sha256": "c46951de018ce45c094baabdb3bb10b9a703d0330fbf65aa4a3d8d93691f19d0",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "The complete section expressly states that its provisions are retroactive to January 1, 1984. Use that source date for In-force; the correction range stays at the existing November 3, 2026 record start. No earlier wording is reconstructed.",
+   "title": "Section 45-22-11.01 Miscellaneous Salaries and Expenses.",
+   "content_sha256": "35464a73fc99f40f71a4894fe5d3bfb239ea5b608ced8496b55181cf6e812342",
+   "approve_body_dates": true,
+   "source_start": "1984-01-01",
+   "quotes": [
+    "ly installments from the county general fund. (b) The provisions of this section are retroactive to January 1, 1984. (c) All court reporters serving the Thirty-second Judicial Circuit shall be entitled to an expense allowance in the amount of th"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "1984-01-01",
+    "source_phrase": "January 1, 1984",
+    "context": ",700 (2) The salaries shall be paid in equal monthly installments from the county general fund. (b) The provisions of this section are retroactive to January 1, 1984. (c) All court reporters serving the Thirty-second Judicial Circuit shall be entitled to an expense allowance in the amount of three thousand six hun"
+   }
+  ],
+  "source_start": "1984-01-01"
+ },
+ {
+  "file": "title-45/045-022-081-001.md",
+  "section": "45-22-81.01",
+  "code_id": "40175",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2215742%22%2C%2215747%22%2C%2215758%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%2C%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229256%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2240153%22%2C%2240175%22%2C%2245732%22%5D%7D",
+  "source_sha256": "99d1aaa9e10d9e7b6efef40f15dd357dab667807b39faedfa4a5766c27d30119",
+  "published_sha256": "000a148398f7f4984cc1d8ff97c940e05eb5016b68b30c3b1aa399290ffe1719",
+  "corrected_sha256": "2f2d08ee9b13b9f852383d96907f71c02429db1cfda55322122c3268d9a0fe04",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "May 30, 2023 delimits prior compliant spending ratified by subsection (g). Five-year periods alternate fund administration; they do not supply commencement of complete current wording. The undated heading and API give no current-wording start. Preserve the explicitly labelled original retrieval-day record start separately from the source check.",
+   "title": "Section 45-22-81.01 School Resource Officer Program.",
+   "content_sha256": "b7d02305b279b378a8502a333bf9d5929ea8fe1f35bfba8988ad17d8b675c86a",
+   "approve_body_dates": true,
+   "source_start": null,
+   "quotes": [
+    "ed shall be held in trust and carried over to the next year. (g) Any use of funds expended prior to May 30, 2023, in compliance with this section are ratified and confirmed."
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "2023-05-30",
+    "source_phrase": "May 30, 2023",
+    "context": "source Officer (SRO) program. (f) All funds not used shall be held in trust and carried over to the next year. (g) Any use of funds expended prior to May 30, 2023, in compliance with this section are ratified and confirmed."
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-037a-051-139.md",
+  "section": "45-37A-51.139",
+  "code_id": "62346",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245733%22%2C%2245839%22%2C%2245840%22%2C%2248024%22%2C%2258756%22%2C%2260736%22%2C%2262315%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262323%22%2C%2262336%22%2C%2262346%22%2C%2262350%22%2C%2262353%22%2C%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%5D%7D",
+  "source_sha256": "e69daf4cbb2b2a50f6f421a84e0201587847f364431a9336f9efe13a20190e64",
+  "published_sha256": "bb4c8a7aa6462b532af71e4494cec0ac8eca762cb7560a79df19f27542c3fa79",
+  "corrected_sha256": "7b278def142fd4da47b64d8286f18c55d21657226247869942a982909f7bc410",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "January 1, 1969 and May 1, 2006 select board-decision cohorts for review rules. May 1, 2007 is a filing cutoff for the intervening cohort; 90, 10 and 80 days and one year are litigation deadlines. Twelve months concerns accident-to-board-resolution timing. None dates commencement of complete current wording; retain the explicitly labelled original retrieval-day record start.",
+   "title": "Section 45-37A-51.139 Appeal of Decisions of the Board.",
+   "content_sha256": "8cebefcab722c55e7a350ef6ace2142ad68599159384c73a457d105d1fee7f68",
+   "approve_body_dates": true,
+   "source_start": null,
+   "quotes": [
+    "uch final decision of the board; provided further that no final decision made by the board prior to January 1, 1969, shall be subject to review by mandamus or otherwise unless permitted by the law in effect at the time such decision was made and",
+    "e law in effect on that date; provided further that any such final decision made by the board after January 1, 1969, and prior to May 1, 2006, shall be governed by the 80-day clause of the last preceding sentence, but in such case such mandamus ",
+    "proceeding shall not be filed after May 1, 2007. In the proceedings in the circuit court, any evidence relevant on any issue involved in the review shall be admissible, subject "
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "1969-01-01",
+    "source_phrase": "January 1, 1969",
+    "context": "andamus be filed after one year from the date of such final decision of the board; provided further that no final decision made by the board prior to January 1, 1969, shall be subject to review by mandamus or otherwise unless permitted by the law in effect at the time such decision was made and then only in the ma"
+   },
+   {
+    "date": "1969-01-01",
+    "source_phrase": "January 1, 1969",
+    "context": "s made and then only in the manner permitted by the law in effect on that date; provided further that any such final decision made by the board after January 1, 1969, and prior to May 1, 2006, shall be governed by the 80-day clause of the last preceding sentence, but in such case such mandamus proceeding shall not"
+   },
+   {
+    "date": "2006-05-01",
+    "source_phrase": "May 1, 2006",
+    "context": "nner permitted by the law in effect on that date; provided further that any such final decision made by the board after January 1, 1969, and prior to May 1, 2006, shall be governed by the 80-day clause of the last preceding sentence, but in such case such mandamus proceeding shall not be filed after May 1, 200"
+   },
+   {
+    "date": "2007-05-01",
+    "source_phrase": "May 1, 2007",
+    "context": "ay 1, 2006, shall be governed by the 80-day clause of the last preceding sentence, but in such case such mandamus proceeding shall not be filed after May 1, 2007. In the proceedings in the circuit court, any evidence relevant on any issue involved in the review shall be admissible, subject to the ordinary rule"
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-041-011.md",
+  "section": "45-41-11",
+  "code_id": "48024",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245733%22%2C%2245839%22%2C%2245840%22%2C%2248024%22%2C%2258756%22%2C%2260736%22%2C%2262315%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262323%22%2C%2262336%22%2C%2262346%22%2C%2262350%22%2C%2262353%22%2C%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%5D%7D",
+  "source_sha256": "e69daf4cbb2b2a50f6f421a84e0201587847f364431a9336f9efe13a20190e64",
+  "published_sha256": "af529efa1a86c660288794f2a224dc69e6172078c0b5c85fc8c63bca05c6a6b4",
+  "corrected_sha256": "3131ee0e549f46049c359b5c9d14e64ec5d6e7c01eae85e46a70b15d368c1b16",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "The official section states that the listed annual salaries apply on August 1, 2000. Remaining subsections prescribe payment and proration of those salaries. Use this expressly stated source applicability date for In-force, with correction limited to the existing snapshot.",
+   "title": "Section 45-41-11 Salaries for Judge of Probate, Sheriff, Tax Assessor, Tax Collector.",
+   "content_sha256": "824875f0feda2f41e531bf9d1a266f97069496adfcf7c7730cd8bcd885857443",
+   "approve_body_dates": true,
+   "source_start": "2000-08-01",
+   "quotes": [
+    "ion, the following elected officials serving Lee County shall receive annual salaries as follows on August 1, 2000: (1) Judge of probate $75,000 (2) Sheriff 65,000 (3) Tax assessor 52,500 (4) Tax collector 52,500 (b)(1) The annual salaries prov"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "2000-08-01",
+    "source_phrase": "August 1, 2000",
+    "context": "bama of 1901, and Act 531 of the 1976 Regular Session, the following elected officials serving Lee County shall receive annual salaries as follows on August 1, 2000: (1) Judge of probate $75,000 (2) Sheriff 65,000 (3) Tax assessor 52,500 (4) Tax collector 52,500 (b)(1) The annual salaries provided for in this sec"
+   }
+  ],
+  "source_start": "2000-08-01"
+ }
+]

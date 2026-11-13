@@ -1,0 +1,178 @@
+{
+ "title": "Title 42 United States.",
+ "checked_on": "2026-11-13",
+ "kind": "source-history-index",
+ "description": "Verbatim official history fields associated with existing section files. Citations are source provenance, not reconstructed legal versions or inferred commencement dates.",
+ "records": [
+  {
+   "file": "title-42/042-001-001.md",
+   "code_id": "6098",
+   "section": "42-1-1",
+   "source_history": "(Code 1852, &sect;24; Code 1867, &sect;22; Code 1876, &sect;19; Code 1886, &sect;19; Code 1896, &sect;626; Code 1907, &sect;2413; Code 1923, &sect;3147; Code 1940, T. 59, &sect;1.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-001-002.md",
+   "code_id": "6103",
+   "section": "42-1-2",
+   "source_history": "(Acts 1931, No. 88, p. 165; Acts 1933, Ex. Sess., No. 120, p. 113; Code 1940, T. 59, &sect;2.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-001.md",
+   "code_id": "6111",
+   "section": "42-2-1",
+   "source_history": "(Code 1852, &sect;22; Code 1867, &sect;23; Code 1876, &sect;20; Code 1886, &sect;20; Code 1896, &sect;627; Code 1907, &sect;2414; Code 1923, &sect;3148; Code 1940, T. 59, &sect;4.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-002.md",
+   "code_id": "6116",
+   "section": "42-2-2",
+   "source_history": "(Code 1907, &sect;2415; Code 1923, &sect;3149; Code 1940, T. 59, &sect;5.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-003.md",
+   "code_id": "6122",
+   "section": "42-2-3",
+   "source_history": "(Code 1907, &sect;2416; Code 1923, &sect;3150; Code 1940, T. 59, &sect;6.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-004.md",
+   "code_id": "6127",
+   "section": "42-2-4",
+   "source_history": "(Code 1907, &sect;2417; Code 1923, &sect;3151; Code 1940, T. 59, &sect;7.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-005.md",
+   "code_id": "6134",
+   "section": "42-2-5",
+   "source_history": "(Code 1907, &sect;2418; Code 1923, &sect;3152; Code 1940, T. 59, &sect;8.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-006.md",
+   "code_id": "6139",
+   "section": "42-2-6",
+   "source_history": "(Code 1907, &sect;&sect;2419, 2420; Code 1923, &sect;&sect;3153, 3154; Code 1940, T. 59, &sect;&sect;9, 10.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-007.md",
+   "code_id": "6141",
+   "section": "42-2-7",
+   "source_history": "(Code 1907, &sect;2421; Code 1923, &sect;3155; Code 1940, T. 59, &sect;11.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-008.md",
+   "code_id": "6148",
+   "section": "42-2-8",
+   "source_history": "(Code 1907, &sect;2422; Code 1923, &sect;3156; Code 1940, T. 59, &sect;12.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-009.md",
+   "code_id": "6152",
+   "section": "42-2-9",
+   "source_history": "(Code 1907, &sect;2423; Code 1923, &sect;3157; Code 1940, T. 59, &sect;13.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-010.md",
+   "code_id": "6156",
+   "section": "42-2-10",
+   "source_history": "(Code 1907, &sect;2424; Code 1923, &sect;3158; Code 1940, T. 59, &sect;14.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-011.md",
+   "code_id": "6160",
+   "section": "42-2-11",
+   "source_history": "(Code 1907, &sect;2425; Code 1923, &sect;3159; Code 1940, T. 59, &sect;15.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-002-012.md",
+   "code_id": "6165",
+   "section": "42-2-12",
+   "source_history": "(Code 1907, &sect;2426; Code 1923, &sect;3160; Code 1940, T. 59, &sect;16.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-003-001.md",
+   "code_id": "6176",
+   "section": "42-3-1",
+   "source_history": "(Code 1852, &sect;23; Code 1867, &sect;24; Code 1876, &sect;21; Code 1886, &sect;21; Code 1896, &sect;628; Code 1907, &sect;2427; Code 1923, &sect;3161; Code 1940, T. 59, &sect;18.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-003-002.md",
+   "code_id": "6181",
+   "section": "42-3-2",
+   "source_history": "(Code 1876, &sect;22; Code 1886, &sect;22; Code 1896, &sect;629; Code 1907, &sect;2428; Code 1923, &sect;3162; Code 1940, T. 59, &sect;3.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  },
+  {
+   "file": "title-42/042-003-003.md",
+   "code_id": "6186",
+   "section": "42-3-3",
+   "source_history": "(Code 1923, &sect;3166; Code 1940, T. 59, &sect;19.)",
+   "effectiveDate": null,
+   "supersessionDate": null,
+   "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+history+effectiveDate+supersessionDate%7D%7D%7D&variables=%7B%22i%22%3A%5B%2242%22%2C%226097%22%2C%226098%22%2C%226103%22%2C%226110%22%2C%226111%22%2C%226116%22%2C%226122%22%2C%226127%22%2C%226134%22%2C%226139%22%2C%226141%22%2C%226148%22%2C%226152%22%2C%226156%22%2C%226160%22%2C%226165%22%2C%226172%22%2C%226176%22%2C%226181%22%2C%226186%22%5D%7D",
+   "source_sha256": "a456d94a70deae09004f02b6f13e4ecd24198910c5c8a7f6033093b2214f4812"
+  }
+ ]
+}

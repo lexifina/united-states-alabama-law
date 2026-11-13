@@ -1,0 +1,132 @@
+[
+ {
+  "file": "title-41/041-010-638.md",
+  "section": "41-10-638",
+  "code_id": "29256",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2215742%22%2C%2215747%22%2C%2215758%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%2C%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229256%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%5D%7D",
+  "source_sha256": "a1a3b2a05bf17adc11463618f5bb26d74989d9d095899c96c60e29f4946b6455",
+  "published_sha256": "62a59144b8b0b1464d88bcb289880d0f38b17ea67caaf809197b3413e5c3e100",
+  "corrected_sha256": "84086970523ead936c77c27bbc0c22417b3b0cf5b8c4ba2ccc9242bf9cb830fd",
+  "tables": 1,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "e21499f8694100dedc7d3d40d396b7e183dbd1c77b140eafd6448b0434db65ac",
+   "title": "Section 41-10-638 Transfers from the Special Fund.",
+   "approve_body_dates": true,
+   "source_start": null,
+   "assessment": "The September 30, 2000 dates are fiscal-year ends for recurring transfers, not commencement of the complete current wording. The provision supplies no date for that complete wording. Preserve the labelled 2026-11-03 retrieval fallback only for the existing snapshot correction.",
+   "quotes": [
+    "beginning in the fiscal year ending September 30, 2000",
+    "each fiscal year thereafter"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "2000-09-30",
+    "source_phrase": "September 30, 2000",
+    "context": "tobacco revenues in the following amounts received in each of the following fiscal years by the State of Alabama, beginning in the fiscal year ending September 30, 2000, shall be transferred from the special fund to the Children First Trust Fund to be appropriated by the Legislature, upon the recommendation of the Go"
+   },
+   {
+    "date": "2000-09-30",
+    "source_phrase": "September 30, 2000",
+    "context": "0 2001 up to $70,000,000 2002 and each fiscal year thereafter (2) An amount up to $2,000,000 shall be transferred beginning in the fiscal year ending September 30, 2000, and each fiscal year thereafter to the Alabama Senior Services Trust Fund to be appropriated by the Legislature in the manner prescribed in Chapter "
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-037a-051-245.md",
+  "section": "45-37A-51.245",
+  "code_id": "62394",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%2C%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262394%22%2C%2262395%22%2C%2262407%22%5D%7D",
+  "source_sha256": "4157c11877c354ae93bf04030f846b02a867539a123bda8776b23ab57ae8ce77",
+  "published_sha256": "d4dd8c5a332f0072019d5b30d26c631de290f8e68360311d8d13b8642b97150d",
+  "corrected_sha256": "f3e7133eae5ec8046b11026b56a356c39d2a4bf024ce92f3d89644c797ecffbb",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "ba63042dbab7fcd6522497f011b23e3dec503d32a4f971ece24f2fec96076af4",
+   "title": "Section 45-37A-51.245 Retroactive Deferred Retirement Option Plan.",
+   "approve_body_dates": true,
+   "source_start": "2002-07-01",
+   "assessment": "The official subsection (a) expressly opens Effective July 1, 2002 for the back drop plan. The 90-day retirement eligibility condition is separate from that source effective day; spouse approval, interest funding and board implementation conditions remain in the source text. Use 2002-07-01 in the source-date trailer, restricting the correction to the existing November 2026 snapshot range, with no reconstruction of earlier wording.",
+   "quotes": [
+    "Effective July 1, 2002",
+    "at least 90 days following July 1, 2002"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "2002-07-01",
+    "source_phrase": "July 1, 2002",
+    "context": "(a) Effective July 1, 2002, a participant who retires at least 90 days following July 1, 2002, who has then completed at least 23 years of credited service, and who is otherwis"
+   },
+   {
+    "date": "2002-07-01",
+    "source_phrase": "July 1, 2002",
+    "context": "(a) Effective July 1, 2002, a participant who retires at least 90 days following July 1, 2002, who has then completed at least 23 years of credited service, and who is otherwise entitled to retire and receive a normal retirement benefit, shall"
+   }
+  ],
+  "source_start": "2002-07-01"
+ },
+ {
+  "file": "title-45/045-037a-051-284.md",
+  "section": "45-37A-51.284",
+  "code_id": "62407",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%2C%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262394%22%2C%2262395%22%2C%2262407%22%5D%7D",
+  "source_sha256": "4157c11877c354ae93bf04030f846b02a867539a123bda8776b23ab57ae8ce77",
+  "published_sha256": "2d2e1a53de5cb6c352146f7d0163aeee5a7670f0e41f7beddbe5d9d0da610988",
+  "corrected_sha256": "22a42c6a407601788629cf15082d84fe2441e54b261ae9c869056c1e78a0842a",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "520bc71c12186416d10602b2477893dd830669815bc495c0120535125e0e09c0",
+   "title": "Section 45-37A-51.284 Actuarial Assumptions.",
+   "approve_body_dates": true,
+   "source_start": "2008-01-01",
+   "assessment": "The official subsection (a), labelled Effective date, states that the limitations of this section first apply to annuity starting dates in fiscal years beginning on or after January 1, 2008, subject to PBGC/IRS exceptions. Use the expressly stated source application date 2008-01-01, retaining the complete exception and cohort wording. The correction operates only within the existing November 2026 snapshot range and does not reconstruct earlier text.",
+   "quotes": [
+    "Effective date",
+    "January 1, 2008"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "2008-01-01",
+    "source_phrase": "January 1, 2008",
+    "context": "s section shall first apply in determining the amount payable to a participant having an annuity starting date in a fiscal year beginning on or after January 1, 2008. (b) Applicable interest rate. For purposes of the fund’s provisions relating to the calculation of the present value of a benefit payment that is su"
+   }
+  ],
+  "source_start": "2008-01-01"
+ },
+ {
+  "file": "title-45/045-037a-051-306.md",
+  "section": "45-37A-51.306",
+  "code_id": "62414",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2262414%22%5D%7D",
+  "source_sha256": "64eb0c764dde185cf3fdde9ac3b3334038507b3666a86681418f3ed5739e4b72",
+  "published_sha256": "da076ea398bb036ed5117f8db48405e41694266bde1ef2cbde30fc398e0b7e73",
+  "corrected_sha256": "6d885c7a3fc143278ae3948859a3b6573d96072a2890b264eeaa971c39c8cdea",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "a221b02cd88ef59668ff5fa21a0c04040557ca4c886351df7ca32ce5c69accfb",
+   "title": "Section 45-37A-51.306 Employees of the Library Board.",
+   "approve_body_dates": true,
+   "source_start": null,
+   "assessment": "August 1, 1999 is the anchor of a payroll-period condition for the library board duties in subsection (b), not a fixed commencement day for complete current wording. Subsection (a) expressly covers past, present and future service; no current-wording commencement date is stated. Preserve the labelled 2026-11-03 retrieval fallback only for the existing snapshot correction.",
+   "quotes": [
+    "After the first pay period after August 1, 1999",
+    "whether past, present, or future"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "1999-08-01",
+    "source_phrase": "August 1, 1999",
+    "context": "f the library board shall be governed accordingly by the retrospective and prospective provisions of the system. (b) After the first pay period after August 1, 1999, it shall be the duty of the library board as an independent agency and not as a subsidiary or department of the city, to do all of the following: (1"
+   }
+  ],
+  "source_start": null
+ }
+]

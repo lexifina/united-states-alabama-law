@@ -1,0 +1,194 @@
+[
+ {
+  "file": "title-40/040-014-001.md",
+  "section": "40-14-1",
+  "code_id": "15718",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215718%22%2C%2215724%22%2C%2215726%22%2C%2215730%22%2C%2215734%22%2C%2215739%22%5D%7D",
+  "source_sha256": "1378f848333259c99c08c18b92b25f4950b3b7e145316d78be120c78d52d38a4",
+  "published_sha256": "1e39d8106c6ec72f3a68c860b05e81c16fecd8e02d9d80a0f65e7d4928820ea7",
+  "corrected_sha256": "0c717b932c8a10a86553df85fa3b022cfc5620db57481d49eea00024fe3e5dc8",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "b401a98321aeb594543200051b56f57be45b9208f718fa692e0fecaaa5562509",
+   "title": "Section 40-14-1 Qualification of Foreign Corporation.",
+   "approve_body_dates": true,
+   "source_start": null,
+   "assessment": "The official row is a current repeal notice for Act 99-665. Its effective-date sentence points to Code Commissioner notes in a supplement, but this official content does not state a commencement day for the notice or supply the supplement text. Preserve the labelled 2026-11-03 retrieval fallback only for the existing snapshot correction.",
+   "quotes": [
+    "Repealed by Act 99-665, 2nd Sp. Sess., &sect; 9",
+    "As to effective date, see the Code Commissioner?s Notes in the supplement"
+   ]
+  },
+  "body_dates": [],
+  "source_start": null
+ },
+ {
+  "file": "title-40/040-014-002.md",
+  "section": "40-14-2",
+  "code_id": "15724",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215718%22%2C%2215724%22%2C%2215726%22%2C%2215730%22%2C%2215734%22%2C%2215739%22%5D%7D",
+  "source_sha256": "1378f848333259c99c08c18b92b25f4950b3b7e145316d78be120c78d52d38a4",
+  "published_sha256": "af65c9386215060ec7ea36d3c2a2b20f398d9067dc957c9c222a1b65d395f75e",
+  "corrected_sha256": "4fcc236d0d0d6da96e3c73f0e3fc4aca3dfd8cec87c9253c631610ca9c38538e",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "b401a98321aeb594543200051b56f57be45b9208f718fa692e0fecaaa5562509",
+   "title": "Section 40-14-2 Statement Filed with Department of Revenue.",
+   "approve_body_dates": true,
+   "source_start": null,
+   "assessment": "The official row is a current repeal notice for Act 99-665. Its effective-date sentence points to Code Commissioner notes in a supplement, but this official content does not state a commencement day for the notice or supply the supplement text. Preserve the labelled 2026-11-03 retrieval fallback only for the existing snapshot correction.",
+   "quotes": [
+    "Repealed by Act 99-665, 2nd Sp. Sess., &sect; 9",
+    "As to effective date, see the Code Commissioner?s Notes in the supplement"
+   ]
+  },
+  "body_dates": [],
+  "source_start": null
+ },
+ {
+  "file": "title-40/040-014-003.md",
+  "section": "40-14-3",
+  "code_id": "15726",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215718%22%2C%2215724%22%2C%2215726%22%2C%2215730%22%2C%2215734%22%2C%2215739%22%5D%7D",
+  "source_sha256": "1378f848333259c99c08c18b92b25f4950b3b7e145316d78be120c78d52d38a4",
+  "published_sha256": "44f1f5b056226c735ca0ca9dd6de41b107f2a0863541df97e8ce3accab4931d0",
+  "corrected_sha256": "6556215699b0b58bfa68a8390f71cca40edd00fdb3b269dba14a1732e954b94a",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "b401a98321aeb594543200051b56f57be45b9208f718fa692e0fecaaa5562509",
+   "title": "Section 40-14-3 Payment of Admission Fee but Once.",
+   "approve_body_dates": true,
+   "source_start": null,
+   "assessment": "The official row is a current repeal notice for Act 99-665. Its effective-date sentence points to Code Commissioner notes in a supplement, but this official content does not state a commencement day for the notice or supply the supplement text. Preserve the labelled 2026-11-03 retrieval fallback only for the existing snapshot correction.",
+   "quotes": [
+    "Repealed by Act 99-665, 2nd Sp. Sess., &sect; 9",
+    "As to effective date, see the Code Commissioner?s Notes in the supplement"
+   ]
+  },
+  "body_dates": [],
+  "source_start": null
+ },
+ {
+  "file": "title-40/040-014-004.md",
+  "section": "40-14-4",
+  "code_id": "15730",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215718%22%2C%2215724%22%2C%2215726%22%2C%2215730%22%2C%2215734%22%2C%2215739%22%5D%7D",
+  "source_sha256": "1378f848333259c99c08c18b92b25f4950b3b7e145316d78be120c78d52d38a4",
+  "published_sha256": "71298e7b61a985232575e8e5eeebdec49febb00f04f06ad71fc91cdfa21aa524",
+  "corrected_sha256": "262ceb1254bd0da1a27a994efee830f55ddfba094ba3556e92fde19adc07b883",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "0e7a77e1dcb3b932b3904a3c915b5ce431344eae40105ce4f27db702111f5226",
+   "title": "Section 40-14-4 Qualification of Foreign Corporation to Do Business in State; Payment of Interest and Penalties.",
+   "approve_body_dates": true,
+   "source_start": null,
+   "assessment": "The official row is a current repeal notice for Act 99-665. Its effective-date sentence points to Code Commissioner notes in a supplement, but this official content does not state a commencement day for the notice or supply the supplement text. Preserve the labelled 2026-11-03 retrieval fallback only for the existing snapshot correction.",
+   "quotes": [
+    "Repealed by Act 99-665, 2nd Sp. Sess., &sect; 9",
+    "As to effective date, see the Code Commissioner?s Notes in the supplement"
+   ]
+  },
+  "body_dates": [],
+  "source_start": null
+ },
+ {
+  "file": "title-40/040-014-021.md",
+  "section": "40-14-21",
+  "code_id": "15734",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215718%22%2C%2215724%22%2C%2215726%22%2C%2215730%22%2C%2215734%22%2C%2215739%22%5D%7D",
+  "source_sha256": "1378f848333259c99c08c18b92b25f4950b3b7e145316d78be120c78d52d38a4",
+  "published_sha256": "ed1fb7621cf125332909c7af0186c7b9b1bca66d6cc5da469b7262ec7cdbf4cf",
+  "corrected_sha256": "18d66427ede2d5c12de21f7e8c85100e46b66ba3cfe29dd74dbbbcd11a4a0ea5",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "b401a98321aeb594543200051b56f57be45b9208f718fa692e0fecaaa5562509",
+   "title": "Section 40-14-21 Foreign Corporations.",
+   "approve_body_dates": true,
+   "source_start": null,
+   "assessment": "The official row is a current repeal notice for Act 99-665. Its effective-date sentence points to Code Commissioner notes in a supplement, but this official content does not state a commencement day for the notice or supply the supplement text. Preserve the labelled 2026-11-03 retrieval fallback only for the existing snapshot correction.",
+   "quotes": [
+    "Repealed by Act 99-665, 2nd Sp. Sess., &sect; 9",
+    "As to effective date, see the Code Commissioner?s Notes in the supplement"
+   ]
+  },
+  "body_dates": [],
+  "source_start": null
+ },
+ {
+  "file": "title-40/040-014-022.md",
+  "section": "40-14-22",
+  "code_id": "15739",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215718%22%2C%2215724%22%2C%2215726%22%2C%2215730%22%2C%2215734%22%2C%2215739%22%5D%7D",
+  "source_sha256": "1378f848333259c99c08c18b92b25f4950b3b7e145316d78be120c78d52d38a4",
+  "published_sha256": "f1060e9e93e51a77ff69c91877a6f7471ede6f83a72691441ff2195b158e63e7",
+  "corrected_sha256": "34d38540ee6668e8b05eec3e2bc806ff802a8922171422579058cac4712f43a0",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "b401a98321aeb594543200051b56f57be45b9208f718fa692e0fecaaa5562509",
+   "title": "Section 40-14-22 Domestic Corporations.",
+   "approve_body_dates": true,
+   "source_start": null,
+   "assessment": "The official row is a current repeal notice for Act 99-665. Its effective-date sentence points to Code Commissioner notes in a supplement, but this official content does not state a commencement day for the notice or supply the supplement text. Preserve the labelled 2026-11-03 retrieval fallback only for the existing snapshot correction.",
+   "quotes": [
+    "Repealed by Act 99-665, 2nd Sp. Sess., &sect; 9",
+    "As to effective date, see the Code Commissioner?s Notes in the supplement"
+   ]
+  },
+  "body_dates": [],
+  "source_start": null
+ },
+ {
+  "file": "title-40/040-014-023.md",
+  "section": "40-14-23",
+  "code_id": "15742",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2215742%22%2C%2215747%22%2C%2215758%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%2C%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%5D%7D",
+  "source_sha256": "c6888710490bb6e80fbd375c0191c13bdc5a05cd7f88a85e30055cb227b74c69",
+  "published_sha256": "2815b4f26a8d0df836ce0071956dd4d1dee27130e95f3f514ad9e63ef067725f",
+  "corrected_sha256": "409bf13b24622827b47bb1644761979ec699bd123d540454cfe2dbbd2d361f6d",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "b401a98321aeb594543200051b56f57be45b9208f718fa692e0fecaaa5562509",
+   "title": "Section 40-14-23 How Statements Made.",
+   "approve_body_dates": true,
+   "source_start": null,
+   "assessment": "The official row is a current repeal notice for Act 99-665. Its effective-date sentence points to Code Commissioner notes in a supplement, but this official content does not state a commencement day for the notice or supply the supplement text. Preserve the labelled 2026-11-03 retrieval fallback only for the existing snapshot correction.",
+   "quotes": [
+    "Repealed by Act 99-665, 2nd Sp. Sess., &sect; 9",
+    "As to effective date, see the Code Commissioner?s Notes in the supplement"
+   ]
+  },
+  "body_dates": [],
+  "source_start": null
+ },
+ {
+  "file": "title-40/040-014-042.md",
+  "section": "40-14-42",
+  "code_id": "15758",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2215742%22%2C%2215747%22%2C%2215758%22%2C%2218072%22%2C%2219127%22%2C%2219362%22%2C%2219411%22%2C%2222246%22%2C%2222556%22%2C%2223031%22%2C%2224541%22%2C%2226905%22%2C%2226906%22%2C%2229586%22%2C%2229588%22%2C%2229598%22%2C%2245732%22%2C%2245733%22%2C%2245839%22%2C%2245840%22%5D%7D",
+  "source_sha256": "c6888710490bb6e80fbd375c0191c13bdc5a05cd7f88a85e30055cb227b74c69",
+  "published_sha256": "766260eb0ceb98cd31994afd97381716a024a1c2ed037fb5bd361cf600775a77",
+  "corrected_sha256": "dfdc2970b660f451a9c1b7301e24c151d4b22a15f4d818facee168eeeaa300bc",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "content_sha256": "6c4072ee2d3804ab6a4716d96de0c5e86d7934e5a0f9371de2bc6cf8105a15bf",
+   "title": "Section 40-14-42 Corporations Merged or Consolidated.",
+   "approve_body_dates": true,
+   "source_start": null,
+   "assessment": "The official row is a current repeal notice for Act 99-665. Its effective-date sentence points to Code Commissioner notes in a supplement, but this official content does not state a commencement day for the notice or supply the supplement text. Preserve the labelled 2026-11-03 retrieval fallback only for the existing snapshot correction.",
+   "quotes": [
+    "Repealed by Act 99-665, 2nd Sp. Sess., &sect; 9",
+    "As to effective date, see the Code Commissioner?s Notes in the supplement"
+   ]
+  },
+  "body_dates": [],
+  "source_start": null
+ }
+]

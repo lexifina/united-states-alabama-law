@@ -144,3 +144,7 @@ This batch leaves 61 cases in the audited discrepancy range unresolved. The sepa
 ## Official source date candidates
 
 `data/source-date-candidates.json` maps official act-register date fields to exact Act/Acts citations in the source-history indexes for 5,765 section files, checked November 13, 2026. It records 6,879 dated citation candidates from 2,010 source-dated enacted-instrument records. These are provenance and review aids only. They do not date an entire consolidated section, reconstruct historical wording, or change statute text.
+
+## Official section dispositions
+
+`data/source-section-dispositions.json` preserves all 1,262 official Code disposition records, checked November 13, 2026. Exact section identities link these records to 1,180 existing section files; exact session, act and bill identities link every record to enrolled-instrument metadata. Of the linked records, 87 have no explicit year-number Act citation in the corresponding source history. Sixty-one rows have no unique source-history match and retain null section links. The source lists 589 additions, 507 amendments and 166 repeals, with 1,259 supplied dates. These are section-specific provenance records, including future dates; they do not reconstruct earlier wording or establish commencement of a complete consolidated section. Complete legal history and current-law fidelity remain unresolved.

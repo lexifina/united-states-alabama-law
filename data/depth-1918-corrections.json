@@ -1,0 +1,117 @@
+[
+ {
+  "file": "title-29/029-001-001-002.md",
+  "section": "29-1-1.2",
+  "code_id": "199",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%22199%22%2C%22549%22%2C%221119%22%2C%224264%22%2C%225578%22%2C%227510%22%2C%228563%22%2C%228759%22%2C%228767%22%2C%229986%22%2C%2212615%22%2C%2212809%22%2C%2214478%22%2C%2215129%22%2C%2215718%22%2C%2215724%22%2C%2215726%22%2C%2215730%22%2C%2215734%22%2C%2215739%22%5D%7D",
+  "source_sha256": "1378f848333259c99c08c18b92b25f4950b3b7e145316d78be120c78d52d38a4",
+  "published_sha256": "2907aff4c6e3353f81e3e07954ca97636139b42b66d5ade278cfd79a804284ce",
+  "corrected_sha256": "89e7df8842b8a56811b6aad978cc3ff2c6c81a67180b3f221eda53a14d9751b8",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "The official section explicitly states repeal and reenactment by Act 2021-556 effective November 4, 2021. Use that source date in In-force. The correction applies only to the existing November 3, 2026 snapshot range and reconstructs no earlier district text.",
+   "title": "Section 29-1-1.2 House Districts; Legal Actions; Official Maps; Severability; Effective Date.",
+   "content_sha256": "72e689fdcf476e6bcba2a4e7adbf81c61a65e78765b6ae3101f6faeeca95d9c7",
+   "approve_body_dates": true,
+   "source_start": "2021-11-04",
+   "quotes": [
+    "THIS SECTION WAS REPEALED AND REENACTED IN THE 2021 REGULAR SESSION BY ACT 2021-556 EFFECTIVE NOVEMBER 4, 2021. The Alabama House of Representatives shall consist of 105 members. Each member elected shall reside in the district which he or she represents or seeks to represent. The State of Alabama is divided into 105 House Districts as fo"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "2021-11-04",
+    "source_phrase": "NOVEMBER 4, 2021",
+    "context": "THIS SECTION WAS REPEALED AND REENACTED IN THE 2021 REGULAR SESSION BY ACT 2021-556 EFFECTIVE NOVEMBER 4, 2021. The Alabama House of Representatives shall consist of 105 members. Each member elected shall reside in the district which he or she represents or se"
+   }
+  ],
+  "source_start": "2021-11-04"
+ },
+ {
+  "file": "title-45/045-037a-051-001.md",
+  "section": "45-37A-51.01",
+  "code_id": "62315",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262315%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262323%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%2C%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262394%22%5D%7D",
+  "source_sha256": "59f2dd29debaafcfc86dafdb1770d9dd8179ad9e711513158a278e35deb72946",
+  "published_sha256": "044e3ef1c895664ff8edf6a510ea9112003b5fa996c2a8d515eed56bf181ffbd",
+  "corrected_sha256": "674f33288651b49ff6a01c18bc69f537f21232cfb6d98cbe90f84941841e7dde",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "May 2, 1978 anchors the 60-day deadline to hire an actuary. May 28, 1980 identifies incomplete administrative acts to be performed as soon as practicable; monthly supplemental payments start after a future city resolution. These are administrative deadlines and payment conditions, not commencement dates for the complete current wording. No current-wording date is stated in the heading or API. Preserve the explicitly labelled original retrieval-day record start, separately from the source check.",
+   "title": "Section 45-37A-51.01 Purpose.",
+   "content_sha256": "a5923c7c752ec2ff9d2ede55f1f464aa749bf9b16668713a38c6f318a77234cf",
+   "approve_body_dates": true,
+   "source_start": null,
+   "quotes": [
+    "51.05 payments are not adequate to pay all obligations of the system. e. System. The pension system this subpart establishes. (2) Within 60 days from May 2, 1978, the board of managers, established by Section 45-37A-51.03, shall employ a competent actuary by a contract providing for the actuary to submit to the board a written opinion on this question: Will the fund, with the Section 45-3",
+    "eto, becoming adequate to pay all obligations of the fund. Upon making such determination, the governing body shall adopt a resolution providing that beginning in the next calendar month subsequent to the adoption of such resolution the city shall pay monthly to the fund a supplemental payment in the amount which the governing body determines would result in the fund becoming adequate t",
+    "e of the supplemental payments by adopting a resolution providing for such discontinuance or reduction. (d) This subsection shall not apply if before May 28, 1980, the governing body of the city and the board of managers shall have taken all actions which subsection (b) and subsection (c) required the governing body and the board to take. If, before May 28, 1980, the governing body or the board has failed to perform any act which either subsection (b) or subsection (c) required the governing body or the board to perform, then as soon as practicable after May 28, 1980, the governing body of the city or the board, as the case may be, shall perform all acts which either subsection (b) or subsection (c) required the governing body or board to perform and which the governing body or board failed to perform before May 28, 1980."
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "1978-05-02",
+    "source_phrase": "May 2, 1978",
+    "context": "51.05 payments are not adequate to pay all obligations of the system. e. System. The pension system this subpart establishes. (2) Within 60 days from May 2, 1978, the board of managers, established by Section 45-37A-51.03, shall employ a competent actuary by a contract providing for the actuary to submit to th"
+   },
+   {
+    "date": "1980-05-28",
+    "source_phrase": "May 28, 1980",
+    "context": "e of the supplemental payments by adopting a resolution providing for such discontinuance or reduction. (d) This subsection shall not apply if before May 28, 1980, the governing body of the city and the board of managers shall have taken all actions which subsection (b) and subsection (c) required the governing"
+   },
+   {
+    "date": "1980-05-28",
+    "source_phrase": "May 28, 1980",
+    "context": " board of managers shall have taken all actions which subsection (b) and subsection (c) required the governing body and the board to take. If, before May 28, 1980, the governing body or the board has failed to perform any act which either subsection (b) or subsection (c) required the governing body or the board"
+   },
+   {
+    "date": "1980-05-28",
+    "source_phrase": "May 28, 1980",
+    "context": " perform any act which either subsection (b) or subsection (c) required the governing body or the board to perform, then as soon as practicable after May 28, 1980, the governing body of the city or the board, as the case may be, shall perform all acts which either subsection (b) or subsection (c) required the g"
+   },
+   {
+    "date": "1980-05-28",
+    "source_phrase": "May 28, 1980",
+    "context": "ither subsection (b) or subsection (c) required the governing body or board to perform and which the governing body or board failed to perform before May 28, 1980."
+   }
+  ],
+  "source_start": null
+ },
+ {
+  "file": "title-45/045-037a-051-009.md",
+  "section": "45-37A-51.09",
+  "code_id": "62323",
+  "source_url": "https://alison.legislature.state.al.us/graphql?query=query%28%24i%3A%5BID%21%5D%29%7Bx%3AcodesOfAlabama%28where%3A%7BcodeId%3A%7Bin%3A%24i%7D%7D%2CincludeAllVersions%3Atrue%2Climit%3A500%29%7Bcount+data%7BcodeId+parentId+displayId+title+effectiveDate+supersessionDate+content%7D%7D%7D&variables=%7B%22i%22%3A%5B%2245840%22%2C%2258756%22%2C%2260736%22%2C%2262315%22%2C%2262318%22%2C%2262319%22%2C%2262322%22%2C%2262323%22%2C%2262336%22%2C%2262350%22%2C%2262353%22%2C%2262360%22%2C%2262366%22%2C%2262369%22%2C%2262375%22%2C%2262377%22%2C%2262387%22%2C%2262390%22%2C%2262392%22%2C%2262394%22%5D%7D",
+  "source_sha256": "59f2dd29debaafcfc86dafdb1770d9dd8179ad9e711513158a278e35deb72946",
+  "published_sha256": "6da6a3fd126d5d738ddef8b7ce0728df01880df59d8676d1261541d69abb2fa3",
+  "corrected_sha256": "c89c6c7d730da16b8799140783785b8e8cbffe2d0023444056bfdbf136f69571",
+  "tables": 0,
+  "reasons": [],
+  "date_assessment": {
+   "assessment": "January 1, 2007 selects deaths or disabilities for military-service survivor benefits; fiscal years 2004 and 2005 select annuity calculations under PFEA. Annual January 1 cost-of-living adjustments and April 1 distribution deadlines are recurring schedules. IRC 1986, HEART Act 2008 and PFEA 2004 are reference names, not commencement dates of complete current wording. Preserve the explicitly labelled original retrieval-day record start separately from the source check.",
+   "title": "Section 45-37A-51.09 Compensation Limits; Forfeitures; Required Minimum Distributions; Direct Rollovers.",
+   "content_sha256": "87b292e481d7c4b878b3e035339afbacc4fa646881e981ede319063dd9c3156b",
+   "approve_body_dates": true,
+   "source_start": null,
+   "quotes": [
+    "(a) Compensation in excess of one hundred sixty thousand dollars ($160,000), or such other amount provided in the Internal Revenue Code of 1986, as amended, shall be disregarded. Such amount shall be adjusted for increases in the cost-of-living in accordance with Section 401(a)(17)(B), except that the dollar increase in effect on January 1 of any calendar year shall be effective for the fiscal years beginning with or within such calendar year. If compensation for any prior determination period is taken into account in determining a participant member’s benefits for the current fiscal year, the compensation for such prior determination period is subject to the applicable annual compensation limit in effect for that prior period. (b) Notwithstanding the foregoing and to the extent applicable to governmental plans as such are defined in Section 414(d) of the Internal Revenue Code of 1986, as amended, in no event may the normal retirement benefit exceed the annual dollar limits imposed by Section 415(b), excluding contributions under Section 414(h)(2). Further, no post severance compensation shall be included for any benefit ",
+    "s the date of severance from employment with the city; and those amounts would have been included in the definition of compensation if they were paid prior to the employee’s severance from employment. However the payment must be for (a) unused accrued bona fide sick, vacation, or other leave, but only if the participant member would have been able to use the leave if the participant me",
+    "e in the member’s gross income. Notwithstanding the foregoing, in all events no benefit payments shall exceed limits imposed on governmental plans by applicable law. (c) That portion of a terminated participant member’s benefit that is forfeited shall be used only to reduce future costs of the system at such time as it becomes a forfeiture. (d) Notwithstanding any provision in this subpa",
+    "y, if the distribution is to be in the form of a joint and survivor annuity or single family annuity, then distributions must begin no later than the applicable April 1st as determined under the preceding paragraph and must be made over the life of the participant member, or the lives of the participant member and the participant member’s designated beneficiary, in accordance with regula",
+    " be redetermined in accordance with regulations. The election, once made, shall be irrevocable. If no election is made by the time distributions must commence, then the life expectancy of the participant member and the participant member’s spouse shall not be subject to recalculation. Life expectancy and joint and last survivor expectancy shall be computed using the return multiples in",
+    " Section 401(a)(31). (f) Heroes Earnings Assistance and Relief Tax Act of 2008 (HEART Act) provisions. In the case of a death or disability occurring on or after January 1, 2007, if a member dies while performing qualified military service (as defined in Section 414(u)), the survivors of the member are entitled to any additional benefits (other than benefit accruals relating to the period of qualified mi",
+    "ction 415, if the system provides a benefit in a form that is subject to the minimum present value requirements of Section 417(e)(3) in a fiscal year beginning in 2004 or 2005, the actuarially equivalent straight life annuity that is used for demonstrating compliance with Section 415 shall be the greater of: (1) the straight life annuity determined using the system’s rate and system’s mortality table and (2) the straight life annuity determined using 5.5 percent and the applicable mortality table. A benefit is subject to the minimum present value requirements of Section 417(e)(3) if it is any benefit other than a non-decreasing annuity payable for a period of not less than the life of the member (or, in th"
+   ]
+  },
+  "body_dates": [
+   {
+    "date": "2007-01-01",
+    "source_phrase": "January 1, 2007",
+    "context": "(a)(31). (f) Heroes Earnings Assistance and Relief Tax Act of 2008 (HEART Act) provisions. In the case of a death or disability occurring on or after January 1, 2007, if a member dies while performing qualified military service (as defined in Section 414(u)), the survivors of the member are entitled to any additio"
+   }
+  ],
+  "source_start": null
+ }
+]
